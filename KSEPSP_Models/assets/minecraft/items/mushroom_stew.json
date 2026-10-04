@@ -1,0 +1,32 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Mashed Potatoes",
+					"Картофельное пюре"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/mushroom_stew/mashed_potatoes"
+				}
+			},
+			{
+				"when": [
+					"Pelmeni",
+					"Пельмени"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/mushroom_stew/pelmeni"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/mushroom_stew"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "armor:lovely_sweater",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "armor:lovely_sweater_overlay"
+      }
+    ]
+  }
+}

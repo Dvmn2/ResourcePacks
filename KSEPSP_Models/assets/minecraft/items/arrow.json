@@ -1,0 +1,112 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Bullet And Gunpowder",
+					"Стальной снаряд и порох"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/bullet_and_gunpowder"
+				}
+			},
+			{
+				"when": [
+					"Сartridge",
+					"Патрон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/cartridge"
+				}
+			},
+			{
+				"when": [
+					"Paper Сartridge",
+					"Бумажный патрон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/paper_cartridge"
+				}
+			},
+			{
+				"when": [
+					"Flamethrower Fuel",
+					"Топливо для огнемёта"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/flamethrower_fuel"
+				}
+			},
+			{
+				"when": [
+					"Fusion Cell",
+					"Ядерная батарея"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/fusion_cell"
+				}
+			},
+			{
+				"when": [
+					"Nail",
+					"Гвоздь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/nail"
+				}
+			},
+			{
+				"when": [
+					"Pipe Grenade",
+					"Гранатомётный снаряд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/pipe_grenade"
+				}
+			},
+			{
+				"when": [
+					"Rifle Cartridge",
+					"Винтовочный патрон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/rifle_cartridge"
+				}
+			},
+			{
+				"when": [
+					"Shotgun Shell",
+					"Дробовой патрон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/shotgun_shell"
+				}
+			},
+			{
+				"when": [
+					"Salt",
+					"Соль"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/arrow/salt"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/arrow"
+		}
+	}
+}

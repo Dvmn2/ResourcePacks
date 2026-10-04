@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "armor:green_scarf",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "armor:chaps",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "armor:chaps_overlay"
+      }
+    ]
+  }
+}

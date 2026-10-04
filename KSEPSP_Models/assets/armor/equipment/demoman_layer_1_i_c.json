@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "armor:demoman_layer_1"
+      }
+    ]
+  }
+}

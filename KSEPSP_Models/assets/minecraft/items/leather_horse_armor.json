@@ -1,0 +1,1676 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Acoustic-Electric Guitar",
+					"Электроакустическая гитара"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/acoustic_electric_guitar",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Bass",
+					"Бас-гитара"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/bass",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Explorer Electric Guitar",
+					"Электрогитара Explorer"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/explorer",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Firebird Electric Guitar",
+					"Электрогитара Firebird"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/firebird",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Flying V Electric Guitar",
+					"Электрогитара Flying V"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/flying_v",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Headless Electric Guitar",
+					"Безголовая электрогитара"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/headless_guitar",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Les Paul Electric Guitar",
+					"Электрогитара Les Paul"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/les_paul",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Mockingbird Electric Guitar",
+					"Электрогитара Mockingbird"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/mockingbird",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"RR Electric Guitar",
+					"Электрогитара RR"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/rr",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"SG Electric Guitar",
+					"Электрогитара SG"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/sg",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Star Electric Guitar",
+					"Электрогитара Star"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/star",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Stratocaster Electric Guitar",
+					"Электрогитара Stratocaster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/stratocaster",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Telecaster Electric Guitar",
+					"Электрогитара Telecaster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/telecaster",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Warlock Electric Guitar",
+					"Электрогитара Warlock"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/warlock",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Rolled Up Stained Umbrella",
+					"Свёрнутый окрашенный зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/rolled_up_stained_umbrella",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Stained Striped Umbrella",
+					"Окрашенный зонт в полоску"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/stained_striped_umbrella",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Stained Umbrella",
+					"Окрашенный зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/leather_horse_armor/stained_umbrella",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Body Drum",
+					"Нательный барабан"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/leather_horse_armor/body_drum",
+								"tints": [
+									{
+										"type": "minecraft:dye",
+										"default": -6265536
+									}
+								]
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/leather_horse_armor/body_drum_left_hand",
+						"tints": [
+							{
+								"type": "minecraft:dye",
+								"default": -6265536
+							}
+						]
+					}
+				}
+			},
+			{
+				"when": [
+					"Awning",
+					"Навес"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/awning",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Beach Umbrella",
+					"Пляжный зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/beach_umbrella",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Blinds",
+					"Жалюзи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/blinds",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Curtain",
+					"Шторы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/curtain",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"High Blinds",
+					"Высокие жалюзи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/high_blinds",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"High Curtain",
+					"Высокие шторы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/high_curtain",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Left Side Curtain",
+					"Левая часть штор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/left_side_curtain",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Left Side High Curtain",
+					"Левая часть высоких штор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/left_side_high_curtain",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Right Side Curtain",
+					"Правая часть штор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/right_side_curtain",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Right Side High Curtain",
+					"Правая часть высоких штор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/right_side_high_curtain",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Drum Set",
+					"Ударная установка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/drum_set",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Flagpole",
+					"Флагшток"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/flagpole",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Wall Flag",
+					"Настенный флаг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wall_flag",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Lounger",
+					"Шезлонг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/lounger",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Lounge Chair",
+					"Лежак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/lounge_chair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Pool Ball",
+					"Бильярдный шар"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pool_ball",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Striped Pool Ball",
+					"Полосатый бильярдный шар"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/striped_pool_ball",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Armor Sign Glyph",
+					"Символ брони на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/armor_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Bow Sign Glyph",
+					"Символ лука на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/bow_arrow_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Cage Sign Glyph",
+					"Символ клетки на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/cage_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Cross Sign Glyph",
+					"Символ креста на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/cross_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Diamond Sign Glyph",
+					"Символ алмаза на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/diamond_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Down Arrow Sign Glyph",
+					"Символ стрелки вниз на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/down_arrow_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Fishing Rod Sign Glyph",
+					"Символ удочки на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/fishing_rod_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Hammer Sign Glyph",
+					"Символ молота на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/hammer_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Hat Sign Glyph",
+					"Символ шляпы на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/hat_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Heart Sign Glyph",
+					"Символ сердца на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/heart_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Left Arrow Sign Glyph",
+					"Символ стрелки влево на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/left_arrow_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Line Sign Glyph",
+					"Символ линии на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/line_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Number Sign Glyph",
+					"Символ решётки на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/number_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Pickaxe Sign Glyph",
+					"Символ кирки на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pickaxe_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Potion Sign Glyph",
+					"Символ зелья на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/potion_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Right Arrow Sign Glyph",
+					"Символ стрелки вправо на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/right_arrow_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Skull Sign Glyph",
+					"Символ черепа на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/skull_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Sword Sign Glyph",
+					"Символ меча на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/sword_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Table Sign Glyph",
+					"Символ таблицы на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/table_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Up Arrow Sign Glyph",
+					"Символ стрелки вверх на табличке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/up_arrow_sign_glyph",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Towel Rack",
+					"Вешалка для полотенца"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/towel_rack",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Берёзовое кресло",
+					"Birch Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край берёзового дивана",
+					"Birch Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина берёзового дивана",
+					"Birch Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край берёзового дивана",
+					"Birch Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Кресло из тёмного дуба",
+					"Dark Oak Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край дивана из тёмного дуба",
+					"Dark Oak Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина дивана из тёмного дуба",
+					"Dark Oak Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край дивана из тёмного дуба",
+					"Dark Oak Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Кресло из тропического дерева",
+					"Jungle Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край дивана из тропического дерева",
+					"Jungle Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина дивана из тропического дерева",
+					"Jungle Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край дивана из тропического дерева",
+					"Jungle Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Дубовое кресло",
+					"Oak Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край дубового дивана",
+					"Oak Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина дубового дивана",
+					"Oak Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край дубового дивана",
+					"Oak Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Еловое кресло",
+					"Spruce Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край елового дивана",
+					"Spruce Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина елового дивана",
+					"Spruce Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край елового дивана",
+					"Spruce Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Еловый стул",
+					"Spruce Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_chair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Декоративный щит",
+					"Decoration Shield"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/decoration_shield",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Эмалированная раковина",
+					"Enameled Sink"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/enameled_sink",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Стол из тропического дерева",
+					"Jungle Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Маленький стол из тропического дерева",
+					"Small Jungle Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_jungle_table",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Угол стола из тропического дерева",
+					"Jungle Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table_corner",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Край стола из тропического дерева",
+					"Jungle Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table_edge",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Центр стола из тропического дерева",
+					"Jungle Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table_center",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край стола из тропического дерева",
+					"Jungle Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край стола из тропического дерева",
+					"Jungle Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина стола из тропического дерева",
+					"Jungle Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_table_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край дивана из акации",
+					"Acacia Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина дивана из акации",
+					"Acacia Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край дивана из акации",
+					"Acacia Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Кресло из акации",
+					"Acacia Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Стул из акации",
+					"Acacia Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_chair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Стул из тропического дерева",
+					"Jungle Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/jungle_chair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Железный стул",
+					"Iron Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_chair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край дивана из мангрового дерева",
+					"Mangrove Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край дивана из мангрового дерева",
+					"Mangrove Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина дивана из мангрового дерева",
+					"Mangrove Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Кресло из мангрового дерева",
+					"Mangrove Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Левый край железного дивана",
+					"Iron Couch Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_couch_left",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Правый край железного дивана",
+					"Iron Couch Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_couch_right",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Середина железного дивана",
+					"Iron Couch Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_couch_middle",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			},
+			{
+				"when": [
+					"Железное кресло",
+					"Iron Armchair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_armchair",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": -6265536
+						}
+					]
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/leather_horse_armor",
+			"tints": [
+				{
+					"type": "minecraft:dye",
+					"default": -6265536
+				}
+			]
+		}
+	}
+}

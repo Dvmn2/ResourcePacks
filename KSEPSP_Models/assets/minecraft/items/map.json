@@ -1,0 +1,42 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Playing Card",
+					"Игральная карта"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/map/playing_card"
+				}
+			},
+			{
+				"when": [
+					"Taro Card",
+					"Карта таро"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/map/taro_card"
+				}
+			},
+			{
+				"when": [
+					"Camera Film",
+					"Плёнка для фотоаппарата"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/map/camera_film"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/map"
+		}
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Ammo Box",
+					"Коробка с боеприпасами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/ammo_box"
+				}
+			},
+			{
+				"when": [
+					"Small Ammo Box",
+					"Маленькая коробка с боеприпасами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/small_ammo_box"
+				}
+			},
+			{
+				"when": [
+					"Briefcase",
+					"Портфель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/briefcase"
+				}
+			},
+			{
+				"when": [
+					"Case",
+					"Кейс"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/case"
+				}
+			},
+			{
+				"when": [
+					"Diplomat",
+					"Дипломат"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/diplomat"
+				}
+			},
+			{
+				"when": [
+					"Metal Case",
+					"Металлический кейс"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/metal_case"
+				}
+			},
+			{
+				"when": [
+					"Suitcase",
+					"Чемодан"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/suitcase"
+				}
+			},
+			{
+				"when": [
+					"Handbag",
+					"Наплечная сумка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/handbag"
+				}
+			},
+			{
+				"when": [
+					"Hiking Backpack",
+					"Походная сумка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/hiking_backpack"
+				}
+			},
+			{
+				"when": [
+					"Sport Bag",
+					"Спортивная сумка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"head"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/shulker_box/sport_bag"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/shulker_box/sport_bag_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Big Present",
+					"Большой подарок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/big_present"
+				}
+			},
+			{
+				"when": [
+					"Present",
+					"Подарок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/present"
+				}
+			},
+			{
+				"when": [
+					"Toolbox",
+					"Ящик для инструментов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/toolbox"
+				}
+			},
+			{
+				"when": [
+					"Parcel",
+					"Посылка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/parcel"
+				}
+			},
+			{
+				"when": [
+					"Medkit",
+					"Аптечка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/medkit"
+				}
+			},
+			{
+				"when": [
+					"Cigarette Carton",
+					"Блок сигарет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/cigarette_carton"
+				}
+			},
+			{
+				"when": [
+					"Sport Bag with Money",
+					"Спортивная сумка с деньгами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/shulker_box/sport_bag_with_money"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:special",
+			"model": {
+				"type": "minecraft:shulker_box",
+				"texture": "shulker"
+			},
+			"base": "minecraft:item/shulker_box"
+		}
+	}
+}

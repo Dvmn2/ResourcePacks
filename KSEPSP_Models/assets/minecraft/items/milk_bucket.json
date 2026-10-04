@@ -1,0 +1,52 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Bottle of Milk",
+					"Бутылочка молока"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/milk_bucket/bottle_of_milk"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/milk_bucket/bottle_of_milk_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Pickles",
+					"Маринованные огурчики"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/milk_bucket/pickles"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/milk_bucket"
+		}
+	}
+}

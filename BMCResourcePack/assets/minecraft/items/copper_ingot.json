@@ -1,0 +1,105 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": [
+                    "Poker Chip 1",
+                    "Покерная Фишка 1"
+                ],
+                "model": {
+                    "type": "minecraft:select",
+                    "property": "minecraft:display_context",
+                    "cases": [
+                        {
+                            "when": [
+                                "firstperson_righthand",
+                                "thirdperson_righthand",
+                                "firstperson_lefthand",
+                                "thirdperson_lefthand",
+                                "head",
+                                "ground",
+                                "fixed"
+                            ],
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "random:item/poker/poker_chip_1"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "random:item/poker/poker_chip_1_ui"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Poker Chip 5",
+                    "Покерная Фишка 5"
+                ],
+                "model": {
+                    "type": "minecraft:select",
+                    "property": "minecraft:display_context",
+                    "cases": [
+                        {
+                            "when": [
+                                "firstperson_righthand",
+                                "thirdperson_righthand",
+                                "firstperson_lefthand",
+                                "thirdperson_lefthand",
+                                "head",
+                                "ground",
+                                "fixed"
+                            ],
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "random:item/poker/poker_chip_5"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "random:item/poker/poker_chip_5_ui"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Poker Chip 15",
+                    "Покерная Фишка 15"
+                ],
+                "model": {
+                    "type": "minecraft:select",
+                    "property": "minecraft:display_context",
+                    "cases": [
+                        {
+                            "when": [
+                                "firstperson_righthand",
+                                "thirdperson_righthand",
+                                "firstperson_lefthand",
+                                "thirdperson_lefthand",
+                                "head",
+                                "ground",
+                                "fixed"
+                            ],
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "random:item/poker/poker_chip_15"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "random:item/poker/poker_chip_15_ui"
+                    }
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_nugget"
+        }
+    }
+}

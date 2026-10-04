@@ -1,0 +1,423 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Дружба",
+					"Friendship"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/mascott2"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"100 Делегатов\"",
+					"Poster \"100 Delegates\""
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/100"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"2018\"",
+					"\"2018\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/2018"
+				}
+			},
+			{
+				"when": [
+					"Вождь следит за тобой!",
+					"Leader Is Watching You!"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/andrej"
+				}
+			},
+			{
+				"when": [
+					"Лаврентий Берия",
+					"Lavrentiy Beria"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/bebria"
+				}
+			},
+			{
+				"when": [
+					"Карл Маркс",
+					"Karl Marx"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/carl_marx"
+				}
+			},
+			{
+				"when": [
+					"Настенный ковёр",
+					"Wall Carpet"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/carpet"
+				}
+			},
+			{
+				"when": [
+					"Данила Мопс",
+					"Danila Mops"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/dmops2"
+				}
+			},
+			{
+				"when": [
+					"Фридрих Энгельс",
+					"Freidrich Engels"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/engels"
+				}
+			},
+			{
+				"when": [
+					"Отец",
+					"Father"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/father_2"
+				}
+			},
+			{
+				"when": [
+					"Броневик",
+					"Armored Car"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/finch2"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Голосуй за счастливый город\"",
+					"\"Vote for Happy City!\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/gzsg"
+				}
+			},
+			{
+				"when": [
+					"Фюрер",
+					"Fuhrer"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/hitler"
+				}
+			},
+			{
+				"when": [
+					"Дом Августа",
+					"August's Home"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/home"
+				}
+			},
+			{
+				"when": [
+					"Гипер и Интроверт",
+					"Hyper and Introvert"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/hyper"
+				}
+			},
+			{
+				"when": [
+					"Феликс Дзержинский",
+					"Felix Dzerzhinsky"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/iron_felix"
+				}
+			},
+			{
+				"when": [
+					"Дэви Джонс нашего времени",
+					"Modern Davy Jones"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/jones"
+				}
+			},
+			{
+				"when": [
+					"Матросы Кронштадта",
+					"Kronstadt's Sailors"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/kronschtadt"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Слава КСЭПСП\"",
+					"\"Glory to KSEPSP\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/ksepsp"
+				}
+			},
+			{
+				"when": [
+					"Владимир Ленин",
+					"Vladimir Lenin"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/lenin"
+				}
+			},
+			{
+				"when": [
+					"Вождь Октября",
+					"October Leader"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/megalenin"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Пролетарии всех стран, соединяйтесь!\"",
+					"\"Proletarians of All Countries, Unite!\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/megamarx"
+				}
+			},
+			{
+				"when": [
+					"Феликс Дзержинский 1x1",
+					"Felix Dzerzhinsky 1x1"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/minifelix"
+				}
+			},
+			{
+				"when": [
+					"Владимир Ленин 1x1",
+					"Vladimir Lenin 1x1"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/minilenin"
+				}
+			},
+			{
+				"when": [
+					"Наполеон",
+					"Napoleon"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/napoleonpaint"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"КСЭПСП\"",
+					"\"KSEPSP\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/party"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Политбюро\"",
+					"\"Politburo\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/pb2"
+				}
+			},
+			{
+				"when": [
+					"Властный диктатор",
+					"Tyrannical Dictator"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/reddnum"
+				}
+			},
+			{
+				"when": [
+					"Революция",
+					"Revolution"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/revolut"
+				}
+			},
+			{
+				"when": [
+					"Иосиф Сталин",
+					"Joseph Stalin"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/stalin"
+				}
+			},
+			{
+				"when": [
+					"Троцкий, Ленин и Дзержинский",
+					"Trotsky, Lenin, Dzerzhinsky"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/tld"
+				}
+			},
+			{
+				"when": [
+					"Лев Троцкий",
+					"Leon Trotsky"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/trozkiy"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Ты!\"",
+					"\"You!\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/tzd"
+				}
+			},
+			{
+				"when": [
+					"Шадоу",
+					"Shadow"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/uporov"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Жители наш оплот!\"",
+					"\"Villagers Are Our Stronghold\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/vod"
+				}
+			},
+			{
+				"when": [
+					"Валидола",
+					"Validola"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/waidelos"
+				}
+			},
+			{
+				"when": [
+					"Сталин и Ворошилов",
+					"Stalin and Voroshilov"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/walk"
+				}
+			},
+			{
+				"when": [
+					"Плакат \"Не унесут фашиста ноги\"",
+					"\"Fascist Won't Run Away\" Poster"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/war"
+				}
+			},
+			{
+				"when": [
+					"Август",
+					"August"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/wunderbar"
+				}
+			},
+			{
+				"when": [
+					"Чертёж Зибсиса",
+					"Zibsis' Blueprint"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/ziba"
+				}
+			},
+			{
+				"when": [
+					"Кремневый всадник",
+					"Flint Rider"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/paintings/zibonapart"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/painting"
+		}
+	}
+}

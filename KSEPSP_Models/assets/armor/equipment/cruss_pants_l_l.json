@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "armor:cruss_pants",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "armor:cruss_pants_overlay"
+      }
+    ]
+  }
+}

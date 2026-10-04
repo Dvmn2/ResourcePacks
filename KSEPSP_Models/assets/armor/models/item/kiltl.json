@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/kiltl",
+    "layer1": "armor:item/kiltl_overlay"
+  }
+}

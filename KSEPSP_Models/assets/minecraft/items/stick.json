@@ -1,0 +1,240 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Skateboard",
+					"Скейтборд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/skateboard"
+				}
+			},
+			{
+				"when": [
+					"Cruiser",
+					"Круизер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/cruiser"
+				}
+			},
+			{
+				"when": [
+					"Longboard",
+					"Лонгборд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/longboard"
+				}
+			},
+			{
+				"when": [
+					"Trashed Skateboard",
+					"Потёртый скейтборд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/trashed_skateboard"
+				}
+			},
+			{
+				"when": [
+					"Scooter",
+					"Самокат"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:condition",
+								"property": "minecraft:keybind_down",
+								"keybind": "key.use",
+								"on_true": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/other/stick/scooter_using"
+								},
+								"on_false": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/other/stick/scooter"
+								}
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/stick/scooter"
+					}
+				}
+			},
+			{
+				"when": [
+					"Crutch",
+					"Костыль"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/crutch"
+				}
+			},
+			{
+				"when": [
+					"Double Bass",
+					"Контрабас"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/double_bass"
+				}
+			},
+			{
+				"when": [
+					"Drumstick",
+					"Барабанная палочка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/drumstick"
+				}
+			},
+			{
+				"when": [
+					"Hobbyhorse",
+					"Лошадь на палке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/hobbyhorse"
+				}
+			},
+			{
+				"when": [
+					"Old Umbrella",
+					"Старый зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/old_umbrella"
+				}
+			},
+			{
+				"when": [
+					"Pirate Bipod",
+					"Пиратская сошка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/pirate_bipod"
+				}
+			},
+			{
+				"when": [
+					"Rolled Up Old Umbrella",
+					"Свёрнутый старый зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/rolled_up_old_umbrella"
+				}
+			},
+			{
+				"when": [
+					"Rolled Up Umbrella",
+					"Свёрнутый зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/rolled_up_umbrella"
+				}
+			},
+			{
+				"when": [
+					"Skeleton Hobbyhorse",
+					"Скелет лошадь на палке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/skeleton_hobbyhorse"
+				}
+			},
+			{
+				"when": [
+					"Skull Walking Cane",
+					"Трость с черепом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/skull_walking_cane"
+				}
+			},
+			{
+				"when": [
+					"Tropical Umbrella",
+					"Тропический зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/tropical_umbrella"
+				}
+			},
+			{
+				"when": [
+					"Umbrella",
+					"Зонт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/umbrella"
+				}
+			},
+			{
+				"when": [
+					"Violin",
+					"Скрипка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/violin"
+				}
+			},
+			{
+				"when": [
+					"Walking Cane",
+					"Трость"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/walking_cane"
+				}
+			},
+			{
+				"when": [
+					"Zombie Hobbyhorse",
+					"Зомби лошадь на палке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/stick/zombie_hobbyhorse"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/stick"
+		}
+	}
+}

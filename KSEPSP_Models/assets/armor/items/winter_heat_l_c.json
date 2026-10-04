@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "armor:item/winter_heat",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      },
+      {
+        "type": "minecraft:constant",
+        "value": -1
+      }
+    ]
+  }
+}

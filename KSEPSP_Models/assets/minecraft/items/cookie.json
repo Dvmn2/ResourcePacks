@@ -1,0 +1,252 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Chocolate Cake",
+					"Шоколадный торт"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/cookie/chocolate_cake"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/cookie/chocolate_cake_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Cake Piece",
+					"Кусок торта"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/cake_piece"
+				}
+			},
+			{
+				"when": [
+					"Chocolate",
+					"Шоколад"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Bar",
+					"Плитка шоколада"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_bar"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Bar with Nuts",
+					"Плитка шоколада с орехами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_bar_with_nuts"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Chips Ice Cream",
+					"Мороженое с шоколадной крошкой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_chips_ice_cream"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Chips Serve",
+					"Рожок с шоколадной крошкой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_chips_serve"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Escimo",
+					"Шоколадное эскимо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_escimo"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Escimo with Nuts",
+					"Шоколадное эскимо с орехами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_escimo_with_nuts"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Ice Cream",
+					"Шоколадное мороженое"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_ice_cream"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Serve",
+					"Шоколадный рожок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_serve"
+				}
+			},
+			{
+				"when": [
+					"Chocolate Starfish",
+					"Шоколадная морская звезда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/chocolate_starfish"
+				}
+			},
+			{
+				"when": [
+					"Cream Ice Cream",
+					"Мороженое крем-брюле"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/cream_ice_cream"
+				}
+			},
+			{
+				"when": [
+					"Cream Serve",
+					"Рожок крем-брюле"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/cream_serve"
+				}
+			},
+			{
+				"when": [
+					"Experiment 115",
+					"Эксперимент 115"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/experiment_115"
+				}
+			},
+			{
+				"when": [
+					"Pistachio Serve",
+					"Фисташковый рожок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/pistachio_serve"
+				}
+			},
+			{
+				"when": [
+					"Strawberry Ice Cream",
+					"Клубничное мороженое"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/strawberry_ice_cream"
+				}
+			},
+			{
+				"when": [
+					"Strawberry Serve",
+					"Клубничный рожок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/strawberry_serve"
+				}
+			},
+			{
+				"when": [
+					"Vanilla Ice Cream",
+					"Ванильное мороженое"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/vanilla_ice_cream"
+				}
+			},
+			{
+				"when": [
+					"Vanilla Serve",
+					"Ванильный рожок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/vanilla_serve"
+				}
+			},
+			{
+				"when": [
+					"White Chocolate",
+					"Белый шоколад"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/white_chocolate"
+				}
+			},
+			{
+				"when": [
+					"White Chocolate Escimo",
+					"Эскимо с белым шоколадом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cookie/white_chocolate_escimo"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/cookie"
+		}
+	}
+}

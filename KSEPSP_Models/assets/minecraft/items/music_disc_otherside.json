@@ -1,0 +1,52 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Cassette",
+					"Кассета"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/music_disc/cassette/cassette_otherside"
+				}
+			},
+			{
+				"when": [
+					"CD",
+					"Компакт диск"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/music_disc/cd/cd_otherside"
+				}
+			},
+			{
+				"when": [
+					"Lullaby Medallion",
+					"Колыбельный медальон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/music_disc/lullaby_medallion/lullaby_medallion_otherside"
+				}
+			},
+			{
+				"when": [
+					"Key",
+					"Ключ"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/music_disc/key/key_11"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/music_disc_otherside"
+		}
+	}
+}

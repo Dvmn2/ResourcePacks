@@ -1,0 +1,72 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Hat Rack",
+					"Вешалка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/armor_stand/hat_rack"
+				}
+			},
+			{
+				"when": [
+					"Labaratory Door",
+					"Лабораторная дверь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/armor_stand/labaratory_door"
+				}
+			},
+			{
+				"when": [
+					"Passage In Brick Wall",
+					"Проход в кирпичной стене"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/armor_stand/passage_in_brick_wall"
+				}
+			},
+			{
+				"when": [
+					"Rack With Hangers",
+					"Стойка с плечиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/armor_stand/rack_with_hangers"
+				}
+			},
+			{
+				"when": [
+					"Shoji Door",
+					"Дверь сёдзи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/armor_stand/shoji_door"
+				}
+			},
+			{
+				"when": [
+					"Sliding Door",
+					"Раздвижная дверь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/armor_stand/sliding_door"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/armor_stand"
+		}
+	}
+}

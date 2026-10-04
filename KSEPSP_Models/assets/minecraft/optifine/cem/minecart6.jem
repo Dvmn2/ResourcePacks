@@ -1,0 +1,97 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/custom/minecart.png",
+	"textureSize": [1024, 1024],
+	"shadowSize": 0,
+	"models": [
+		{
+			"part": "front",
+			"id": "front",
+			"invertAxis": "xy",
+			"translate": [0, -1, -9],
+			"submodels": [
+				{
+					"id": "base",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [0, 90, 90],
+					"submodels": [
+						{
+							"id": "teleport",
+							"invertAxis": "xy",
+							"translate": [0, 0.005, 1],
+							"rotate": [-90, 0, -90],
+							"boxes": [
+								{"coordinates": [-5, -1.005, -5, 10, 2, 10], "textureOffset": [0, 998]},
+								{"coordinates": [-3, -0.995, -5, 6, 2, 10], "textureOffset": [0, 1012]}
+							],
+							"submodels": [
+								{
+									"id": "vruh",
+									"invertAxis": "xy",
+									"translate": [0, -7.005, 0],
+									"boxes": [
+										{"coordinates": [-2, 5, -2, 4, 1, 4], "textureOffset": [28, 1019]},
+										{"coordinates": [-9, 3, -9, 18, 0, 18], "textureOffset": [0, 960]},
+										{"coordinates": [-2, 4, 2, 4, 2, 8], "textureOffset": [0, 988]},
+										{"coordinates": [-2, 4, -10, 4, 2, 8], "textureOffset": [0, 978]}
+									],
+									"submodels": [
+										{
+											"id": "bone130",
+											"invertAxis": "xy",
+											"translate": [0, -0.5, 1],
+											"rotate": [25, 0, 0],
+											"boxes": [
+												{"coordinates": [-2.5, 5.07154, -2.01309, 5, 0, 4], "textureOffset": [25, 978]}
+											]
+										},
+										{
+											"id": "bone131",
+											"invertAxis": "xy",
+											"translate": [0, -0.5, -1],
+											"rotate": [-25, 0, 0],
+											"boxes": [
+												{"coordinates": [-2.5, 5.07154, -1.98691, 5, 0, 4], "textureOffset": [25, 982]}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"vruh.ry": "time/2"
+				}
+			]
+		},
+		{
+			"part": "back",
+			"id": "back",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "bottom",
+			"id": "bottom",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0],
+			"rotate": [-180, -180, -180]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -25, 7]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -25, -7]
+		}
+	]
+}

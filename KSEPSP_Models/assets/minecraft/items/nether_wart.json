@@ -1,0 +1,32 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Ground Coffee",
+					"Молотый кофе"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/nether_wart/ground_coffee"
+				}
+			},
+			{
+				"when": [
+					"Teabag",
+					"Чайный пакетик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/nether_wart/teabag"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/nether_wart"
+		}
+	}
+}

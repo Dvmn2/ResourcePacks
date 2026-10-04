@@ -1,0 +1,193 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/custom/allay.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0],
+			"submodels": [
+				{
+					"id": "pigeon",
+					"invertAxis": "xy",
+					"translate": [0, 5, -2],
+					"boxes": [
+						{
+							"coordinates": [-1, 0.5, -3, 2, 2, 2],
+							"uvNorth": [2, 55, 4, 57],
+							"uvEast": [0, 55, 2, 57],
+							"uvSouth": [6, 55, 8, 57],
+							"uvWest": [4, 55, 6, 57],
+							"uvUp": [2, 55, 4, 53],
+							"uvDown": [4, 53, 6, 55]
+						},
+						{
+							"coordinates": [0, 0.5, -4, 0, 1, 1],
+							"uvNorth": [8, 61, 16, 64],
+							"uvSouth": [24, 61, 32, 64],
+							"uvWest": [1, 54, 2, 55],
+							"uvUp": [8, 53, 16, 61],
+							"uvDown": [16, 53, 24, 61]
+						}
+					],
+					"submodels": [
+						{
+							"id": "pigeon_neck",
+							"invertAxis": "xy",
+							"translate": [0.5, 1.5, -0.75],
+							"rotate": [45, 0, 0],
+							"boxes": [
+								{
+									"coordinates": [-2, -2, 0, 3, 2, 2],
+									"uvNorth": [10, 55, 13, 57],
+									"uvEast": [8, 55, 10, 57],
+									"uvSouth": [13, 55, 16, 57],
+									"uvWest": [8, 53, 10, 55],
+									"uvUp": [10, 53, 13, 55],
+									"uvDown": [13, 53, 16, 55],
+									"sizeAdd": -0.01
+								}
+							]
+						},
+						{
+							"id": "pigeon_body",
+							"invertAxis": "xy",
+							"translate": [1, 1.5, -1],
+							"rotate": [22.5, 0, 0],
+							"boxes": [
+								{
+									"coordinates": [-2.5, -3, 1, 3, 3, 4],
+									"uvNorth": [4, 61, 7, 64],
+									"uvEast": [0, 61, 4, 64],
+									"uvSouth": [11, 61, 14, 64],
+									"uvWest": [7, 61, 11, 64],
+									"uvUp": [4, 61, 7, 57],
+									"uvDown": [10, 57, 7, 61]
+								}
+							]
+						},
+						{
+							"id": "pigeon_wing_left",
+							"invertAxis": "xy",
+							"translate": [-1.5, 0, -0.5],
+							"rotate": [67.5, 0, -90],
+							"boxes": [
+								{
+									"coordinates": [-0.75, -1.5, -0.5, 1, 3, 5],
+									"uvNorth": [22, 53, 23, 56],
+									"uvEast": [21, 56, 16, 59],
+									"uvSouth": [21, 53, 22, 56],
+									"uvWest": [16, 53, 21, 56],
+									"uvUp": [22, 56, 23, 61],
+									"uvDown": [21, 61, 22, 56]
+								}
+							]
+						},
+						{
+							"id": "pigeon_wing_right",
+							"invertAxis": "xy",
+							"translate": [1.5, 0, -0.5],
+							"rotate": [67.5, 0, 90],
+							"boxes": [
+								{
+									"coordinates": [-0.25, -1.5, -0.5, 1, 3, 5],
+									"uvNorth": [22, 53, 23, 56],
+									"uvEast": [21, 53, 16, 56],
+									"uvSouth": [21, 53, 22, 56],
+									"uvWest": [16, 56, 21, 59],
+									"uvUp": [22, 56, 23, 61],
+									"uvDown": [21, 61, 22, 56]
+								}
+							]
+						},
+						{
+							"id": "pigeon_legs",
+							"invertAxis": "xy",
+							"translate": [1, -2, 1.5],
+							"rotate": [-22.5, 0, 0],
+							"boxes": [
+								{
+									"coordinates": [-2.5, -2, 0, 3, 2, 0],
+									"uvNorth": [0, 57, 3, 59],
+									"uvEast": [0, 61, 8, 64],
+									"uvWest": [16, 61, 24, 64],
+									"uvUp": [8, 53, 16, 61],
+									"uvDown": [16, 53, 24, 61]
+								},
+								{
+									"coordinates": [-2.5, -2, -1, 3, 0, 1],
+									"uvNorth": [3, 59, 6, 61],
+									"uvEast": [0, 61, 8, 64],
+									"uvSouth": [3, 59, 6, 61],
+									"uvWest": [16, 61, 24, 64],
+									"uvUp": [0, 59, 3, 60]
+								}
+							]
+						},
+						{
+							"id": "pigeon_tail",
+							"invertAxis": "xy",
+							"translate": [0, 0, 3],
+							"boxes": [
+								{
+									"coordinates": [-1.5, -1.5, 0, 3, 1, 3],
+									"uvNorth": [23, 56, 26, 57],
+									"uvEast": [23, 61, 26, 62],
+									"uvSouth": [23, 60, 26, 61],
+									"uvWest": [26, 61, 23, 62],
+									"uvUp": [23, 53, 26, 56],
+									"uvDown": [23, 60, 26, 57],
+									"sizeAdd": -0.01
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"pigeon_wing_left.rz": "if(!is_on_ground,torad(-70)+sin(time/pi*3)*0.8,0)",
+					"pigeon_wing_right.rz": "if(!is_on_ground,torad(70)-sin(time/pi*3)*0.8,0)",
+					"pigeon_wing_left.rx": "if(!is_on_ground,torad(-67.5)+sin(time/pi*3)*0.2,torad(-22.5))",
+					"pigeon_wing_right.rx": "if(!is_on_ground,torad(-67.5)+sin(time/pi*3)*0.2,torad(-22.5))",
+					"pigeon_wing_left.ty": "if(!is_on_ground,sin(time/pi*3+1.35)*0.3,0)",
+					"pigeon_wing_right.ty": "if(!is_on_ground,sin(time/pi*3+1.35)*0.3,0)",
+					"pigeon.rx": "if(!is_on_ground,if(limb_speed>0.2,limb_speed*torad(5)+limb_speed*sin(time/pi/1.1)*0.1,sin(time/pi/1.1)*0.1),0)",
+					"pigeon_tail.rx": "if(!is_on_ground,sin(time/pi/1.1+1.3)*0.1,0)"
+				}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-1.75, -5.5, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [1.75, -5.5, 0]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [0.5, -6, -1]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-0.5, -6, -1]
+		}
+	]
+}

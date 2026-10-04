@@ -1,0 +1,52 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Buffalo Steak",
+					"Стейк из буйвола"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_beef/buffalo_steak"
+				}
+			},
+			{
+				"when": [
+					"Burger",
+					"Бургер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_beef/burger"
+				}
+			},
+			{
+				"when": [
+					"Buzuluks Sausage",
+					"Бузулукский колбас"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_beef/buzuluks_sausage"
+				}
+			},
+			{
+				"when": [
+					"Ender Steak",
+					"Драконий стейк"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_beef/ender_steak"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/cooked_beef"
+		}
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "ksepsp:item/tragedian_mask",
+		"particle": "ksepsp:item/tragedian_mask"
+	},
+	"elements": [
+		{
+			"from": [4.25, 1.25, 4.25],
+			"to": [11.75, 8.75, 4.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.25, 13.25, 12.25]},
+			"faces": {
+				"north": {"uv": [8.5, 0, 12.5, 4], "texture": "#0"},
+				"south": {"uv": [12, 0, 16, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [110, 15, -25],
+			"translation": [0.5, -4.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [110, 15, -25],
+			"translation": [0.5, -4.5, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [80, 20, 12.5],
+			"translation": [0.5, -3.5, 2.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [80, 20, 12.5],
+			"translation": [0.5, -3.5, 2.25]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -4.5, 4]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [5, 9, 0],
+			"scale": [1.95, 1.95, 1.95]
+		},
+		"head": {
+			"translation": [0, 5.8, 0],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"translation": [0, 7.75, 9.49],
+			"scale": [2, 2, 2]
+		}
+	}
+}

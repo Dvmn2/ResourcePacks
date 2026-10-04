@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "armor:vest",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      }
+    ]
+  }
+}

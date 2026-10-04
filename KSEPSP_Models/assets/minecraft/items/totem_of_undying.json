@@ -1,0 +1,482 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Apocalyptic Tire",
+					"Апокалиптическая покрышка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/apocalyptic_tire"
+				}
+			},
+			{
+				"when": [
+					"Balloonicorn",
+					"Надувнорог"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/balloonicorn"
+				}
+			},
+			{
+				"when": [
+					"Bills Eye",
+					"Глаз Билла"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/bills_eye"
+				}
+			},
+			{
+				"when": [
+					"Copper Cup",
+					"Медный кубок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/copper_cup"
+				}
+			},
+			{
+				"when": [
+					"Dead Ringer",
+					"Звон смерти"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/death_ringer"
+				}
+			},
+			{
+				"when": [
+					"Enchanted Walking Stick",
+					"Зачарованная трость"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/enchanted_walking_stick"
+				}
+			},
+			{
+				"when": [
+					"Epaulette",
+					"Эполет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/epaulette"
+				}
+			},
+			{
+				"when": [
+					"Flying Buddy",
+					"Летучий друг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/flying_buddy"
+				}
+			},
+			{
+				"when": [
+					"Gold Trophy",
+					"Золотая статуэтка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/gold_trophy"
+				}
+			},
+			{
+				"when": [
+					"Golden Battery",
+					"Золотая батарейка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/golden_battery"
+				}
+			},
+			{
+				"when": [
+					"Golden Cup",
+					"Золотой кубок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/golden_cup"
+				}
+			},
+			{
+				"when": [
+					"Golden Guitar Pick",
+					"Золотой медиатор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/golden_guitar_pick"
+				}
+			},
+			{
+				"when": [
+					"Golden Horseshoe",
+					"Золотая подкова"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/golden_horseshoe"
+				}
+			},
+			{
+				"when": [
+					"Interuniverse Watch",
+					"Межвселенские часы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/interuniverse_watch"
+				}
+			},
+			{
+				"when": [
+					"Iron Cross",
+					"Железный крест"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/iron_cross"
+				}
+			},
+			{
+				"when": [
+					"Iron Cup",
+					"Железный кубок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/iron_cup"
+				}
+			},
+			{
+				"when": [
+					"Netherite Mitten",
+					"Незеритовая рукавица"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/netherite_mitten"
+				}
+			},
+			{
+				"when": [
+					"Piglin Shield",
+					"Щит свиночеловека"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/piglin_shield"
+				}
+			},
+			{
+				"when": [
+					"Platinum Chip",
+					"Платиновая фишка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/platinum_chip"
+				}
+			},
+			{
+				"when": [
+					"Police Badge",
+					"Полицейский жетон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/police_badge"
+				}
+			},
+			{
+				"when": [
+					"Pocket Watch",
+					"Карманные часы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/pocket_watch"
+				}
+			},
+			{
+				"when": [
+					"Prayer Card",
+					"Икона"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/prayer_card"
+				}
+			},
+			{
+				"when": [
+					"Reanimator",
+					"Реаниматор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/reanimator"
+				}
+			},
+			{
+				"when": [
+					"Scapular",
+					"Наплечник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/scapular"
+				}
+			},
+			{
+				"when": [
+					"Small Watch",
+					"Маленькие наручные часы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/small_watch"
+				}
+			},
+			{
+				"when": [
+					"Terracotta Ankh",
+					"Терракотовый анх"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/terracotta_ankh"
+				}
+			},
+			{
+				"when": [
+					"Unchangeable Quarter",
+					"Неразменный четвертак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/unchangeable_quarter"
+				}
+			},
+			{
+				"when": [
+					"Watch",
+					"Наручные часы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/totem_of_undying/watch"
+				}
+			},
+			{
+				"when": [
+					"Red Mercury",
+					"Красная ртуть"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:local_time",
+					"pattern": "HH:mm:ss",
+					"cases": [
+						{
+							"when": "03:00:00",
+							"model": {
+								"type": "minecraft:select",
+								"property": "minecraft:display_context",
+								"cases": [
+									{
+										"when": [
+											"firstperson_righthand",
+											"firstperson_lefthand"
+										],
+										"model": {
+											"type": "minecraft:model",
+											"model": "ksepsp:item/9_0/other/totem_of_undying/red_mercury_special"
+										}
+									}
+								],
+								"fallback": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/other/totem_of_undying/red_mercury"
+								}
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/totem_of_undying/red_mercury"
+					}
+				}
+			},
+			{
+				"when": [
+					"Aglet",
+					"Аксельбант"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/totem_of_undying/aglet"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/totem_of_undying/aglet_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Enchanted Mantle",
+					"Зачарованная мантия"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/totem_of_undying/enchanted_mantle"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/totem_of_undying/enchanted_mantle_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Fairweather Gauntlet",
+					"Перчатка Фэйрвезер"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/totem_of_undying/fairweather_gauntlet"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/totem_of_undying/fairweather_gauntlet_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Nanomachines",
+					"Наномашины"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/totem_of_undying/nanomachines"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/totem_of_undying/nanomachines_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Pip-Boy",
+					"Пип-бой"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/other/totem_of_undying/pip_boy"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/other/totem_of_undying/pip_boy_left_hand"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/totem_of_undying"
+		}
+	}
+}

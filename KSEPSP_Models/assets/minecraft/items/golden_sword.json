@@ -1,0 +1,1687 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Dagger",
+					"Кинжал"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golden_dagger"
+				}
+			},
+			{
+				"when": [
+					"Broadsword",
+					"Палаш"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golden_broadsword"
+				}
+			},
+			{
+				"when": [
+					"Saber",
+					"Сабля"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golden_saber"
+				}
+			},
+			{
+				"when": [
+					"Small Sword",
+					"Шпага"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golden_small_sword"
+				}
+			},
+			{
+				"when": [
+					"Frying Pan",
+					"Сковорода"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golden_frying_pan"
+				}
+			},
+			{
+				"when": [
+					"Wrench",
+					"Гаечный ключ"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golden_wrench"
+				}
+			},
+			{
+				"when": [
+					"Flail",
+					"Кистень"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"head",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/flail"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/flail_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Mace",
+					"Булава"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"head",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/mace"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/mace_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Fist Of Steel",
+					"Стальной кулак"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/fist_of_steel"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/fist_of_steel_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Icicle",
+					"Сосулька"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/icicle"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/icicle_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Sharp Razor",
+					"Острая бритва"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/sharp_razor"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/sharp_razor_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Warrior Gauntlet",
+					"Рукавица воина"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/warrior_gauntlet"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/warrior_gauntlet_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Gunslinger",
+					"Оружейник"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/gunslinger"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/gunslinger_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Electroshock Baton",
+					"Электрошоковая дубинка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/electroshock_baton"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/electroshock_baton_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Police Baton",
+					"Полицейская дубинка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/police_baton"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/police_baton_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Swordstick",
+					"Меч-трость"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/swordstick"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/swordstick_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Blue Lightsaber",
+					"Голубой световой меч"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/blue_lightsaber"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/lightsaber_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Green Lightsaber",
+					"Зелёный световой меч"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/green_lightsaber"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/lightsaber_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Red Lightsaber",
+					"Красный световой меч"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/red_lightsaber"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/lightsaber_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Violet Lightsaber",
+					"Фиолетовый световой меч"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/violet_lightsaber"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/lightsaber_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Yellow Lightsaber",
+					"Жёлтый световой меч"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/yellow_lightsaber"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/lightsaber_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Lightstaff",
+					"Световой посох"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/lightstaff"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/lightstaff_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Cossack Saber",
+					"Казачья шашка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/cossack_saber"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/cossack_saber_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Hot Hand",
+					"Горячая рука"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/hot_hand"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/hot_hand_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Blue Boxing Glove",
+					"Синяя боксёрская перчатка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/blue_boxing_glove"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/blue_boxing_glove_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Red Boxing Glove",
+					"Красная боксёрская перчатка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/red_boxing_glove"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/red_boxing_glove_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Katana",
+					"Катана"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/katana"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/katana_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Murasama",
+					"Мурасама"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/murasama"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/murasama_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Butterfly Knife",
+					"Нож-бабочка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/butterfly_knife"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/butterfly_knife_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Flip Knife",
+					"Складной нож"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/flip_knife"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/flip_knife_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Kunai",
+					"Кунай"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/kunai"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/kunai_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Broken Bottle",
+					"Разбитая бутылка"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:damage",
+					"entries": [
+						{
+							"threshold": 0.01,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/broken_bottle1"
+							}
+						},
+						{
+							"threshold": 0.25,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/broken_bottle2"
+							}
+						},
+						{
+							"threshold": 0.5,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/broken_bottle3"
+							}
+						},
+						{
+							"threshold": 0.75,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/broken_bottle4"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/broken_bottle"
+					}
+				}
+			},
+			{
+				"when": [
+					"Ubersyringe",
+					"Убер-шприц"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:damage",
+					"entries": [
+						{
+							"threshold": 0.01,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/uber_syringe1"
+							}
+						},
+						{
+							"threshold": 0.25,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/uber_syringe2"
+							}
+						},
+						{
+							"threshold": 0.5,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/uber_syringe3"
+							}
+						},
+						{
+							"threshold": 0.75,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/uber_syringe4"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/uber_syringe"
+					}
+				}
+			},
+			{
+				"when": [
+					"Golden Mirror",
+					"Золотое зеркало"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:damage",
+					"entries": [
+						{
+							"threshold": 0.01,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/golden_mirror_cracked"
+							}
+						},
+						{
+							"threshold": 0.46,
+							"model": {
+								"type": "minecraft:condition",
+								"property": "minecraft:selected",
+								"on_true": {
+									"type": "minecraft:condition",
+									"property": "minecraft:keybind_down",
+									"keybind": "key.attack",
+									"on_true": {
+										"type": "minecraft:model",
+										"model": "ksepsp:item/9_0/weapons/sword/golden_mirror_broken_using"
+									},
+									"on_false": {
+										"type": "minecraft:model",
+										"model": "ksepsp:item/9_0/weapons/sword/golden_mirror_broken"
+									}
+								},
+								"on_false": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/weapons/sword/golden_mirror_broken"
+								}
+							}
+						},
+						{
+							"threshold": 0.5,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/sword/golden_mirror_broken"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/sword/golden_mirror"
+					}
+				}
+			},
+			{
+				"when": [
+					"Aluminium Baseball Bat",
+					"Алюминиевая бейсбольная бита"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/aluminium_baseball_bat"
+				}
+			},
+			{
+				"when": [
+					"Baseball Bat",
+					"Бейсбольная бита"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/baseball_bat"
+				}
+			},
+			{
+				"when": [
+					"Baseball Bat With Nails",
+					"Бейсбольная бита с гвоздями"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/baseball_bat_with_nails"
+				}
+			},
+			{
+				"when": [
+					"Club",
+					"Палица"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/club"
+				}
+			},
+			{
+				"when": [
+					"Stone Club",
+					"Каменная дубина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/stone_club"
+				}
+			},
+			{
+				"when": [
+					"Trench Club",
+					"Траншейная дубина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/trench_club"
+				}
+			},
+			{
+				"when": [
+					"Back Scratcher",
+					"Спиночёс"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/back_scratcher"
+				}
+			},
+			{
+				"when": [
+					"Bamboo Staff",
+					"Бамбуковый посох"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/bamboo_staff"
+				}
+			},
+			{
+				"when": [
+					"Battlestaff",
+					"Боевой посох"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/battlestaff"
+				}
+			},
+			{
+				"when": [
+					"Bo",
+					"Бо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/bo"
+				}
+			},
+			{
+				"when": [
+					"Candy Cane",
+					"Карамельная трость"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/candy_cane"
+				}
+			},
+			{
+				"when": [
+					"Mop",
+					"Швабра"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/mop"
+				}
+			},
+			{
+				"when": [
+					"Pool Cue",
+					"Бильярдный кий"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/pool_cue"
+				}
+			},
+			{
+				"when": [
+					"Battle Sickle",
+					"Боевой серп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/battle_sickle"
+				}
+			},
+			{
+				"when": [
+					"Bio Blade",
+					"Био-клинок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/bio_blade"
+				}
+			},
+			{
+				"when": [
+					"Boneyard",
+					"Могильник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/boneyard"
+				}
+			},
+			{
+				"when": [
+					"Bone Sword",
+					"Костяной меч"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/bone_sword"
+				}
+			},
+			{
+				"when": [
+					"Brass Knuckles",
+					"Кастет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/brass_knuckles"
+				}
+			},
+			{
+				"when": [
+					"Buzzy Nest",
+					"Шумный улей"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/buzzy_nest"
+				}
+			},
+			{
+				"when": [
+					"Claymore",
+					"Клеймор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/claymore"
+				}
+			},
+			{
+				"when": [
+					"Cleaver",
+					"Тесак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/cleaver"
+				}
+			},
+			{
+				"when": [
+					"Coal Iron",
+					"Угольный утюг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/coal_iron"
+				}
+			},
+			{
+				"when": [
+					"Coiled Sword",
+					"Витой меч"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/coiled_sword"
+				}
+			},
+			{
+				"when": [
+					"Crowbar",
+					"Лом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/crowbar"
+				}
+			},
+			{
+				"when": [
+					"Double-Blade Sword",
+					"Двух-клинковый меч"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/double_blade_sword"
+				}
+			},
+			{
+				"when": [
+					"Fan O War",
+					"Веер войны"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/fan_o_war"
+				}
+			},
+			{
+				"when": [
+					"Fighter Wraps",
+					"Бойцовские бинты"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/fighter_wraps"
+				}
+			},
+			{
+				"when": [
+					"Flamberge",
+					"Фламберг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/flamberge"
+				}
+			},
+			{
+				"when": [
+					"Gladius",
+					"Гладиус"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/gladius"
+				}
+			},
+			{
+				"when": [
+					"Glaive",
+					"Глефа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/glaive"
+				}
+			},
+			{
+				"when": [
+					"Sacred Glaive",
+					"Священная глефа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/sacred_glaive"
+				}
+			},
+			{
+				"when": [
+					"Golem Fist",
+					"Кулак голема"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golem_fist"
+				}
+			},
+			{
+				"when": [
+					"Golf Club",
+					"Клюшка для гольфа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/golf_club"
+				}
+			},
+			{
+				"when": [
+					"Guitar Pick",
+					"Медиатор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/guitar_pick"
+				}
+			},
+			{
+				"when": [
+					"Ham Bat",
+					"Мясная дубина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/ham_bat"
+				}
+			},
+			{
+				"when": [
+					"Heartstealer",
+					"Кровосос"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/heartstealer"
+				}
+			},
+			{
+				"when": [
+					"Heated Knife",
+					"Раскалённый нож"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/heated_knife"
+				}
+			},
+			{
+				"when": [
+					"Hedgehog Stick",
+					"Ежепалка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/hedgehog_stick"
+				}
+			},
+			{
+				"when": [
+					"Hockey Stick",
+					"Хоккейная клюшка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/hockey_stick"
+				}
+			},
+			{
+				"when": [
+					"Jousting Lance",
+					"Состязательный ланс"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/jousting_lance"
+				}
+			},
+			{
+				"when": [
+					"Muramasa",
+					"Мурамаса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/muramasa"
+				}
+			},
+			{
+				"when": [
+					"Bayonet",
+					"Штык-нож"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/bayonet"
+				}
+			},
+			{
+				"when": [
+					"Bowie Knife",
+					"Нож боуи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/bowie_knife"
+				}
+			},
+			{
+				"when": [
+					"Karambit",
+					"Керамбит"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/karambit"
+				}
+			},
+			{
+				"when": [
+					"Kitchen Knife",
+					"Кухонный нож"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/kitchen_knife"
+				}
+			},
+			{
+				"when": [
+					"Surgical Knife",
+					"Скальпель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/surgical_knife"
+				}
+			},
+			{
+				"when": [
+					"Your Eternal Reward",
+					"Вечный покой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/your_eternal_reward"
+				}
+			},
+			{
+				"when": [
+					"Ladle",
+					"Черпак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/ladle"
+				}
+			},
+			{
+				"when": [
+					"Lead Pipe",
+					"Кусок трубы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/lead_pipe"
+				}
+			},
+			{
+				"when": [
+					"Machete",
+					"Мачете"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/machete"
+				}
+			},
+			{
+				"when": [
+					"Mantis Blades",
+					"Клинки богомола"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/mantis_blades"
+				}
+			},
+			{
+				"when": [
+					"Pirate Hook",
+					"Пиратский крюк"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/pirate_hook"
+				}
+			},
+			{
+				"when": [
+					"Plastic Knife",
+					"Пластиковый нож"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/plastic_knife"
+				}
+			},
+			{
+				"when": [
+					"Pufferfist",
+					"Фугулак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/pufferfist"
+				}
+			},
+			{
+				"when": [
+					"Rapire",
+					"Рапира"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/rapire"
+				}
+			},
+			{
+				"when": [
+					"Rolling Pin",
+					"Скалка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/rolling_pin"
+				}
+			},
+			{
+				"when": [
+					"Cutlass",
+					"Абордажная сабля"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/cutlass"
+				}
+			},
+			{
+				"when": [
+					"Salmon",
+					"Лосось"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/salmon"
+				}
+			},
+			{
+				"when": [
+					"Sawblade",
+					"Пиломеч"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/sawblade"
+				}
+			},
+			{
+				"when": [
+					"Exotic Scimitar",
+					"Диковинный скимитар"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/exotic_scimitar"
+				}
+			},
+			{
+				"when": [
+					"Scimitar",
+					"Скимитар"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/scimitar"
+				}
+			},
+			{
+				"when": [
+					"Tempest Knife",
+					"Нож бури"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/tempest_knife"
+				}
+			},
+			{
+				"when": [
+					"Violin Bow",
+					"Смычок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/violin_bow"
+				}
+			},
+			{
+				"when": [
+					"Whip",
+					"Хлыст"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/whip"
+				}
+			},
+			{
+				"when": [
+					"Tiger Paw",
+					"Тигровая лапа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/tiger_paw"
+				}
+			},
+			{
+				"when": [
+					"Pipe Wrench",
+					"Разводной ключ"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/pipe_wrench"
+				}
+			},
+			{
+				"when": [
+					"Southern Hospitality",
+					"Южное гостеприимство"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/southern_hospitality"
+				}
+			},
+			{
+				"when": [
+					"Zweihander",
+					"Цвайхендер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/zweihander"
+				}
+			},
+			{
+				"when": [
+					"Conscientious Objector",
+					"Идейный уклонист"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/conscientious_objector"
+				}
+			},
+			{
+				"when": [
+					"Eviction Notice",
+					"С вещами на выход"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/eviction_notice"
+				}
+			},
+			{
+				"when": [
+					"Claw Fist",
+					"Коготь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/claw_fist"
+				}
+			},
+			{
+				"when": [
+					"Glass Shard",
+					"Осколок стекла"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/weapons/sword/glass_shard"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/golden_sword"
+		}
+	}
+}

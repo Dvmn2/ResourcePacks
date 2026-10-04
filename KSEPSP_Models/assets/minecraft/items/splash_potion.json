@@ -1,0 +1,68 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Jarate",
+					"Банкате"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/potions/grenade/jarate"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/potions/grenade/jarate_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Frag Grenade",
+					"Осколочная граната"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/potions/grenade/frag_grenade"
+				}
+			},
+			{
+				"when": [
+					"Stielhandgranate",
+					"Граната-колотушка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/potions/grenade/stielhandgranate"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/splash_potion",
+			"tints": [
+				{
+					"type": "minecraft:potion",
+					"default": 3628228
+				}
+			]
+		}
+	}
+}

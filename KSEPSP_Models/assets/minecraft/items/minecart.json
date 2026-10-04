@@ -1,0 +1,52 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Раздатчик Синих",
+					"Blu Dispenser"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/blu_dispenser"
+				}
+			},
+			{
+				"when": [
+					"Телепорт Синих",
+					"Blu Teleporter"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/blu_teleporter"
+				}
+			},
+			{
+				"when": [
+					"Раздатчик Красных",
+					"Red Dispenser"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/red_dispenser"
+				}
+			},
+			{
+				"when": [
+					"Телепорт Красных",
+					"Red Teleporter"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/red_teleporter"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/minecart"
+		}
+	}
+}

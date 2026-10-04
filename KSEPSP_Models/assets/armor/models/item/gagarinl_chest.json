@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/gagarinl_chest",
+    "layer1": "armor:item/gagarinl_chest_overlay"
+  }
+}

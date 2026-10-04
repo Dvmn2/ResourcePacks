@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/cloth_block_armor_winter_heat"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "armor:august_pants",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "armor:august_pants_overlay"
+      }
+    ]
+  }
+}

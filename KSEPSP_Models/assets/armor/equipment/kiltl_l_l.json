@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "armor:kiltl",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "armor:kiltl_overlay"
+      }
+    ]
+  }
+}

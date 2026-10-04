@@ -1,0 +1,2863 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Albatross",
+					"Альбатрос"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/albatross"
+				}
+			},
+			{
+				"when": [
+					"Dodo",
+					"Додо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/dodo"
+				}
+			},
+			{
+				"when": [
+					"Flying Broom",
+					"Метла для полётов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/flying_broom"
+				}
+			},
+			{
+				"when": [
+					"I-15",
+					"И-15"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/i_15"
+				}
+			},
+			{
+				"when": [
+					"Parachute",
+					"Парашют"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/parachute"
+				}
+			},
+			{
+				"when": [
+					"Red Baron",
+					"Красный барон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/red_baron"
+				}
+			},
+			{
+				"when": [
+					"Skimmer",
+					"Скиммер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/skimmer"
+				}
+			},
+			{
+				"when": [
+					"Sopwith Camel",
+					"Сопвит Верблюд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/mount/sopwith_camel"
+				}
+			},
+			{
+				"when": [
+					"Felt Hat",
+					"Фетровая шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/felt_hat"
+				}
+			},
+			{
+				"when": [
+					"Tam O Shanter",
+					"Тэм-о-шентер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/tam_o_shanter"
+				}
+			},
+			{
+				"when": [
+					"Balmoral Bonnet",
+					"Балморал"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/balmoral_bonnet"
+				}
+			},
+			{
+				"when": [
+					"Glengarry",
+					"Гленгарри"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/glengarry"
+				}
+			},
+			{
+				"when": [
+					"Guerrillero Heroico",
+					"Героический партизан"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/guerrillero_heroico"
+				}
+			},
+			{
+				"when": [
+					"Beret",
+					"Берет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/beret"
+				}
+			},
+			{
+				"when": [
+					"Military Beret",
+					"Военный берет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/military_beret"
+				}
+			},
+			{
+				"when": [
+					"Ol Geezer",
+					"Старикашка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/ol_geezer"
+				}
+			},
+			{
+				"when": [
+					"Combat Crusher Cap",
+					"Военная фуражка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/combat_crusher_cap"
+				}
+			},
+			{
+				"when": [
+					"Officer Peaked Cap",
+					"Офицерская фуражка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/officer_peaked_cap"
+				}
+			},
+			{
+				"when": [
+					"Winter Cap with Earmuffs",
+					"Зимняя фуражка с меховыми наушниками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/winter_cap_with_earmuffs"
+				}
+			},
+			{
+				"when": [
+					"Captain Peaked Cap",
+					"Фуражка капитана"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/captain_peaked_cap"
+				}
+			},
+			{
+				"when": [
+					"Sailor Cap",
+					"Бескозырка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/sailor_cap"
+				}
+			},
+			{
+				"when": [
+					"Dixie Cup",
+					"Американская бескозырка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/dixie_cup"
+				}
+			},
+			{
+				"when": [
+					"French Kepi",
+					"Французское кепи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/french_kepi"
+				}
+			},
+			{
+				"when": [
+					"Mountain Cap",
+					"Бергмютце"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/mountain_cap"
+				}
+			},
+			{
+				"when": [
+					"Pilot Peaked Cap",
+					"Фуражка пилота"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/pilot_peaked_cap"
+				}
+			},
+			{
+				"when": [
+					"Berliner Bucket Helmet",
+					"Боевой шлем берлинца"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/berliner_bucket_helm"
+				}
+			},
+			{
+				"when": [
+					"Sallet",
+					"Салад"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/sallet"
+				}
+			},
+			{
+				"when": [
+					"Kettle Hat",
+					"Шапель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/kettle_hat"
+				}
+			},
+			{
+				"when": [
+					"Eisenhut",
+					"Айзенхут"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/eisenhut"
+				}
+			},
+			{
+				"when": [
+					"Nasal Helmet",
+					"Норманнский шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/nasal_helmet"
+				}
+			},
+			{
+				"when": [
+					"Shelom Helmet",
+					"Шелом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/shelom"
+				}
+			},
+			{
+				"when": [
+					"Topfhelm",
+					"Топфхельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/topfhelm"
+				}
+			},
+			{
+				"when": [
+					"Teutonic Crusader",
+					"Тевтонский крестоносец"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/teutonic_crusader"
+				}
+			},
+			{
+				"when": [
+					"Hundsgugel",
+					"Хундсгугель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/hundsgugel"
+				}
+			},
+			{
+				"when": [
+					"Stechhelm",
+					"Штеххельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/stechhelm"
+				}
+			},
+			{
+				"when": [
+					"Armet",
+					"Армет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/armet"
+				}
+			},
+			{
+				"when": [
+					"Barbute",
+					"Барбют"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/barbute"
+				}
+			},
+			{
+				"when": [
+					"Gorgeous Bonnet",
+					"Роскошный берет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/bonnet/gorgeous_bonnet"
+				}
+			},
+			{
+				"when": [
+					"Knight Helmet",
+					"Рыцарский шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/knight_helmet"
+				}
+			},
+			{
+				"when": [
+					"Merchant Bonnet",
+					"Купеческий колпак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/merchant_bonnet"
+				}
+			},
+			{
+				"when": [
+					"Bycoket Cap",
+					"Байкокет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/bycoket_cap"
+				}
+			},
+			{
+				"when": [
+					"Hetman Headpiece",
+					"Гетманская шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/hetman_headpiece"
+				}
+			},
+			{
+				"when": [
+					"Rat King",
+					"Крысиный король"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/rat_king"
+				}
+			},
+			{
+				"when": [
+					"Capotain",
+					"Капотен"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/capotain"
+				}
+			},
+			{
+				"when": [
+					"Turban",
+					"Тюрбан"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/turban"
+				}
+			},
+			{
+				"when": [
+					"Coif",
+					"Койф"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/coif"
+				}
+			},
+			{
+				"when": [
+					"Eve",
+					"Ева"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/eve"
+				}
+			},
+			{
+				"when": [
+					"Fez",
+					"Феска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/fez"
+				}
+			},
+			{
+				"when": [
+					"Moretta",
+					"Моретта"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/mask/moretta"
+				}
+			},
+			{
+				"when": [
+					"Chaperon",
+					"Шаперон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/chaperon"
+				}
+			},
+			{
+				"when": [
+					"Medieval Hood",
+					"Средневековый худ"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/medieval_hood"
+				}
+			},
+			{
+				"when": [
+					"Tragedian Mask",
+					"Маска Трагика"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/mask/tragedian_mask"
+				}
+			},
+			{
+				"when": [
+					"Creature Mask",
+					"Маска Существа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/mask/creature_mask"
+				}
+			},
+			{
+				"when": [
+					"Tyrolean Hat",
+					"Тирольская шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/tyrolean_hat"
+				}
+			},
+			{
+				"when": [
+					"Cigarette",
+					"Сигарета"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"head",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:condition",
+								"property": "minecraft:keybind_down",
+								"keybind": "key.use",
+								"on_true": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/hats/miscelanious/cigarette_using"
+								},
+								"on_false": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/hats/miscelanious/cigarette"
+								}
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/hats/miscelanious/cigarette_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Cigar",
+					"Сигара"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"head",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:condition",
+								"property": "minecraft:keybind_down",
+								"keybind": "key.use",
+								"on_true": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/hats/miscelanious/cigar_using"
+								},
+								"on_false": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/9_0/hats/miscelanious/cigar"
+								}
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/hats/miscelanious/cigar_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Flat Cap",
+					"Плоская кепка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/flat_cap"
+				}
+			},
+			{
+				"when": [
+					"Leather Peaked Cap",
+					"Кожаная фуражка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/leather_peaked_cap"
+				}
+			},
+			{
+				"when": [
+					"Lenin Cap",
+					"Ленинка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/lenin_cap"
+				}
+			},
+			{
+				"when": [
+					"Newsboy Cap",
+					"Кепка газетчика"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/newsboy_cap"
+				}
+			},
+			{
+				"when": [
+					"Cowboy Hat",
+					"Ковбойская шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/cowboy_hat"
+				}
+			},
+			{
+				"when": [
+					"Fedora",
+					"Федора"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/fedora"
+				}
+			},
+			{
+				"when": [
+					"Commander Peaked Cap",
+					"Командирская фуражка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/commander_peaked_cap"
+				}
+			},
+			{
+				"when": [
+					"Team Captain",
+					"Капитан команды"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/team_captain"
+				}
+			},
+			{
+				"when": [
+					"Hat With No Name",
+					"Шляпа без имени"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/hat_with_no_name"
+				}
+			},
+			{
+				"when": [
+					"Round Glasses",
+					"Круглые очки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/glasses/round_glasses"
+				}
+			},
+			{
+				"when": [
+					"Cat Hoodie Hood",
+					"Капюшон толстовки с котиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/cat_hoodie_hood"
+				}
+			},
+			{
+				"when": [
+					"Railman Cap",
+					"Фуражка машиниста"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/railman_cap"
+				}
+			},
+			{
+				"when": [
+					"Rain Coat Hat",
+					"Шляпа от дождевика"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/rain_coat_hat"
+				}
+			},
+			{
+				"when": [
+					"Uniform Cap",
+					"Форменная фуражка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/cap/uniform_cap"
+				}
+			},
+			{
+				"when": [
+					"Asian Conical Hat",
+					"Азиатская коническая шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/asian_conical_hat"
+				}
+			},
+			{
+				"when": [
+					"Amphibian Sports Visor",
+					"Спортивный козырёк Амфибия"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/miscelanious/amphibian_sports_visor"
+				}
+			},
+			{
+				"when": [
+					"Fairweather Helmet",
+					"Шлем Фэйрвезер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/armor/fairweather_helmet"
+				}
+			},
+			{
+				"when": [
+					"Antlers",
+					"Оленьи рога"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/miscelanious/antlers"
+				}
+			},
+			{
+				"when": [
+					"Golden Crown",
+					"Золотая корона"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/golden_crown"
+				}
+			},
+			{
+				"when": [
+					"Flashing Beacon",
+					"Проблесковый маячок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/miscelanious/flashing_beacon"
+				}
+			},
+			{
+				"when": [
+					"Traffic Cone",
+					"Дорожный конус"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/miscelanious/traffic_cone"
+				}
+			},
+			{
+				"when": [
+					"Crocleather Slouch",
+					"Шляпа из крокодиловой кожи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/crocleather_slouch"
+				}
+			},
+			{
+				"when": [
+					"Billycock",
+					"Котелок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/billycock"
+				}
+			},
+			{
+				"when": [
+					"Pork Pie",
+					"Порк-пай"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/pork_pie"
+				}
+			},
+			{
+				"when": [
+					"Brim Full of Bullets",
+					"Пригоршня пуль"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/hats/hat/brim_full_of_bullets"
+				}
+			},
+			{
+				"when": [
+					"Anubis",
+					"Анубис"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/anubis"
+				}
+			},
+			{
+				"when": [
+					"Junktown Crown",
+					"Король свалки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/junktown_crown"
+				}
+			},
+			{
+				"when": [
+					"Rattlenake",
+					"Гремучая змея"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/rattlesnake"
+				}
+			},
+			{
+				"when": [
+					"Stormtrooper Helmet",
+					"Шлем штурмовика"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/stormtrooper_helmet"
+				}
+			},
+			{
+				"when": [
+					"Finch_94",
+					"Зяблик_94"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/finch94"
+				}
+			},
+			{
+				"when": [
+					"Red Army Robin",
+					"Красноармейская малиновка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/lil_poot"
+				}
+			},
+			{
+				"when": [
+					"Archimedes",
+					"Архимед"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pigeon"
+				}
+			},
+			{
+				"when": [
+					"Ubiquitous Dove",
+					"Вездесущий голубь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pigeon_real"
+				}
+			},
+			{
+				"when": [
+					"Archi-mech",
+					"Архи-мех"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pigeon_robo"
+				}
+			},
+			{
+				"when": [
+					"Pirate Bandana",
+					"Пиратская бандана"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bandana"
+				}
+			},
+			{
+				"when": [
+					"Komsomol's Superstar",
+					"Звезда Комсомола"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bandana_zvezda"
+				}
+			},
+			{
+				"when": [
+					"Hat from Hold",
+					"Шляпа из трюма"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/barbossa"
+				}
+			},
+			{
+				"when": [
+					"Beekeeper's Hat",
+					"Шляпа пчеловода"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/beebee"
+				}
+			},
+			{
+				"when": [
+					"Bicorn",
+					"Двууголка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bicorne"
+				}
+			},
+			{
+				"when": [
+					"Captain Taco",
+					"Капитан Чебурек"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bicorne_taco"
+				}
+			},
+			{
+				"when": [
+					"Pirate Hat",
+					"Пиратская шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pirate_bicorne"
+				}
+			},
+			{
+				"when": [
+					"Tricorn",
+					"Треуголка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pirate_tricorn"
+				}
+			},
+			{
+				"when": [
+					"French Bicorn",
+					"Французский бикорн"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bicorne_ala_bonaparte_var"
+				}
+			},
+			{
+				"when": [
+					"Tin Soldier",
+					"Оловянный солдатик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bicorne_robo"
+				}
+			},
+			{
+				"when": [
+					"Explosive Mind",
+					"Взрывные мысли"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/boom_n_gin"
+				}
+			},
+			{
+				"when": [
+					"Spy Box",
+					"Шпионский ящик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/box"
+				}
+			},
+			{
+				"when": [
+					"Brain Bowl",
+					"Миска с мозгами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/brain_bowl"
+				}
+			},
+			{
+				"when": [
+					"Brimstone",
+					"Сера"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/brimstone"
+				}
+			},
+			{
+				"when": [
+					"Polizemeister",
+					"Полицмейстер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bobby_bonnet"
+				}
+			},
+			{
+				"when": [
+					"Brodie Helmet",
+					"Каска Броди"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/brodie"
+				}
+			},
+			{
+				"when": [
+					"Budenovka",
+					"Будёновка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/budenovka"
+				}
+			},
+			{
+				"when": [
+					"Opened Budenovka",
+					"Раскрытая будёновка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/budenovka_open"
+				}
+			},
+			{
+				"when": [
+					"Buckethead",
+					"Ведроголовый"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/buckethead"
+				}
+			},
+			{
+				"when": [
+					"Protective Bonnet",
+					"Защитный шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/chepchik"
+				}
+			},
+			{
+				"when": [
+					"American Football Helmet",
+					"Футбольный шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/football_hat"
+				}
+			},
+			{
+				"when": [
+					"Hood",
+					"Зимний капюшон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/shuba"
+				}
+			},
+			{
+				"when": [
+					"Archeologist's Hat",
+					"Шляпа археолога"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/cockswain"
+				}
+			},
+			{
+				"when": [
+					"Unfortunate Commander",
+					"Несчастный командор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/commander"
+				}
+			},
+			{
+				"when": [
+					"Cowboy Tin-Gallon",
+					"Ковбойская техношляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/cowboy_hat_robo"
+				}
+			},
+			{
+				"when": [
+					"Sheriff's Hat",
+					"Шляпа шерифа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/sherif"
+				}
+			},
+			{
+				"when": [
+					"Danger",
+					"Опасность"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/danger"
+				}
+			},
+			{
+				"when": [
+					"Speculator",
+					"Спекулянт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/spekul"
+				}
+			},
+			{
+				"when": [
+					"Deadmau5",
+					"Мёртвая мышь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/deadmau5"
+				}
+			},
+			{
+				"when": [
+					"Cylinder",
+					"Цилиндр"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/cylinder"
+				}
+			},
+			{
+				"when": [
+					"Titanium Cylinder",
+					"Титановый цилиндр"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/cylinder_robo"
+				}
+			},
+			{
+				"when": [
+					"Demopan",
+					"Сковородник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/demopan"
+				}
+			},
+			{
+				"when": [
+					"Arabian Runaway",
+					"Аравийский беглец"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/aravbegl"
+				}
+			},
+			{
+				"when": [
+					"Transportable bomb",
+					"Перевозимая бомба"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bomb_hat"
+				}
+			},
+			{
+				"when": [
+					"Brain Interface",
+					"Мозговой интерфейс"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/brain_interface"
+				}
+			},
+			{
+				"when": [
+					"Hot Rod",
+					"Хот-род"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/hot_rod"
+				}
+			},
+			{
+				"when": [
+					"Miner's Lantern",
+					"Шахтёрский фонарь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/miner_cap"
+				}
+			},
+			{
+				"when": [
+					"Ilyich's Bulb",
+					"Лампочка Ильича"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/miner_cap_robo"
+				}
+			},
+			{
+				"when": [
+					"Mini-crafter",
+					"Мини-крафтер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/minicrafter"
+				}
+			},
+			{
+				"when": [
+					"Bugfly",
+					"Доктор Мухожук"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/muhojuk"
+				}
+			},
+			{
+				"when": [
+					"Trackman's Goggles",
+					"Очки обходчика путей"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/railman"
+				}
+			},
+			{
+				"when": [
+					"Welding Mask",
+					"Сварочная маска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/svar"
+				}
+			},
+			{
+				"when": [
+					"Firefighter's Helmet",
+					"Шлем пожарного"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fireman"
+				}
+			},
+			{
+				"when": [
+					"Fire Engine",
+					"Пожарная машина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fireman_robo"
+				}
+			},
+			{
+				"when": [
+					"Fox's Face",
+					"Морда лисы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fox"
+				}
+			},
+			{
+				"when": [
+					"White Fox's Face",
+					"Морда белой лисы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fox_hyper"
+				}
+			},
+			{
+				"when": [
+					"Space Helmet",
+					"Космо-шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gagarin"
+				}
+			},
+			{
+				"when": [
+					"Gas Mask",
+					"Противогаз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gas_mask"
+				}
+			},
+			{
+				"when": [
+					"Military Gas Mask",
+					"Военный противогаз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gas_mask_war"
+				}
+			},
+			{
+				"when": [
+					"Gas Face Mask",
+					"Противогазная маска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gas_resp"
+				}
+			},
+			{
+				"when": [
+					"Hazmat Headcase",
+					"Головной комплект химзащиты"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/haz_mask"
+				}
+			},
+			{
+				"when": [
+					"Last Breath",
+					"Последний вздох"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/last_breath"
+				}
+			},
+			{
+				"when": [
+					"Ghostly Gibus",
+					"Призрачный Гибус"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gibus"
+				}
+			},
+			{
+				"when": [
+					"Wreath",
+					"Венок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/caesar"
+				}
+			},
+			{
+				"when": [
+					"Left-eye Eyepatch",
+					"Глазная повязка на левый глаз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/eyepatch_1"
+				}
+			},
+			{
+				"when": [
+					"Right-eye Eyepatch",
+					"Глазная повязка на правый глаз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/eyepatch_2"
+				}
+			},
+			{
+				"when": [
+					"Pyrovision Goggles",
+					"Очки Пирозрения"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gas_glasses"
+				}
+			},
+			{
+				"when": [
+					"Glasses",
+					"Очки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/glasses"
+				}
+			},
+			{
+				"when": [
+					"Armorer's Goggles",
+					"Очки бронника"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/glasses_blacksmith"
+				}
+			},
+			{
+				"when": [
+					"Dark Glasses",
+					"Тёмные очки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/glasses_dark"
+				}
+			},
+			{
+				"when": [
+					"Scientist's Glasses",
+					"Очки учёного"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/glasses_illusioner"
+				}
+			},
+			{
+				"when": [
+					"Sniper's Glasses",
+					"Очки снайпера"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/glasses_sniper"
+				}
+			},
+			{
+				"when": [
+					"Meruniti's Glasses",
+					"Очки Мерунити"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/meruniti_glasses"
+				}
+			},
+			{
+				"when": [
+					"Monocle",
+					"Монокль"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/monokle"
+				}
+			},
+			{
+				"when": [
+					"Copper Goggles",
+					"Медные гогглы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/steampunk_glasses"
+				}
+			},
+			{
+				"when": [
+					"Earmuffs",
+					"Меховые наушники"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/headphones"
+				}
+			},
+			{
+				"when": [
+					"Sekai Kabuto",
+					"Секайское кабуто"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kabuto"
+				}
+			},
+			{
+				"when": [
+					"Senjutsu",
+					"Старые тактики Эдди"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kabuto_eddie"
+				}
+			},
+			{
+				"when": [
+					"Terrific Kabuto",
+					"Устрашающее кабуто"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kabuto_fear"
+				}
+			},
+			{
+				"when": [
+					"Shogun's Helmet",
+					"Шлем военного лидера"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/shogun_kabuto"
+				}
+			},
+			{
+				"when": [
+					"Imperial Helmet",
+					"Римский бисенхельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/roman"
+				}
+			},
+			{
+				"when": [
+					"Spartan Helmet",
+					"Спартанский шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/sparta"
+				}
+			},
+			{
+				"when": [
+					"Holy Warrior Helm",
+					"Шлем воина света"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/weather_master"
+				}
+			},
+			{
+				"when": [
+					"Stainless Steel Pot",
+					"Кастрюля из нержавейки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kastrula"
+				}
+			},
+			{
+				"when": [
+					"Sergeant's Drill Hat",
+					"Компанейская шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/komandors_hat"
+				}
+			},
+			{
+				"when": [
+					"Horal",
+					"Часовой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/chasi"
+				}
+			},
+			{
+				"when": [
+					"Lonten's Revenge",
+					"Месть Лонтена"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/lonten"
+				}
+			},
+			{
+				"when": [
+					"Pince-nez",
+					"Пенсне"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pensne"
+				}
+			},
+			{
+				"when": [
+					"Jew's Kippah",
+					"Ермолка иудея"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/zid"
+				}
+			},
+			{
+				"when": [
+					"Guy Fawkes' Mask",
+					"Маска Гая Фокса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/guyfoxmask"
+				}
+			},
+			{
+				"when": [
+					"Groucho's Mask",
+					"Очки Граучо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/jokemask"
+				}
+			},
+			{
+				"when": [
+					"Medical Mask",
+					"Медицинская маска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/medic_mask"
+				}
+			},
+			{
+				"when": [
+					"Otolaryngologist's Mirror",
+					"Зеркало отоларинголога"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/otolaringolog"
+				}
+			},
+			{
+				"when": [
+					"Robo-medic",
+					"Робо-врач"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/otolaringolog_robo"
+				}
+			},
+			{
+				"when": [
+					"Secretary Chaffinch",
+					"Секретарь Зяблик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/finch_head"
+				}
+			},
+			{
+				"when": [
+					"Arch-medic",
+					"Архимедик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/medimedes"
+				}
+			},
+			{
+				"when": [
+					"Bird Kiev",
+					"Птичка по-киевски"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/poot"
+				}
+			},
+			{
+				"when": [
+					"Sandwich Dispenser",
+					"Раздатчик бутербродов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pootis"
+				}
+			},
+			{
+				"when": [
+					"Shaman Skull",
+					"Шаманский череп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/merasmus"
+				}
+			},
+			{
+				"when": [
+					"Torque",
+					"Поварской колпак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/apple_in_chicken_soup"
+				}
+			},
+			{
+				"when": [
+					"Duelist",
+					"Дуэлянт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/duelant"
+				}
+			},
+			{
+				"when": [
+					"Pilot's Goggles",
+					"Очки пилота"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gogles"
+				}
+			},
+			{
+				"when": [
+					"Non-for-Blonde Hat",
+					"Шляпа не для блондинов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/non_blonde"
+				}
+			},
+			{
+				"when": [
+					"Top Notch",
+					"Тот самый Нотч"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/notch"
+				}
+			},
+			{
+				"when": [
+					"Officer's Ushanka",
+					"Офицерская ушанка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/off_ysh"
+				}
+			},
+			{
+				"when": [
+					"U-clank-a",
+					"Ушанка-бряцалка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/off_ysh_robo"
+				}
+			},
+			{
+				"when": [
+					"Pines Cap",
+					"Кепка Диппера"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/go_to_taco_bell"
+				}
+			},
+			{
+				"when": [
+					"Potion Helmet",
+					"Зельевой шлем"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/potion_cap"
+				}
+			},
+			{
+				"when": [
+					"Cap",
+					"Кепка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/yuri"
+				}
+			},
+			{
+				"when": [
+					"Photographer's Cape",
+					"Накидка фотографа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/photogr"
+				}
+			},
+			{
+				"when": [
+					"Flagpole",
+					"Флагштог"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/flagshtotz"
+				}
+			},
+			{
+				"when": [
+					"Introvert Chancellor",
+					"Застенчивый Канцлер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/introvert"
+				}
+			},
+			{
+				"when": [
+					"Vintage Merryweather",
+					"Винтажный шлем пожарного"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/merryweather"
+				}
+			},
+			{
+				"when": [
+					"Old Fritz",
+					"Старый Фриц"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/oldest_pruss"
+				}
+			},
+			{
+				"when": [
+					"Reichmacht Side Cap",
+					"Пилотка Рейхсмахта"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pilotka_reich"
+				}
+			},
+			{
+				"when": [
+					"Prussian Pickelhaube",
+					"Прусский пикельхельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pruss"
+				}
+			},
+			{
+				"when": [
+					"Platinum Pickelhaube",
+					"Платиновый пикельхельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pruss_robo"
+				}
+			},
+			{
+				"when": [
+					"Reichmacht Pickelhaube",
+					"Рейхсмахтский пикельхельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/reichmaht"
+				}
+			},
+			{
+				"when": [
+					"Military Pickelhaube",
+					"Военный пикельхельм"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/reichmark"
+				}
+			},
+			{
+				"when": [
+					"VALVE",
+					"Вентиль"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/valve"
+				}
+			},
+			{
+				"when": [
+					"Blighted Beak",
+					"Прокажённый клюв"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/plague"
+				}
+			},
+			{
+				"when": [
+					"Byte'd Beak",
+					"Луженый клюв"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/plague_robo"
+				}
+			},
+			{
+				"when": [
+					"Helmet X-01",
+					"Шлем X-01"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/anklave"
+				}
+			},
+			{
+				"when": [
+					"Helmet T-45",
+					"Шлем T-45"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/minuteman_power"
+				}
+			},
+			{
+				"when": [
+					"Helmet T-51",
+					"Шлем T-51"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/railroad_power"
+				}
+			},
+			{
+				"when": [
+					"Rasmus' Advent",
+					"Пришествие Размуса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/rasmus"
+				}
+			},
+			{
+				"when": [
+					"Idiot Box",
+					"Зомбоящик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/zomboyashik"
+				}
+			},
+			{
+				"when": [
+					"Side Cap",
+					"Пилотка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pilotka"
+				}
+			},
+			{
+				"when": [
+					"Shrapnel Casque",
+					"Шрапнельная каска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/shrapnel"
+				}
+			},
+			{
+				"when": [
+					"Cavalier",
+					"Кавалер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/cavalier"
+				}
+			},
+			{
+				"when": [
+					"Landsknecht",
+					"Ландскнехт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/landskneht"
+				}
+			},
+			{
+				"when": [
+					"Sniper's Hat",
+					"Шляпа снайпера"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/sniper"
+				}
+			},
+			{
+				"when": [
+					"Aimbot",
+					"Аимбот"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/sniper_robo"
+				}
+			},
+			{
+				"when": [
+					"Snowcapped",
+					"Снежный козырёк"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/snowcapper"
+				}
+			},
+			{
+				"when": [
+					"Wide-Brimmed Bandito",
+					"Широкополый бандитто"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/sombrero"
+				}
+			},
+			{
+				"when": [
+					"Scuba",
+					"Акваланг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/akva3"
+				}
+			},
+			{
+				"when": [
+					"Bow",
+					"Бант"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/bow_back"
+				}
+			},
+			{
+				"when": [
+					"Dragonborn Helmet",
+					"Шлем Драконорожденного"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/dragonborn"
+				}
+			},
+			{
+				"when": [
+					"Paraglasses",
+					"Параочки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/ecto_goggles"
+				}
+			},
+			{
+				"when": [
+					"Raccoon Hat",
+					"Шапка из енота"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/enot"
+				}
+			},
+			{
+				"when": [
+					"Eye Implant",
+					"Глазной имплант"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/exam_monocle"
+				}
+			},
+			{
+				"when": [
+					"Fennec's Face",
+					"Морда феника"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/faradey"
+				}
+			},
+			{
+				"when": [
+					"VR Goggles",
+					"Визор виртуальной реальности"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/future_vr"
+				}
+			},
+			{
+				"when": [
+					"Harry",
+					"Гарри"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/garry"
+				}
+			},
+			{
+				"when": [
+					"Prussian Grenadier",
+					"Прусская гренадёрка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gren"
+				}
+			},
+			{
+				"when": [
+					"Hussar Shako",
+					"Гусарский кивер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/gusar_kiver"
+				}
+			},
+			{
+				"when": [
+					"Headphones",
+					"Наушники"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/headph"
+				}
+			},
+			{
+				"when": [
+					"Horns",
+					"Рога"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/horns"
+				}
+			},
+			{
+				"when": [
+					"Pumpkinhead",
+					"Тыкво-головый"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/horseless_headless_horsemanns_head"
+				}
+			},
+			{
+				"when": [
+					"Hockey Mask",
+					"Хоккейная маска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/jason"
+				}
+			},
+			{
+				"when": [
+					"Judge's Hat",
+					"Судейский парик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/judge"
+				}
+			},
+			{
+				"when": [
+					"Boater",
+					"Канотье"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kanotye"
+				}
+			},
+			{
+				"when": [
+					"Shako",
+					"Кивер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kiver"
+				}
+			},
+			{
+				"when": [
+					"Ceremonial Shako",
+					"Парадный кивер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kiver_shel"
+				}
+			},
+			{
+				"when": [
+					"Rich Hat",
+					"Богатый колпак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kolpak_sp"
+				}
+			},
+			{
+				"when": [
+					"Ninja Bandage",
+					"Повязка ниндзя"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/konoha"
+				}
+			},
+			{
+				"when": [
+					"Papakha",
+					"Папаха"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kuhma"
+				}
+			},
+			{
+				"when": [
+					"Hearing Protectors",
+					"Шумопоглощающие наушники"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/naschuschniken2000"
+				}
+			},
+			{
+				"when": [
+					"Halo",
+					"Нимб"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/nimb"
+				}
+			},
+			{
+				"when": [
+					"Kalimavkion",
+					"Камилавка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pops_pops"
+				}
+			},
+			{
+				"when": [
+					"Private Eye",
+					"Частный сыщик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/private_eye"
+				}
+			},
+			{
+				"when": [
+					"Pop-Eye",
+					"Пучеглаз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/pucheglaz"
+				}
+			},
+			{
+				"when": [
+					"Rainbow Hat",
+					"Радужная шапка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/reggilator"
+				}
+			},
+			{
+				"when": [
+					"Respirator",
+					"Респиратор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/resp"
+				}
+			},
+			{
+				"when": [
+					"Thief's Mask",
+					"Маска воришки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/rob"
+				}
+			},
+			{
+				"when": [
+					"Christmas Hat",
+					"Рождественский колпак"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/santa"
+				}
+			},
+			{
+				"when": [
+					"Stout Shako",
+					"Прочный кивер"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/stout_shako"
+				}
+			},
+			{
+				"when": [
+					"Transcendence",
+					"Трансцендентность"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/transendent"
+				}
+			},
+			{
+				"when": [
+					"Hellsing",
+					"Хеллсинг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/van_helsing"
+				}
+			},
+			{
+				"when": [
+					"VR Helmet",
+					"Очки виртуальной реальности"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/vr"
+				}
+			},
+			{
+				"when": [
+					"Robber's Balaclava",
+					"Балаклава грабителя"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/grab"
+				}
+			},
+			{
+				"when": [
+					"NVG",
+					"Очки ночного зрения"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/n_vision"
+				}
+			},
+			{
+				"when": [
+					"Spy's Balaclava",
+					"Балаклава шпиона"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/spy_red"
+				}
+			},
+			{
+				"when": [
+					"Spy's Mask",
+					"Маска шпиона"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/true_spy_red"
+				}
+			},
+			{
+				"when": [
+					"Unfortunate Monopolist",
+					"Неудачливый монополист"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/toppat"
+				}
+			},
+			{
+				"when": [
+					"Modest Pile of Hat",
+					"Небольшой набор шляп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/modest_pile_of_hats"
+				}
+			},
+			{
+				"when": [
+					"Noble Amassment of Hats",
+					"Знатная куча шляп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/noble_amassment_of_hats"
+				}
+			},
+			{
+				"when": [
+					"Towering Pillar of Hats",
+					"Гигантская башня из шляп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/towering_pillar_of_hats"
+				}
+			},
+			{
+				"when": [
+					"Cardinal Richelieu",
+					"Кардинал Ришилье"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/kardinal"
+				}
+			},
+			{
+				"when": [
+					"Captain Finch",
+					"Капитан Зяблик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/triangle_hat"
+				}
+			},
+			{
+				"when": [
+					"Smoking Pipe",
+					"Трубка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/trubka"
+				}
+			},
+			{
+				"when": [
+					"Lord L.'s Mutton Chops and Pipe",
+					"Бакенбарды и трубка лорда Л."
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/trubka_2"
+				}
+			},
+			{
+				"when": [
+					"Desert Hat",
+					"Шляпа жителя пустыни"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/desert_vil"
+				}
+			},
+			{
+				"when": [
+					"Straw Hat",
+					"Соломенная шляпа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/farmer_vil"
+				}
+			},
+			{
+				"when": [
+					"Old Fisherman's Hat",
+					"Шляпа старого рыбака"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fisherman_old"
+				}
+			},
+			{
+				"when": [
+					"Fisherman's Hat",
+					"Шляпа рыбака"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fisherman_vil"
+				}
+			},
+			{
+				"when": [
+					"Fletcher's Hat",
+					"Шляпа лучника"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/fletcher_vil"
+				}
+			},
+			{
+				"when": [
+					"Librarian's Hat",
+					"Шляпа библиотекаря"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/librarian_vil"
+				}
+			},
+			{
+				"when": [
+					"Savannah Wreath",
+					"Венок жителя саванны"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/savanna_vil"
+				}
+			},
+			{
+				"when": [
+					"Shepherd's Hat",
+					"Шляпа пастуха"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/shepherd_vil"
+				}
+			},
+			{
+				"when": [
+					"Taiga Hat",
+					"Шапка жителя тайги"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/snow_vil"
+				}
+			},
+			{
+				"when": [
+					"Swamp Hat",
+					"Шляпа жителя болот"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/swamp_vil"
+				}
+			},
+			{
+				"when": [
+					"Stainless Steel Plate",
+					"Нержавеющий лист"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/swamp_vil_robo"
+				}
+			},
+			{
+				"when": [
+					"Straw Toothpick",
+					"Соломенная зубочистка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/toothpick"
+				}
+			},
+			{
+				"when": [
+					"Witch's Hat",
+					"Шляпа ведьмы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/witch_vil"
+				}
+			},
+			{
+				"when": [
+					"Winter Hat",
+					"Зимняя шапка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/winter_hat"
+				}
+			},
+			{
+				"when": [
+					"Gentleman's Ushanka",
+					"Джентельменская ушанка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/dz_ushanka"
+				}
+			},
+			{
+				"when": [
+					"Stylish Ushanka",
+					"Модная ушанка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/sp_ush"
+				}
+			},
+			{
+				"when": [
+					"Ushanka",
+					"Ушанка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/hats/ysh"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/carved_pumpkin"
+		}
+	}
+}

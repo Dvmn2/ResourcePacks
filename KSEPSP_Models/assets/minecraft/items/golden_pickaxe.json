@@ -1,0 +1,243 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Big Pickaxe",
+					"Большая кирка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/golden_big_pickaxe"
+				}
+			},
+			{
+				"when": [
+					"Hammer",
+					"Молот"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/golden_hammer"
+				}
+			},
+			{
+				"when": [
+					"Anchor",
+					"Якорь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/anchor"
+				}
+			},
+			{
+				"when": [
+					"Cooper Anchor",
+					"Медный якорь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/cooper_anchor"
+				}
+			},
+			{
+				"when": [
+					"Encrusted Anchor",
+					"Инкрустированный якорь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/encrusted_anchor"
+				}
+			},
+			{
+				"when": [
+					"Lost Anchor",
+					"Потерянный якорь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/lost_anchor"
+				}
+			},
+			{
+				"when": [
+					"Bone Pickaxe",
+					"Костяная кирка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/bone_pickaxe"
+				}
+			},
+			{
+				"when": [
+					"Chisel",
+					"Стамеска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/chisel"
+				}
+			},
+			{
+				"when": [
+					"Smithing Chisel",
+					"Кузнечная стамеска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/smithing_chisel"
+				}
+			},
+			{
+				"when": [
+					"Construction Hammer",
+					"Строительный молоток"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/construction_hammer"
+				}
+			},
+			{
+				"when": [
+					"Big Dig",
+					"Тунелерой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/big_dig"
+				}
+			},
+			{
+				"when": [
+					"Drill",
+					"Бур"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/drill"
+				}
+			},
+			{
+				"when": [
+					"Entrenching Tool",
+					"Шанцевый инструмент"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/entrenching_tool"
+				}
+			},
+			{
+				"when": [
+					"File",
+					"Напильник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/file"
+				}
+			},
+			{
+				"when": [
+					"Infested Pickaxe",
+					"Заражённая кирка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/infested_pickaxe"
+				}
+			},
+			{
+				"when": [
+					"Laser Drill",
+					"Лазерный бур"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/laser_drill"
+				}
+			},
+			{
+				"when": [
+					"Mountaineer Pick",
+					"Ледоруб"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/mountaineer_pick"
+				}
+			},
+			{
+				"when": [
+					"Plastic Fork",
+					"Пластиковая вилка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/plastic_fork"
+				}
+			},
+			{
+				"when": [
+					"Screwdriver",
+					"Отвёртка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/screwdriver"
+				}
+			},
+			{
+				"when": [
+					"Sledgehammer",
+					"Кувалда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/sledgehammer"
+				}
+			},
+			{
+				"when": [
+					"Smithing Hammer",
+					"Кузнечная кувалда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/smithing_hammer"
+				}
+			},
+			{
+				"when": [
+					"Thaw",
+					"Капель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/thaw"
+				}
+			},
+			{
+				"when": [
+					"Equalizer",
+					"Уравнитель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/pickaxe/equalizer"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/golden_pickaxe"
+		}
+	}
+}

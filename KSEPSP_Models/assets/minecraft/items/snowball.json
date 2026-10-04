@@ -1,0 +1,42 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Baseball",
+					"Бейсбольный мяч"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/snowball/baseball"
+				}
+			},
+			{
+				"when": [
+					"Stone",
+					"Камень"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/other/snowball/stone"
+				}
+			},
+			{
+				"when": [
+					"Plate",
+					"Тарелка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/plate"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/snowball"
+		}
+	}
+}
