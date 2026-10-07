@@ -1,0 +1,37 @@
+{
+    "whales1": {
+        "sounds": [
+            "s:whales1"
+        ]
+    },
+    "whales2": {
+        "sounds": [
+            "s:whales2"
+        ]
+    },
+    "submarine_exterior": {
+        "sounds": [
+            "s:submarine_exterior"
+        ]
+    },
+    "submarine_interior1": {
+        "sounds": [
+            "s:submarine_interior1"
+        ]
+    },
+    "submarine_interior2": {
+        "sounds": [
+            "s:submarine_interior2"
+        ]
+    },
+    "submarine_interior3": {
+        "sounds": [
+            "s:submarine_interior3"
+        ]
+    },
+    "submarine_interior4": {
+        "sounds": [
+            "s:submarine_interior4"
+        ]
+    }
+}

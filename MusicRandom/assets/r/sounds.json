@@ -1,0 +1,17 @@
+{
+    "guitar_duo": {
+        "sounds": [
+            "r:guitar_duo"
+        ]
+    },
+    "nemo": {
+        "sounds": [
+            "r:nemo"
+        ]
+    },
+    "they": {
+        "sounds": [
+            "r:they"
+        ]
+    }
+}

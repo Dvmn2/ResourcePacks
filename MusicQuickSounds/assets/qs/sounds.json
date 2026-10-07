@@ -1,0 +1,77 @@
+{
+    "whales1": {
+        "sounds": [
+            "qs:whales1"
+        ]
+    },
+    "whales2": {
+        "sounds": [
+            "qs:whales2"
+        ]
+    },
+    "whales3": {
+        "sounds": [
+            "qs:whales3"
+        ]
+    },
+    "whales4": {
+        "sounds": [
+            "qs:whales4"
+        ]
+    },
+    "whales5": {
+        "sounds": [
+            "qs:whales5"
+        ]
+    },
+    "buttoned_down": {
+        "sounds": [
+            "qs:buttoned_down"
+        ]
+    },
+    "buttoned_up": {
+        "sounds": [
+            "qs:buttoned_up"
+        ]
+    },
+    "dressed_off1": {
+        "sounds": [
+            "qs:dressed_off1"
+        ]
+    },
+    "dressed_off2": {
+        "sounds": [
+            "qs:dressed_off2"
+        ]
+    },
+    "dressed_on1": {
+        "sounds": [
+            "qs:dressed_on1"
+        ]
+    },
+    "dressed_on2": {
+        "sounds": [
+            "qs:dressed_on2"
+        ]
+    },
+    "metal_impact": {
+        "sounds": [
+            "qs:metal_impact"
+        ]
+    },
+    "metal_knock": {
+        "sounds": [
+            "qs:metal_knock"
+        ]
+    },
+    "submarine_pulse": {
+        "sounds": [
+            "qs:submarine_pulse"
+        ]
+    },
+    "submarine_interior1": {
+        "sounds": [
+            "qs:submarine_interior1"
+        ]
+    }
+}
