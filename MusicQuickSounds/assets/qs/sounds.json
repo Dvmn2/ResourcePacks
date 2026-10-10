@@ -1,27 +1,72 @@
 {
-    "whales1": {
+    "ability": {
         "sounds": [
-            "qs:whales1"
+            "qs:ability"
         ]
     },
-    "whales2": {
+    "animatronic_sprint_1": {
         "sounds": [
-            "qs:whales2"
+            "qs:animatronic_sprint_1"
         ]
     },
-    "whales3": {
+    "animatronic_sprint_2": {
         "sounds": [
-            "qs:whales3"
+            "qs:animatronic_sprint_2"
         ]
     },
-    "whales4": {
+    "animatronic_sprint_3": {
         "sounds": [
-            "qs:whales4"
+            "qs:animatronic_sprint_3"
         ]
     },
-    "whales5": {
+    "animatronic_sprint_4": {
         "sounds": [
-            "qs:whales5"
+            "qs:animatronic_sprint_4"
+        ]
+    },
+    "artefact_appear": {
+        "sounds": [
+            "qs:artefact_appear"
+        ]
+    },
+    "bass_drop": {
+        "sounds": [
+            "qs:bass_drop"
+        ]
+    },
+    "beep": {
+        "sounds": [
+            "qs:beep"
+        ]
+    },
+    "blip": {
+        "sounds": [
+            "qs:blip"
+        ]
+    },
+    "breath_1": {
+        "sounds": [
+            "qs:breath_1"
+        ]
+    },
+    "breath_2": {
+        "sounds": [
+            "qs:breath_2"
+        ]
+    },
+    "breath_3": {
+        "sounds": [
+            "qs:breath_3"
+        ]
+    },
+    "breath_4": {
+        "sounds": [
+            "qs:breath_4"
+        ]
+    },
+    "breath_5": {
+        "sounds": [
+            "qs:breath_5"
         ]
     },
     "buttoned_down": {
@@ -34,24 +79,139 @@
             "qs:buttoned_up"
         ]
     },
-    "dressed_off1": {
+    "camera_loop": {
         "sounds": [
-            "qs:dressed_off1"
+            "qs:camera_loop"
         ]
     },
-    "dressed_off2": {
+    "cinematic_deep_rumble": {
         "sounds": [
-            "qs:dressed_off2"
+            "qs:cinematic_deep_rumble"
         ]
     },
-    "dressed_on1": {
+    "cliff1": {
         "sounds": [
-            "qs:dressed_on1"
+            "qs:cliff1"
         ]
     },
-    "dressed_on2": {
+    "cliff2": {
         "sounds": [
-            "qs:dressed_on2"
+            "qs:cliff2"
+        ]
+    },
+    "coinflip": {
+        "sounds": [
+            "qs:coinflip"
+        ]
+    },
+    "crackling_light": {
+        "sounds": [
+            "qs:crackling_light"
+        ]
+    },
+    "defibrillator_use": {
+        "sounds": [
+            "qs:defibrillator_use"
+        ]
+    },
+    "dressed_off_1": {
+        "sounds": [
+            "qs:dressed_off_1"
+        ]
+    },
+    "dressed_off_2": {
+        "sounds": [
+            "qs:dressed_off_2"
+        ]
+    },
+    "dressed_on_1": {
+        "sounds": [
+            "qs:dressed_on_1"
+        ]
+    },
+    "dressed_on_2": {
+        "sounds": [
+            "qs:dressed_on_2"
+        ]
+    },
+    "evil": {
+        "sounds": [
+            "qs:evil"
+        ]
+    },
+    "explosion": {
+        "sounds": [
+            "qs:explosion"
+        ]
+    },
+    "flash": {
+        "sounds": [
+            "qs:flash"
+        ]
+    },
+    "glitch_1": {
+        "sounds": [
+            "qs:glitch_1"
+        ]
+    },
+    "glitch_2": {
+        "sounds": [
+            "qs:glitch_2"
+        ]
+    },
+    "glitch_3": {
+        "sounds": [
+            "qs:glitch_3"
+        ]
+    },
+    "jump": {
+        "sounds": [
+            "qs:jump"
+        ]
+    },
+    "landing": {
+        "sounds": [
+            "qs:landing"
+        ]
+    },
+    "landing_heavy": {
+        "sounds": [
+            "qs:landing_heavy"
+        ]
+    },
+    "laser_ambient": {
+        "sounds": [
+            "qs:laser_ambient"
+        ]
+    },
+    "laser_big": {
+        "sounds": [
+            "qs:laser_big"
+        ]
+    },
+    "laser_big_shot": {
+        "sounds": [
+            "qs:laser_big_shot"
+        ]
+    },
+    "laser_gun_appear": {
+        "sounds": [
+            "qs:laser_gun_appear"
+        ]
+    },
+    "laser_shot": {
+        "sounds": [
+            "qs:laser_shot"
+        ]
+    },
+    "lever_panel_reverb": {
+        "sounds": [
+            "qs:lever_panel_reverb"
+        ]
+    },
+    "lever_use": {
+        "sounds": [
+            "qs:lever_use"
         ]
     },
     "metal_impact": {
@@ -64,19 +224,179 @@
             "qs:metal_knock"
         ]
     },
-    "submarine_pulse": {
+    "monitor_connect": {
         "sounds": [
-            "qs:submarine_pulse"
+            "qs:monitor_connect"
         ]
     },
-    "submarine_interior1": {
+    "monitor_connecting": {
         "sounds": [
-            "qs:submarine_interior1"
+            "qs:monitor_connecting"
         ]
     },
     "mystical_bell": {
         "sounds": [
             "qs:mystical_bell"
+        ]
+    },
+    "platform_player_dis": {
+        "sounds": [
+            "qs:platform_player_dis"
+        ]
+    },
+    "playing_some_piano": {
+        "sounds": [
+            "qs:playing_some_piano"
+        ]
+    },
+    "punch": {
+        "sounds": [
+            "qs:punch"
+        ]
+    },
+    "radio_tune_1": {
+        "sounds": [
+            "qs:radio_tune_1"
+        ]
+    },
+    "radio_tune_2": {
+        "sounds": [
+            "qs:radio_tune_2"
+        ]
+    },
+    "radio_tune_3": {
+        "sounds": [
+            "qs:radio_tune_3"
+        ]
+    },
+    "radio_tune_4": {
+        "sounds": [
+            "qs:radio_tune_4"
+        ]
+    },
+    "radio_tune_5": {
+        "sounds": [
+            "qs:radio_tune_5"
+        ]
+    },
+    "radio_tune_6": {
+        "sounds": [
+            "qs:radio_tune_6"
+        ]
+    },
+    "radio_tune_7": {
+        "sounds": [
+            "qs:radio_tune_7"
+        ]
+    },
+    "shocked": {
+        "sounds": [
+            "qs:shocked"
+        ]
+    },
+    "slicer": {
+        "sounds": [
+            "qs:slicer"
+        ]
+    },
+    "speed_boots_use": {
+        "sounds": [
+            "qs:speed_boots_use"
+        ]
+    },
+    "step1": {
+        "sounds": [
+            "qs:step1"
+        ]
+    },
+    "step2": {
+        "sounds": [
+            "qs:step2"
+        ]
+    },
+    "step3": {
+        "sounds": [
+            "qs:step3"
+        ]
+    },
+    "step4": {
+        "sounds": [
+            "qs:step4"
+        ]
+    },
+    "step_heavy_1": {
+        "sounds": [
+            "qs:step_heavy_1"
+        ]
+    },
+    "step_heavy_2": {
+        "sounds": [
+            "qs:step_heavy_2"
+        ]
+    },
+    "step_heavy_3": {
+        "sounds": [
+            "qs:step_heavy_3"
+        ]
+    },
+    "step_heavy_4": {
+        "sounds": [
+            "qs:step_heavy_4"
+        ]
+    },
+    "stimulator_use": {
+        "sounds": [
+            "qs:stimulator_use"
+        ]
+    },
+    "submarine_interior_1": {
+        "sounds": [
+            "qs:submarine_interior_1"
+        ]
+    },
+    "submarine_pulse": {
+        "sounds": [
+            "qs:submarine_pulse"
+        ]
+    },
+    "suspense": {
+        "sounds": [
+            "qs:suspense"
+        ]
+    },
+    "whales_1": {
+        "sounds": [
+            "qs:whales_1"
+        ]
+    },
+    "whales_2": {
+        "sounds": [
+            "qs:whales_2"
+        ]
+    },
+    "whales_3": {
+        "sounds": [
+            "qs:whales_3"
+        ]
+    },
+    "whales_4": {
+        "sounds": [
+            "qs:whales_4"
+        ]
+    },
+    "whales_5": {
+        "sounds": [
+            "qs:whales_5"
+        ]
+    },
+    "white_noise": {
+        "sounds": [
+            "qs:white_noise"
+        ]
+    },
+    "xray_scanner": {
+        "sounds": [
+            "qs:xray_scanner"
         ]
     }
 }

@@ -113,5 +113,20 @@
         "sounds": [
             "r:tech_2"
         ]
+    },
+    "lobby_cosmetic_1_ncs": {
+        "sounds": [
+            "r:lobby_cosmetic_1_ncs"
+        ]
+    },
+    "lobby_cosmetic_1": {
+        "sounds": [
+            "r:lobby_cosmetic_1"
+        ]
+    },
+    "lobby_cosmetic_2": {
+        "sounds": [
+            "r:lobby_cosmetic_2"
+        ]
     }
 }
