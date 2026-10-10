@@ -33,5 +33,10 @@
         "sounds": [
             "s:submarine_interior4"
         ]
+    },
+    "silence": {
+        "sounds": [
+            "s:silence"
+        ]
     }
 }

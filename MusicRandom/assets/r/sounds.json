@@ -9,9 +9,109 @@
             "r:nemo"
         ]
     },
+    "voltage_1": {
+        "sounds": [
+            "r:voltage_1"
+        ]
+    },
+    "voltage_2": {
+        "sounds": [
+            "r:voltage_2"
+        ]
+    },
+    "lost_girl": {
+        "sounds": [
+            "r:lost_girl"
+        ]
+    },
+    "funny": {
+        "sounds": [
+            "r:funny"
+        ]
+    },
+    "alarm": {
+        "sounds": [
+            "r:alarm"
+        ]
+    },
     "they": {
         "sounds": [
             "r:they"
+        ]
+    },
+    "awkwardness": {
+        "sounds": [
+            "r:awkwardness"
+        ]
+    },
+    "buckshot_roulette": {
+        "sounds": [
+            "r:buckshot_roulette"
+        ]
+    },
+    "calm_1": {
+        "sounds": [
+            "r:calm_1"
+        ]
+    },
+    "calm_2": {
+        "sounds": [
+            "r:calm_2"
+        ]
+    },
+    "carnival_1": {
+        "sounds": [
+            "r:carnival_1"
+        ]
+    },
+    "carnival_2": {
+        "sounds": [
+            "r:carnival_2"
+        ]
+    },
+    "fnaf_theory": {
+        "sounds": [
+            "r:fnaf_theory"
+        ]
+    },
+    "mystical_complex": {
+        "sounds": [
+            "r:mystical_complex"
+        ]
+    },
+    "piano": {
+        "sounds": [
+            "r:piano"
+        ]
+    },
+    "pumping": {
+        "sounds": [
+            "r:pumping"
+        ]
+    },
+    "scary_1": {
+        "sounds": [
+            "r:scary_1"
+        ]
+    },
+    "scary_2": {
+        "sounds": [
+            "r:scary_2"
+        ]
+    },
+    "smeshariki": {
+        "sounds": [
+            "r:smeshariki"
+        ]
+    },
+    "tech_1": {
+        "sounds": [
+            "r:tech_1"
+        ]
+    },
+    "tech_2": {
+        "sounds": [
+            "r:tech_2"
         ]
     }
 }

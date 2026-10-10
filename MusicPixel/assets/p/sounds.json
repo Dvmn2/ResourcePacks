@@ -1,0 +1,77 @@
+{
+    "arzotka_1": {
+        "sounds": [
+            "p:arzotka_1"
+        ]
+    },
+    "arzotka_2": {
+        "sounds": [
+            "p:arzotka_2"
+        ]
+    },
+    "cold": {
+        "sounds": [
+            "p:cold"
+        ]
+    },
+    "comp_1": {
+        "sounds": [
+            "p:comp_1"
+        ]
+    },
+    "comp_2": {
+        "sounds": [
+            "p:comp_2"
+        ]
+    },
+    "comp_3": {
+        "sounds": [
+            "p:comp_3"
+        ]
+    },
+    "fight": {
+        "sounds": [
+            "p:fight"
+        ]
+    },
+    "friday": {
+        "sounds": [
+            "p:friday"
+        ]
+    },
+    "mystical_1": {
+        "sounds": [
+            "p:mystical_1"
+        ]
+    },
+    "mystical_2": {
+        "sounds": [
+            "p:mystical_2"
+        ]
+    },
+    "pirate": {
+        "sounds": [
+            "p:pirate"
+        ]
+    },
+    "pizza_tower": {
+        "sounds": [
+            "p:pizza_tower"
+        ]
+    },
+    "tech": {
+        "sounds": [
+            "p:tech"
+        ]
+    },
+    "void": {
+        "sounds": [
+            "p:void"
+        ]
+    },
+    "voltage": {
+        "sounds": [
+            "p:voltage"
+        ]
+    }
+}

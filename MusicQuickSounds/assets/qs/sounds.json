@@ -73,5 +73,10 @@
         "sounds": [
             "qs:submarine_interior1"
         ]
+    },
+    "mystical_bell": {
+        "sounds": [
+            "qs:mystical_bell"
+        ]
     }
 }
