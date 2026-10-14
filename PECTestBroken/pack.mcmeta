@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "PostEffectControl BROKEN shader test pack (namespace pectest)",
+    "min_format": [75, 0],
+    "max_format": [75, 0]
+  }
+}

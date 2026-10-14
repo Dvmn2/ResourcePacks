@@ -1,0 +1,8 @@
+{
+  "display_name": "PEC test: wave (3 passes)",
+  "params": {
+    "amplitude": { "index": 0, "default": 0.015, "min": 0.0, "max": 0.05 },
+    "frequency": { "index": 1, "default": 12.0,  "min": 1.0, "max": 40.0 },
+    "split":     { "index": 4, "default": 0.01,  "min": 0.0, "max": 0.05 }
+  }
+}

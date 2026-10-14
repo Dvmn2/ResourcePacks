@@ -1,0 +1,9 @@
+{
+  "display_name": "PEC test: strobe (flashing)",
+  "flashing": true,
+  "default_color": "#ffffff",
+  "params": {
+    "amount": { "index": 0, "default": 0.25, "min": 0.0, "max": 0.4 },
+    "hz":     { "index": 1, "default": 2.0,  "min": 0.5, "max": 3.0 }
+  }
+}
