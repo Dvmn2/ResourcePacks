@@ -1,8 +1,0 @@
-{
-  "display_name": "PEC test: hudframe (over HUD)",
-  "over_hud": true,
-  "default_color": "#00ff88",
-  "params": {
-    "width": { "index": 0, "default": 0.06, "min": 0.01, "max": 0.3 }
-  }
-}
