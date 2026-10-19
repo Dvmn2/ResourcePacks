@@ -128,5 +128,10 @@
         "sounds": [
             "r:lobby_cosmetic_2"
         ]
+    },
+    "i_stand_alone": {
+        "sounds": [
+            "r:i_stand_alone"
+        ]
     }
 }

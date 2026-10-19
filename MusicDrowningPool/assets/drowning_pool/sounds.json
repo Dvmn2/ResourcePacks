@@ -1,0 +1,117 @@
+{
+    "all_over_me": {
+        "sounds": [
+            "drowning_pool:all_over_me"
+        ]
+    },
+    "bodies": {
+        "sounds": [
+            "drowning_pool:bodies"
+        ]
+    },
+    "bringing_me_down": {
+        "sounds": [
+            "drowning_pool:bringing_me_down"
+        ]
+    },
+    "cast_me_down": {
+        "sounds": [
+            "drowning_pool:cast_me_down"
+        ]
+    },
+    "follow": {
+        "sounds": [
+            "drowning_pool:follow"
+        ]
+    },
+    "forget": {
+        "sounds": [
+            "drowning_pool:forget"
+        ]
+    },
+    "hate": {
+        "sounds": [
+            "drowning_pool:hate"
+        ]
+    },
+    "i_am": {
+        "sounds": [
+            "drowning_pool:i_am"
+        ]
+    },
+    "killin_me": {
+        "sounds": [
+            "drowning_pool:killin_me"
+        ]
+    },
+    "love_n_war": {
+        "sounds": [
+            "drowning_pool:love_n_war"
+        ]
+    },
+    "mute": {
+        "sounds": [
+            "drowning_pool:mute"
+        ]
+    },
+    "nothingness": {
+        "sounds": [
+            "drowning_pool:nothingness"
+        ]
+    },
+    "numb": {
+        "sounds": [
+            "drowning_pool:numb"
+        ]
+    },
+    "pity": {
+        "sounds": [
+            "drowning_pool:pity"
+        ]
+    },
+    "reminded": {
+        "sounds": [
+            "drowning_pool:reminded"
+        ]
+    },
+    "rise_up": {
+        "sounds": [
+            "drowning_pool:rise_up"
+        ]
+    },
+    "sermon": {
+        "sounds": [
+            "drowning_pool:sermon"
+        ]
+    },
+    "sinner": {
+        "sounds": [
+            "drowning_pool:sinner"
+        ]
+    },
+    "step_up": {
+        "sounds": [
+            "drowning_pool:step_up"
+        ]
+    },
+    "tear_away": {
+        "sounds": [
+            "drowning_pool:tear_away"
+        ]
+    },
+    "think": {
+        "sounds": [
+            "drowning_pool:think"
+        ]
+    },
+    "this_life": {
+        "sounds": [
+            "drowning_pool:this_life"
+        ]
+    },
+    "told_you_so": {
+        "sounds": [
+            "drowning_pool:told_you_so"
+        ]
+    }
+}
