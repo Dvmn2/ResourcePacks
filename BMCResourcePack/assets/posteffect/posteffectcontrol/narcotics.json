@@ -1,0 +1,12 @@
+{
+  "display_name": "Narcotics",
+  "flashing": false,
+  "over_hud": false,
+  "default_intensity": 1.0,
+  "default_color": "#FF40FF",
+  "params": {
+    "trip": { "index": 0, "default": 1.0, "min": 0.0, "max": 2.0 },
+    "hue_speed": { "index": 1, "default": 0.08, "min": 0.0, "max": 0.3 },
+    "wave": { "index": 2, "default": 1.0, "min": 0.0, "max": 2.0 }
+  }
+}

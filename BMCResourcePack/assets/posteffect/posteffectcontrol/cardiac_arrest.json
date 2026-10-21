@@ -1,0 +1,11 @@
+{
+  "display_name": "Cardiac Arrest",
+  "flashing": false,
+  "over_hud": false,
+  "default_intensity": 1.0,
+  "default_color": "#B00000",
+  "params": {
+    "phase": { "index": 0, "default": 0.3, "min": 0.0, "max": 1.0 },
+    "pulse": { "index": 1, "default": 1.0, "min": 0.3, "max": 1.5 }
+  }
+}
