@@ -4,9 +4,9 @@
             "table_games:pick_up"
         ]
     },
-    "plase": {
+    "place": {
         "sounds": [
-            "table_games:plase"
+            "table_games:place"
         ]
     },
     "put": {
@@ -14,9 +14,9 @@
             "table_games:put"
         ]
     },
-    "shafle": {
+    "shuffle": {
         "sounds": [
-            "table_games:shafle"
+            "table_games:shuffle"
         ]
     },
     "get": {

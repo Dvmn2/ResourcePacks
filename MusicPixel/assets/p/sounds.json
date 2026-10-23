@@ -1,17 +1,17 @@
 {
-    "arzotka_1": {
+    "arstotzka_1": {
         "sounds": [
-            "p:arzotka_1"
+            "p:arstotzka_1"
         ]
     },
-    "arzotka_2": {
+    "arstotzka_2": {
         "sounds": [
-            "p:arzotka_2"
+            "p:arstotzka_2"
         ]
     },
-    "cold": {
+    "spirit_of_hospitality ": {
         "sounds": [
-            "p:cold"
+            "p:spirit_of_hospitality "
         ]
     },
     "comp_1": {
@@ -24,14 +24,14 @@
             "p:comp_2"
         ]
     },
-    "comp_3": {
+    "chaos_assembly": {
         "sounds": [
-            "p:comp_3"
+            "p:chaos_assembly"
         ]
     },
-    "fight": {
+    "omnium": {
         "sounds": [
-            "p:fight"
+            "p:omnium"
         ]
     },
     "friday": {
@@ -39,14 +39,14 @@
             "p:friday"
         ]
     },
-    "mystical_1": {
+    "resurrections_1": {
         "sounds": [
-            "p:mystical_1"
+            "p:resurrections_1"
         ]
     },
-    "mystical_2": {
+    "resurrections_2": {
         "sounds": [
-            "p:mystical_2"
+            "p:resurrections_2"
         ]
     },
     "pirate": {
@@ -69,9 +69,9 @@
             "p:void"
         ]
     },
-    "voltage": {
+    "death_is_inevitable": {
         "sounds": [
-            "p:voltage"
+            "p:death_is_inevitable"
         ]
     }
 }

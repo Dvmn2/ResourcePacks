@@ -29,9 +29,9 @@
             "r:funny"
         ]
     },
-    "alarm": {
+    "departure": {
         "sounds": [
-            "r:alarm"
+            "r:departure"
         ]
     },
     "they": {
@@ -44,29 +44,29 @@
             "r:awkwardness"
         ]
     },
-    "buckshot_roulette": {
+    "who_is_elvis": {
         "sounds": [
-            "r:buckshot_roulette"
+            "r:who_is_elvis"
         ]
     },
-    "calm_1": {
+    "calm": {
         "sounds": [
-            "r:calm_1"
+            "r:calm"
         ]
     },
-    "calm_2": {
+    "winter": {
         "sounds": [
-            "r:calm_2"
+            "r:winter"
         ]
     },
-    "carnival_1": {
+    "carnival_of_souls": {
         "sounds": [
-            "r:carnival_1"
+            "r:carnival_of_souls"
         ]
     },
-    "carnival_2": {
+    "trick_or_treat": {
         "sounds": [
-            "r:carnival_2"
+            "r:trick_or_treat"
         ]
     },
     "fnaf_theory": {

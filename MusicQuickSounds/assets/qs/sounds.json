@@ -89,19 +89,19 @@
             "qs:cinematic_deep_rumble"
         ]
     },
-    "cliff1": {
+    "cliff_1": {
         "sounds": [
-            "qs:cliff1"
+            "qs:cliff_1"
         ]
     },
-    "cliff2": {
+    "cliff_2": {
         "sounds": [
-            "qs:cliff2"
+            "qs:cliff_2"
         ]
     },
-    "coinflip": {
+    "coin_flip": {
         "sounds": [
-            "qs:coinflip"
+            "qs:coin_flip"
         ]
     },
     "crackling_light": {
@@ -304,24 +304,24 @@
             "qs:speed_boots_use"
         ]
     },
-    "step1": {
+    "step_1": {
         "sounds": [
-            "qs:step1"
+            "qs:step_1"
         ]
     },
-    "step2": {
+    "step_2": {
         "sounds": [
-            "qs:step2"
+            "qs:step_2"
         ]
     },
-    "step3": {
+    "step_3": {
         "sounds": [
-            "qs:step3"
+            "qs:step_3"
         ]
     },
-    "step4": {
+    "step_4": {
         "sounds": [
-            "qs:step4"
+            "qs:step_4"
         ]
     },
     "step_heavy_1": {
@@ -349,9 +349,9 @@
             "qs:stimulator_use"
         ]
     },
-    "submarine_interior_1": {
+    "submarine_interior": {
         "sounds": [
-            "qs:submarine_interior_1"
+            "qs:submarine_interior"
         ]
     },
     "submarine_pulse": {
