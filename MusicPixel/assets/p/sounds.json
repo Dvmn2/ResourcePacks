@@ -73,5 +73,10 @@
         "sounds": [
             "p:death_is_inevitable"
         ]
+    },
+    "hotel_elevator": {
+        "sounds": [
+            "p:hotel_elevator"
+        ]
     }
 }

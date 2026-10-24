@@ -133,5 +133,15 @@
         "sounds": [
             "r:i_stand_alone"
         ]
+    },
+    "murder_drones": {
+        "sounds": [
+            "r:murder_drones"
+        ]
+    },
+    "eyes_in_the_skies": {
+        "sounds": [
+            "r:eyes_in_the_skies"
+        ]
     }
 }
