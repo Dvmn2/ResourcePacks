@@ -1,0 +1,31 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+            "file": "frames:custom/frame_pulse.png",
+	    "ascent": 74,
+	    "height": 74,
+	    "chars": [
+	    "Ā"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "frames:custom/frame_sculk.png",
+	    "ascent": 74,
+	    "height": 74,
+	    "chars": [
+	    "ā"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "frames:custom/frame_technical.png",
+	    "ascent": 74,
+	    "height": 74,
+	    "chars": [
+	    "Ă"
+		]
+        }
+    ]
+}
