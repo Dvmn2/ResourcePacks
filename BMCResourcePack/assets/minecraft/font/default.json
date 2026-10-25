@@ -20,6 +20,13 @@
 	    "chars": [
 	    "Ă"
 		]
+        },
+		{
+            "type": "bitmap",
+            "file": "frames:custom/frame_blood.png",
+	    "chars": [
+	    "ă"
+		]
         }
     ]
 }
