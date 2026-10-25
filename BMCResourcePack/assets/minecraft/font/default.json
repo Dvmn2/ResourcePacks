@@ -2,30 +2,215 @@
     "providers": [
 		{
             "type": "bitmap",
-            "file": "frames:custom/frame_pulse.png",
+            "file": "symbols:custom/frames/frame_pulse.png",
+	    "ascent": 7,
+	    "height": 14,
 	    "chars": [
 	    "Ā"
 		]
         },
 		{
             "type": "bitmap",
-            "file": "frames:custom/frame_sculk.png",
+            "file": "symbols:custom/frames/frame_sculk.png",
+	    "ascent": 7,
+	    "height": 14,
 	    "chars": [
 	    "ā"
 		]
         },
 		{
             "type": "bitmap",
-            "file": "frames:custom/frame_technical.png",
+            "file": "symbols:custom/frames/frame_technical.png",
+	    "ascent": 7,
+	    "height": 14,
 	    "chars": [
 	    "Ă"
 		]
         },
 		{
             "type": "bitmap",
-            "file": "frames:custom/frame_blood.png",
+            "file": "symbols:custom/frames/frame_blood.png",
+	    "ascent": 7,
+	    "height": 14,
 	    "chars": [
 	    "ă"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_cracks_1.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "Ą"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_cracks_2.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "ą"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_eye_1.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "Ć"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_eye_2.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "ć"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_line_1.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "Ĉ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_line_2.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "ĉ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_love_1.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "Ċ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_love_2.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "ċ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_scheme.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "Č"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_wave.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "č"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_wind_1.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "Ď"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/frames/frame_wind_2.png",
+	    "ascent": 7,
+	    "height": 14,
+	    "chars": [
+	    "ď"
+		]
+        },
+
+
+
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/lables/lable_radio.png",
+	    "ascent": 11,
+	    "height": 22,
+	    "chars": [
+	    "ƀ"
+		]
+        },
+
+
+
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/symbols/symbol_hearts_1.png",
+	    "ascent": 32,
+	    "height": 64,
+	    "chars": [
+	    "ɐ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/symbols/symbol_hearts_2.png",
+	    "ascent": 32,
+	    "height": 64,
+	    "chars": [
+	    "ɑ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/symbols/symbol_stars_1.png",
+	    "ascent": 32,
+	    "height": 64,
+	    "chars": [
+	    "ɒ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/symbols/symbol_stars_2.png",
+	    "ascent": 32,
+	    "height": 64,
+	    "chars": [
+	    "ɓ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/symbols/symbol_white_1.png",
+	    "ascent": 32,
+	    "height": 64,
+	    "chars": [
+	    "ɔ"
+		]
+        },
+		{
+            "type": "bitmap",
+            "file": "symbols:custom/symbols/symbol_white_2.png",
+	    "ascent": 32,
+	    "height": 64,
+	    "chars": [
+	    "ɔ"
 		]
         }
     ]
