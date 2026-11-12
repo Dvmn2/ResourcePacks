@@ -1,0 +1,12 @@
+{
+  "display_name": "Sculk Overlay",
+  "flashing": true,
+  "over_hud": true,
+  "default_intensity": 1.0,
+  "default_color": "#29DFEB",
+  "params": {
+    "reach": { "index": 0, "default": 1.0, "min": 0.0, "max": 1.0 },
+    "pixel": { "index": 1, "default": 6.0, "min": 2.0, "max": 16.0 },
+    "flicker": { "index": 2, "default": 1.0, "min": 0.0, "max": 1.0 }
+  }
+}

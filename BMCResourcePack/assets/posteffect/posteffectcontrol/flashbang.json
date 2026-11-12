@@ -1,0 +1,11 @@
+{
+  "display_name": "Flashbang",
+  "flashing": true,
+  "over_hud": true,
+  "default_intensity": 1.0,
+  "default_color": "#FFFFFF",
+  "params": {
+    "decay": { "index": 0, "default": 5.0, "min": 0.5, "max": 15.0 },
+    "blur": { "index": 1, "default": 1.0, "min": 0.0, "max": 2.0 }
+  }
+}

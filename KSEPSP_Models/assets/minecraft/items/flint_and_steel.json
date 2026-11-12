@@ -1,0 +1,102 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Matches",
+					"Спички"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/flint_and_steel/matches"
+				}
+			},
+			{
+				"when": [
+					"Petrol Canister",
+					"Канистра с бензином"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/flint_and_steel/petrol_canister"
+				}
+			},
+			{
+				"when": [
+					"Cheap Lighter",
+					"Дешёвая зажигалка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/flint_and_steel/cheap_lighter"
+				}
+			},
+			{
+				"when": [
+					"Golden Lighter",
+					"Золотая зажигалка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/tools/flint_and_steel/golden_lighter"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/flint_and_steel/golden_lighter_left_hand"
+					}
+				}
+			},
+			{
+				"when": [
+					"Lighter",
+					"Зажигалка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"head",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/tools/flint_and_steel/lighter"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/flint_and_steel/lighter_left_hand"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/flint_and_steel"
+		}
+	}
+}

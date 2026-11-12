@@ -1,0 +1,363 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Battle Hammer",
+					"Боевой молот"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/wooden_battle_hammer"
+				}
+			},
+			{
+				"when": [
+					"Spear",
+					"Копьё"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/wooden_spear"
+				}
+			},
+			{
+				"when": [
+					"Axeblade",
+					"Меч-секира"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/axeblade"
+				}
+			},
+			{
+				"when": [
+					"Axe Of Thousand Metals",
+					"Топор тысячи металлов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/axe_of_thousand_metals"
+				}
+			},
+			{
+				"when": [
+					"Battle Axe",
+					"Боевой топор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/battle_axe"
+				}
+			},
+			{
+				"when": [
+					"Chainsaw",
+					"Бензопила"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/chainsaw"
+				}
+			},
+			{
+				"when": [
+					"Crash Axe",
+					"Аварийный топор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/crash_axe"
+				}
+			},
+			{
+				"when": [
+					"Fire Axe",
+					"Пожарный топор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/fire_axe"
+				}
+			},
+			{
+				"when": [
+					"Fortune Spear",
+					"Копьё удачи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/fortune_spear"
+				}
+			},
+			{
+				"when": [
+					"Whisper Of Death",
+					"Шёпот смерти"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/whisper_of_death"
+				}
+			},
+			{
+				"when": [
+					"4 Non Blondes Guitar",
+					"Гитара не для блондинов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/4_non_blondes"
+				}
+			},
+			{
+				"when": [
+					"Acoustic Guitar",
+					"Акустическая гитара"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/acoustic_guitar"
+				}
+			},
+			{
+				"when": [
+					"Balalaika",
+					"Балалайка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/balalaika"
+				}
+			},
+			{
+				"when": [
+					"Banjo",
+					"Банджо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/banjo"
+				}
+			},
+			{
+				"when": [
+					"Big Balalayka",
+					"Большая балалайка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/big_balalaika"
+				}
+			},
+			{
+				"when": [
+					"Classical Guitar",
+					"Классическая гитара"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/classical_guitar"
+				}
+			},
+			{
+				"when": [
+					"Curie Electric Guitar",
+					"Электрогитара Curie"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/curie"
+				}
+			},
+			{
+				"when": [
+					"Dean ML Electric Guitar",
+					"Электрогитара Dean ML"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/dean_ml"
+				}
+			},
+			{
+				"when": [
+					"The True Axe Electric Guitar",
+					"Электрогитара The True Axe"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/the_true_axe"
+				}
+			},
+			{
+				"when": [
+					"Ural Electric Guitar",
+					"Электрогитара Урал"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/ural"
+				}
+			},
+			{
+				"when": [
+					"Headtaker",
+					"Головорез"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/headtaker"
+				}
+			},
+			{
+				"when": [
+					"Highland Axe",
+					"Топор горца"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/highland_axe"
+				}
+			},
+			{
+				"when": [
+					"Infested Spear",
+					"Заражённое копьё"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/infested_spear"
+				}
+			},
+			{
+				"when": [
+					"Lollichop",
+					"Кледенец"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/lollichop"
+				}
+			},
+			{
+				"when": [
+					"Poleaxe",
+					"Секира"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/poleaxe"
+				}
+			},
+			{
+				"when": [
+					"Amputator",
+					"Ампутатор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/amputator"
+				}
+			},
+			{
+				"when": [
+					"Bonesaw",
+					"Медицинская пила"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/bonesaw"
+				}
+			},
+			{
+				"when": [
+					"Jigsaw",
+					"Лобзик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/jigsaw"
+				}
+			},
+			{
+				"when": [
+					"Saw",
+					"Пила"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/saw"
+				}
+			},
+			{
+				"when": [
+					"Bone Scythe",
+					"Костяная коса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/bone_scythe"
+				}
+			},
+			{
+				"when": [
+					"Harvest Scythe",
+					"Жатвенная коса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/harvest_scythe"
+				}
+			},
+			{
+				"when": [
+					"Scythe",
+					"Коса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/scythe"
+				}
+			},
+			{
+				"when": [
+					"Whirlwind",
+					"Вихрь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/whirlwind"
+				}
+			},
+			{
+				"when": [
+					"Ubersaw",
+					"Убер-пила"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/ubersaw"
+				}
+			},
+			{
+				"when": [
+					"Vita-Saw",
+					"Вита-пила"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/axe/vita_saw"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/wooden_axe"
+		}
+	}
+}

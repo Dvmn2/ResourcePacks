@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/sniper_jacketl",
+    "layer1": "armor:item/sniper_jacketl_overlay"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "armor:coat",
+        "use_player_texture": true
+      }
+    ]
+  }
+}

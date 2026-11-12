@@ -1,0 +1,33 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Pitchfork",
+					"Вилы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/hoe/pitchfork"
+				}
+			},
+			{
+				"when": [
+					"Rake",
+					"Грабли"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/hoe/rake"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/golden_hoe"
+		}
+	}
+}

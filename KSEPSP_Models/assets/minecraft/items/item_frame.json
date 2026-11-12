@@ -1,0 +1,24 @@
+{
+    "model": {
+        "type": "condition",
+        "property": "has_component",
+        "component": "entity_data",
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "ksepsp:item/9_0/other/item_frame/superglue"
+        },
+        "on_false": {
+            "type": "minecraft:condition",
+            "property": "minecraft:has_component",
+            "component": "minecraft:custom_data",
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "ksepsp:item/9_0/other/item_frame/superglue"
+            },
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/item_frame"
+            }
+        }
+    }
+}

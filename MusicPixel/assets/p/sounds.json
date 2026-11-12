@@ -1,0 +1,82 @@
+{
+    "arstotzka_1": {
+        "sounds": [
+            "p:arstotzka_1"
+        ]
+    },
+    "arstotzka_2": {
+        "sounds": [
+            "p:arstotzka_2"
+        ]
+    },
+    "spirit_of_hospitality": {
+        "sounds": [
+            "p:spirit_of_hospitality"
+        ]
+    },
+    "comp_1": {
+        "sounds": [
+            "p:comp_1"
+        ]
+    },
+    "comp_2": {
+        "sounds": [
+            "p:comp_2"
+        ]
+    },
+    "chaos_assembly": {
+        "sounds": [
+            "p:chaos_assembly"
+        ]
+    },
+    "omnium": {
+        "sounds": [
+            "p:omnium"
+        ]
+    },
+    "friday": {
+        "sounds": [
+            "p:friday"
+        ]
+    },
+    "resurrections_1": {
+        "sounds": [
+            "p:resurrections_1"
+        ]
+    },
+    "resurrections_2": {
+        "sounds": [
+            "p:resurrections_2"
+        ]
+    },
+    "pirate_dojo": {
+        "sounds": [
+            "p:pirate_dojo"
+        ]
+    },
+    "pizza_tower": {
+        "sounds": [
+            "p:pizza_tower"
+        ]
+    },
+    "tech": {
+        "sounds": [
+            "p:tech"
+        ]
+    },
+    "void": {
+        "sounds": [
+            "p:void"
+        ]
+    },
+    "death_is_inevitable": {
+        "sounds": [
+            "p:death_is_inevitable"
+        ]
+    },
+    "hotel_elevator": {
+        "sounds": [
+            "p:hotel_elevator"
+        ]
+    }
+}

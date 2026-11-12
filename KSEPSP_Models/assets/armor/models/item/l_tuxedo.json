@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/l_tuxedo",
+    "layer1": "armor:item/l_tuxedo_overlay"
+  }
+}

@@ -1,0 +1,74 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Battalion Backup",
+					"Поддержка батальона"
+				],
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/goat_horn/battalion_backup"
+					},
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/goat_horn/tooting_battalion_backup"
+					}
+				}
+			},
+			{
+				"when": [
+					"Fanfare",
+					"Фанфара"
+				],
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/goat_horn/fanfare"
+					},
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/goat_horn/tooting_fanfare"
+					}
+				}
+			},
+			{
+				"when": [
+					"Megaphone",
+					"Мегафон"
+				],
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/goat_horn/megaphone"
+					},
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/tools/goat_horn/tooting_megaphone"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"property": "minecraft:using_item",
+			"on_false": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/goat_horn"
+			},
+			"on_true": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/tooting_goat_horn"
+			}
+		}
+	}
+}

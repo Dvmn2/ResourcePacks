@@ -1,0 +1,11 @@
+{
+  "display_name": "Adrenaline",
+  "flashing": false,
+  "over_hud": false,
+  "default_intensity": 1.0,
+  "default_color": "#FFB347",
+  "params": {
+    "pulse": { "index": 0, "default": 1.8, "min": 0.5, "max": 2.5 },
+    "blur": { "index": 1, "default": 1.0, "min": 0.0, "max": 2.0 }
+  }
+}

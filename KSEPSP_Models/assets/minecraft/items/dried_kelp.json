@@ -1,0 +1,52 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Black Caviar",
+					"Чёрная икра"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/dried_kelp/black_caviar"
+				}
+			},
+			{
+				"when": [
+					"Red Caviar",
+					"Красная икра"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/dried_kelp/red_caviar"
+				}
+			},
+			{
+				"when": [
+					"Sunflower Seeds",
+					"Семечки подсолнечника"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/dried_kelp/sunflower_seeds"
+				}
+			},
+			{
+				"when": [
+					"Pumpkin Seeds",
+					"Тыквенные семечки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/dried_kelp/pumpkin_seeds"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/dried_kelp"
+		}
+	}
+}

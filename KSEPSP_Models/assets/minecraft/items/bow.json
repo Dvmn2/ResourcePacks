@@ -1,0 +1,1766 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "Famas",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/assault_rifle/famas_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/assault_rifle/famas_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/assault_rifle/famas_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/assault_rifle/famas"
+					}
+				}
+			},
+			{
+				"when": [
+					"Gauss Gun",
+					"Гаусс пушка"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/electric_weapon/gauss_gun_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/electric_weapon/gauss_gun_pulling_0"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/electric_weapon/gauss_gun_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/electric_weapon/gauss_gun"
+					}
+				}
+			},
+			{
+				"when": "TEC-9",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/submachine_gun/tec_9_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/submachine_gun/tec_9_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/submachine_gun/tec_9_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/submachine_gun/tec_9"
+					}
+				}
+			},
+			{
+				"when": "Обидно да?",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/v_stickybomb_launcher_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/v_stickybomb_launcher_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/v_stickybomb_launcher_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/v_stickybomb_launcher"
+					}
+				}
+			},
+			{
+				"when": [
+					"Stickybomb Launcher",
+					"Липучкомёт"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/stickybomb_launcher_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/stickybomb_launcher_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/stickybomb_launcher_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/stickybomb_launcher"
+					}
+				}
+			},
+			{
+				"when": [
+					"Minigun",
+					"Пулемёт"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/minigun_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/minigun_pulling_1"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/minigun"
+					}
+				}
+			},
+			{
+				"when": [
+					"Flamethrower",
+					"Огнемёт"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/flamethrower_pulling_0"
+							}
+						},
+						{
+							"threshold": 7,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/flamethrower_pulling_1"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/flamethrower_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/heavy_weapon/flamethrower"
+					}
+				}
+			},
+			{
+				"when": [
+					"Pistol",
+					"Пистолет"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/pistol/pistol_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/pistol/pistol_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/weapons/bow/pistol/pistol_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/weapons/bow/pistol/pistol"
+					}
+				}
+			},
+			{
+				"when": [
+					"Impulse Rifle",
+					"Импульсная винтовка"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/76gunn_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/76gunn_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/76gunn_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/76gunn"
+					}
+				}
+			},
+			{
+				"when": [
+					"AK-46",
+					"АК-46"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak"
+					}
+				}
+			},
+			{
+				"when": [
+					"AK-74",
+					"АК-74"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak74_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak74_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak74_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/ak74"
+					}
+				}
+			},
+			{
+				"when": [
+					"Lewis Gun",
+					"Пулемёт Льюиса"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/machine_gun/lewis_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/machine_gun/lewis_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/machine_gun/lewis_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/machine_gun/lewis"
+					}
+				}
+			},
+			{
+				"when": [
+					"Chauchat",
+					"Пулемёт Шоша"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/machine_gun/shausha_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/machine_gun/shausha_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/machine_gun/shausha_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/machine_gun/shausha"
+					}
+				}
+			},
+			{
+				"when": [
+					"Desert Eagle",
+					"Пустынный орёл"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/deagle_pulling"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/deagle_pulling"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/deagle_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/deagle"
+					}
+				}
+			},
+			{
+				"when": [
+					"Malorian Arms",
+					"Малориан"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/malorian_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/malorian_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/malorian_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/malorian"
+					}
+				}
+			},
+			{
+				"when": [
+					"Quantum Destabilizer",
+					"Квантовый Дестабилизатор"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/exp_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/exp_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/exp_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/exp"
+					}
+				}
+			},
+			{
+				"when": [
+					"Backburner",
+					"Дожигатель"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/flamethr_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/flamethr_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/flamethr_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/flamethr"
+					}
+				}
+			},
+			{
+				"when": [
+					"Flintlock Pistol",
+					"Кремневый пистолет"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/flint_pistol_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/flint_pistol_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/flint_pistol_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/flint_pistol"
+					}
+				}
+			},
+			{
+				"when": [
+					"Quickiebomb Launcher",
+					"Быстромёт"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/quick_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/quick_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/quick_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/quick"
+					}
+				}
+			},
+			{
+				"when": [
+					"Gravity Gun",
+					"Гравитационная пушка"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/gravitygun_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/gravitygun_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/gravitygun_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/gravitygun"
+					}
+				}
+			},
+			{
+				"when": [
+					"Grey Mauser",
+					"Серый Маузер"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/gray_mouser_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/gray_mouser_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/gray_mouser_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/gray_mouser"
+					}
+				}
+			},
+			{
+				"when": [
+					"Tactical Luger Pistol",
+					"Тактический люгер"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/tact_luger_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/tact_luger"
+					}
+				}
+			},
+			{
+				"when": [
+					"Luger Pistol",
+					"Люгер"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/luger_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/luger"
+					}
+				}
+			},
+			{
+				"when": [
+					"M16",
+					"М16"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/m16_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/m16_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/m16_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/m16"
+					}
+				}
+			},
+			{
+				"when": [
+					"Magnetic Pistol",
+					"Магнитный пистолет"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/magnet_pistol_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/magnet_pistol_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/magnet_pistol_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/magnet_pistol"
+					}
+				}
+			},
+			{
+				"when": [
+					"Laser Pistol",
+					"Лазерный пистолет"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/laser_pistol_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/laser_pistol_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/laser_pistol_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/laser_pistol"
+					}
+				}
+			},
+			{
+				"when": [
+					"Mauser",
+					"Маузер"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/mauser_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/mauser_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/mauser_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/mauser"
+					}
+				}
+			},
+			{
+				"when": [
+					"Megashark",
+					"Мега-акула"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/megashark_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/heavy_weapon/megashark"
+					}
+				}
+			},
+			{
+				"when": "MP-18",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp18_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp18_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp18_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp18"
+					}
+				}
+			},
+			{
+				"when": "MP-40",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp40_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp40_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp40_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mp40"
+					}
+				}
+			},
+			{
+				"when": "STEN",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_pr_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_pr_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_pr_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_pr"
+					}
+				}
+			},
+			{
+				"when": [
+					"Silenced STEN",
+					"STEN с глушителем"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_gluh2_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_gluh2_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_gluh2_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/sten_gluh2"
+					}
+				}
+			},
+			{
+				"when": [
+					"Portal Gun",
+					"Портальная пушка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"head",
+								"fixed",
+								"gui"
+							],
+							"model": {
+								"type": "minecraft:range_dispatch",
+								"property": "minecraft:use_duration",
+								"entries": [
+									{
+										"threshold": 1,
+										"model": {
+											"type": "minecraft:model",
+											"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/portal_gun_pulling"
+										}
+									}
+								],
+								"fallback": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/portal_gun"
+								}
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:range_dispatch",
+						"property": "minecraft:use_duration",
+						"entries": [
+							{
+								"threshold": 1,
+								"model": {
+									"type": "minecraft:model",
+									"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/portal_gun_pulling_off"
+								}
+							}
+						],
+						"fallback": {
+							"type": "minecraft:model",
+							"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/portal_gun_off"
+						}
+					}
+				}
+			},
+			{
+				"when": [
+					"PPS-41",
+					"ППШ-41"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/pps_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/pps_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/pps_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/pps"
+					}
+				}
+			},
+			{
+				"when": [
+					"Colt M1911",
+					"Кольт M1911"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/colt_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/colt"
+					}
+				}
+			},
+			{
+				"when": [
+					"Pocket Pistol",
+					"Карманный пистолет"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/pbpp_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/pbpp"
+					}
+				}
+			},
+			{
+				"when": [
+					"PM Makarov",
+					"Пистолет Макарова"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/makarov_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/makarov_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/makarov_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/makarov"
+					}
+				}
+			},
+			{
+				"when": [
+					"Silencer Pistol",
+					"Пистолет с глушителем"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/pistol/usp_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/pistol/usp"
+					}
+				}
+			},
+			{
+				"when": [
+					"Nail Gun",
+					"Гвоздомёт"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/gvozd_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/gvozd_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/gvozd_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/gvozd"
+					}
+				}
+			},
+			{
+				"when": [
+					"Drill",
+					"Дрель"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/drel_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/drel_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/drel_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/drel"
+					}
+				}
+			},
+			{
+				"when": [
+					"Short Circuit",
+					"Короткое замыкание"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/short_circuit_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/short_circuit_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/short_circuit_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/electric_weapon/short_circuit"
+					}
+				}
+			},
+			{
+				"when": [
+					"MAT-49",
+					"МАТ-49"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/smg_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/smg_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/smg_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/smg"
+					}
+				}
+			},
+			{
+				"when": [
+					"Blutsauger",
+					"Кровопийца"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/bloods_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/bloods"
+					}
+				}
+			},
+			{
+				"when": [
+					"Overdose",
+					"Передоз"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/overdose_pulling"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/overdose"
+					}
+				}
+			},
+			{
+				"when": [
+					"Syringe Gun",
+					"Шприцемёт"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/syr_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/syr_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/syr_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/syr"
+					}
+				}
+			},
+			{
+				"when": [
+					"M1A1",
+					"М1А1"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/moneaona_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/moneaona_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/moneaona_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/moneaona"
+					}
+				}
+			},
+			{
+				"when": [
+					"Peacemaker",
+					"Миротворец"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/monenineoseven_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/monenineoseven_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/monenineoseven_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/monenineoseven"
+					}
+				}
+			},
+			{
+				"when": [
+					"Thompson",
+					"Томпсон"
+				],
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/tommy_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/tommy_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/tommy_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/tommy"
+					}
+				}
+			},
+			{
+				"when": "MAC-10",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mac10_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mac10_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mac10_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/submachine_gun/mac10"
+					}
+				}
+			},
+			{
+				"when": "WX18",
+				"model": {
+					"type": "minecraft:range_dispatch",
+					"property": "minecraft:use_duration",
+					"entries": [
+						{
+							"threshold": 1,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/wx18n_pulling_0"
+							}
+						},
+						{
+							"threshold": 13,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/wx18n_pulling_1"
+							}
+						},
+						{
+							"threshold": 18,
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/wx18n_pulling_2"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/8_0/weapons/bow/assault_rifle/wx18n"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:range_dispatch",
+			"property": "minecraft:use_duration",
+			"entries": [
+				{
+					"threshold": 1,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/bow_pulling_0"
+					}
+				},
+				{
+					"threshold": 13,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/bow_pulling_1"
+					}
+				},
+				{
+					"threshold": 18,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/bow_pulling_2"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/bow"
+			}
+		}
+	}
+}

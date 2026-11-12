@@ -1,0 +1,42 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Doctor Sausage",
+					"Докторская колбаса"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_porkchop/doctor_sausage"
+				}
+			},
+			{
+				"when": [
+					"Glazed Porkchop",
+					"Глазированная свинина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_porkchop/glazed_porkchop"
+				}
+			},
+			{
+				"when": [
+					"Ham",
+					"Свиной окорок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_porkchop/ham"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/cooked_porkchop"
+		}
+	}
+}

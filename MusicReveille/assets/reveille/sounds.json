@@ -1,0 +1,22 @@
+{
+    "inside_out": {
+        "sounds": [
+            "reveille:inside_out"
+        ]
+    },
+    "plastic": {
+        "sounds": [
+            "reveille:plastic"
+        ]
+    },
+    "untied": {
+        "sounds": [
+            "reveille:untied"
+        ]
+    },
+    "what_you_got": {
+        "sounds": [
+            "reveille:what_you_got"
+        ]
+    }
+}

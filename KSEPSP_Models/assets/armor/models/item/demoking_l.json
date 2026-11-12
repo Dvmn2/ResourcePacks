@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/demoking_l",
+    "layer1": "armor:item/demoking_l_overlay"
+  }
+}

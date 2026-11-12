@@ -1,0 +1,52 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Турель Синих 2 уровня",
+					"Blu Sentry Gun Level 2"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/blu_sentry2"
+				}
+			},
+			{
+				"when": [
+					"Турель Синих 3 уровня",
+					"Blu Sentry Gun Level 3"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/blu_sentry3"
+				}
+			},
+			{
+				"when": [
+					"Турель Красных 2 уровня",
+					"Red Sentry Gun Level 2"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/red_sentry2"
+				}
+			},
+			{
+				"when": [
+					"Турель Красных 3 уровня",
+					"Red Sentry Gun Level 3"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/red_sentry3"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/name_tag"
+		}
+	}
+}

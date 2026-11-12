@@ -1,0 +1,522 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Cola",
+					"Кола"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/cola"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/cola_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Quantum Cola",
+					"Квантовая кола"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/quantum_cola"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/quantum_cola_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Kvass",
+					"Квас"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/kvass"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/kvass_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Kissel",
+					"Кисель"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/kissel"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/kissel_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Sarsaparilla",
+					"Саспарилла"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/sarsaparilla"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/sarsaparilla_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Strawberry Milkshake",
+					"Клубничный молочный коктейль"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/strawberry_milkshake"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/strawberry_milkshake_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Chocolate Milkshake",
+					"Шоколадный молочный коктейль"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/chocolate_milkshake"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/chocolate_milkshake_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Vanilla Milkshake",
+					"Ванильный молочный коктейль"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/vanilla_milkshake"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/vanilla_milkshake_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Banana Milkshake",
+					"Банановый молочный коктейль"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/banana_milkshake"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/banana_milkshake_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Blood",
+					"Кровь"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/blood"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/blood_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Soda",
+					"Газировка"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/soda"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/soda_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Mors",
+					"Морс"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/mors"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/mors_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Tea Mushroom",
+					"Чайный гриб"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/honey_bottle/tea_mushroom"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/honey_bottle/tea_mushroom_item"
+					}
+				}
+			},
+			{
+				"when": [
+					"Acacia Honey",
+					"Акациевый мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/acacia_honey"
+				}
+			},
+			{
+				"when": [
+					"Buckwheat Honey",
+					"Гречишный мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/buckwheat_honey"
+				}
+			},
+			{
+				"when": [
+					"Dead Bees Honey",
+					"Мёд усопших пчёл"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/dead_bees_honey"
+				}
+			},
+			{
+				"when": [
+					"Eucalyptus Honey",
+					"Эвкалиптовый мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/eucalyptus_honey"
+				}
+			},
+			{
+				"when": [
+					"Fall Honey",
+					"Осенний мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/fall_honey"
+				}
+			},
+			{
+				"when": [
+					"Fireweed Honey",
+					"Кипрейный мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/fireweed_honey"
+				}
+			},
+			{
+				"when": [
+					"Honey Pot",
+					"Горшочек мёда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/honey_pot"
+				}
+			},
+			{
+				"when": [
+					"Lime Honey",
+					"Липовый мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/lime_honey"
+				}
+			},
+			{
+				"when": [
+					"Propolis Honey",
+					"Прополисный мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/propolis_honey"
+				}
+			},
+			{
+				"when": [
+					"Raspberry Jam",
+					"Малиновое варенье"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/raspberry_jam"
+				}
+			},
+			{
+				"when": [
+					"Spring Honey",
+					"Весенний мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/spring_honey"
+				}
+			},
+			{
+				"when": [
+					"Summer Honey",
+					"Летний мёд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/honey_bottle/summer_honey"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/honey_bottle"
+		}
+	}
+}

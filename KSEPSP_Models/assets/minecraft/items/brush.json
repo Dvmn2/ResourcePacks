@@ -1,0 +1,112 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Broom",
+					"Веник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/broom"
+				}
+			},
+			{
+				"when": [
+					"Feather Duster",
+					"Перьевая метёлка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/feather_duster"
+				}
+			},
+			{
+				"when": [
+					"Fork",
+					"Вилка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/fork"
+				}
+			},
+			{
+				"when": [
+					"Maraca",
+					"Маракас"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/maraca"
+				}
+			},
+			{
+				"when": [
+					"Paintbrush",
+					"Кисть для рисования"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/paintbrush"
+				}
+			},
+			{
+				"when": [
+					"Paintroller",
+					"Валик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/paintroller"
+				}
+			},
+			{
+				"when": [
+					"Toilet Brush",
+					"Ёршик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/brush/toilet_brush"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:range_dispatch",
+			"property": "minecraft:use_cycle",
+			"period": 10.0,
+			"scale": 0.1,
+			"entries": [
+				{
+					"threshold": 0.25,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/brush_brushing_0"
+					}
+				},
+				{
+					"threshold": 0.5,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/brush_brushing_1"
+					}
+				},
+				{
+					"threshold": 0.75,
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/brush_brushing_2"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/brush"
+			}
+		}
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "ksepsp:item/ol_geezer",
+		"particle": "ksepsp:item/ol_geezer"
+	},
+	"elements": [
+		{
+			"from": [1, 5, 3],
+			"to": [15, 5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 13, 10]},
+			"faces": {
+				"up": {"uv": [0, 6, 7, 11.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 6, 0, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 5, 3],
+			"to": [15, 8, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 13, 10]},
+			"faces": {
+				"north": {"uv": [0, 13, 7, 11.5], "texture": "#0"},
+				"south": {"uv": [7, 13, 0, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 5, 14],
+			"to": [15, 6, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 13, 21]},
+			"faces": {
+				"north": {"uv": [0, 6, 7, 5.5], "texture": "#0"},
+				"south": {"uv": [7, 6, 0, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 5, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 13, 12]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 5.5], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 5.5], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 5.5], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 4], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.75, 5, 3.75],
+			"to": [3.75, 7.125, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.5, 13, 12]},
+			"faces": {
+				"east": {"uv": [12, 3, 8, 4], "texture": "#0"},
+				"west": {"uv": [8, 3, 12, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, -75, -15],
+			"translation": [-1, 1.75, -4.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, -75, -15],
+			"translation": [-1, 1.75, -4.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-20, -80, -5],
+			"translation": [0.5, -1.5, -5.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-20, -80, -5],
+			"translation": [0.5, -1.5, -5.25]
+		},
+		"ground": {
+			"translation": [0, 2, 0]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"head": {
+			"translation": [0, 7.6, 0],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4.01],
+			"scale": [2, 2, 2]
+		}
+	}
+}

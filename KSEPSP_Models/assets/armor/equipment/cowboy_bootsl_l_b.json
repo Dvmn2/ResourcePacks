@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "armor:cowboy_bootsl",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "armor:cowboy_bootsl_overlay"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3579 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Мини-раздатчик Синих",
+					"Blu Mini-Dispenser"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/blu_mini_dispenser"
+				}
+			},
+			{
+				"when": [
+					"Мини-раздатчик Красных",
+					"Red Mini-Dispenser"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/8_0/furniture/engineer_build/red_mini_dispenser"
+				}
+			},
+			{
+				"when": [
+					"Diorite Framing",
+					"Диоритовое обрамление"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/diorite_framing"
+				}
+			},
+			{
+				"when": [
+					"Granite Framing",
+					"Гранитное обрамление"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/granite_framing"
+				}
+			},
+			{
+				"when": [
+					"Sandstone Framing",
+					"Песчанниковое обрамление"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/sandstone_framing"
+				}
+			},
+			{
+				"when": [
+					"Stone Framing",
+					"Каменное обрамление"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stone_framing"
+				}
+			},
+			{
+				"when": [
+					"Wood Framing",
+					"Деревянное обрамление"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wood_framing"
+				}
+			},
+			{
+				"when": [
+					"Safe",
+					"Сейф"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/safe"
+				}
+			},
+			{
+				"when": [
+					"Unfired Pot",
+					"Необожжённый горшок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/unfired_pot"
+				}
+			},
+			{
+				"when": [
+					"Decorated Pot",
+					"Декоративный горшок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/decorated_pot"
+				}
+			},
+			{
+				"when": [
+					"Rare Decorated Pot",
+					"Редкий декоративный горшок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/rare_decorated_pot"
+				}
+			},
+			{
+				"when": [
+					"Fire Barrel",
+					"Бочка для разведения огня"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/fire_barrel"
+				}
+			},
+			{
+				"when": [
+					"Fish Barrel",
+					"Бочка с рыбой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/fish_barrel"
+				}
+			},
+			{
+				"when": [
+					"Gunpowder Barrel",
+					"Бочка с порохом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/gunpowder_barrel"
+				}
+			},
+			{
+				"when": [
+					"Sink",
+					"Раковина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/sink"
+				}
+			},
+			{
+				"when": [
+					"Oak 2 Drawers Cabinet",
+					"Дубовый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/oak_2_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Oak 2 Drawers Cabinet Top",
+					"Верхний дубовый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/oak_2_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Oak 3 Shelfs Cabinet",
+					"Дубовый шкаф с 3 полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/oak_3_shelfs_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Oak 4 Drawers Cabinet",
+					"Дубовый шкаф с 4 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/oak_4_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Oak Mirror Cabinet",
+					"Дубовый шкаф с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/oak_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Oak Sink",
+					"Дубовая раковина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/oak_sink"
+				}
+			},
+			{
+				"when": [
+					"Spruce 2 Drawers Cabinet",
+					"Еловый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/spruce_2_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Spruce 2 Drawers Cabinet Top",
+					"Верхний еловый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/spruce_2_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Spruce 3 Drawers Cabinet",
+					"Еловый шкаф с 3 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/spruce_3_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Spruce Drawer Cabinet",
+					"Еловый шкаф с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/spruce_drawer_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Spruce Mirror Cabinet",
+					"Еловый шкаф с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/spruce_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Spruce Sink",
+					"Еловая раковина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/spruce_sink"
+				}
+			},
+			{
+				"when": [
+					"Birch 2 Drawers Cabinet",
+					"Берёзовый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/birch_2_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Birch 2 Drawers Cabinet Top",
+					"Верхний берёзовый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/birch_2_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Birch Drawer Cabinet",
+					"Берёзовый шкаф с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/birch_drawer_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Birch Mirror 6 Sections Cabinet",
+					"Берёзовый шкаф с зеркалом с 6 секциями"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/birch_mirror_6_sections_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Birch Mirror Cabinet",
+					"Берёзовый шкаф с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/birch_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Birch Sink",
+					"Берёзовая раковина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/birch_sink"
+				}
+			},
+			{
+				"when": [
+					"Acacia 2 Drawers Cabinet",
+					"Акациевый шкаф с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/acacia_2_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Acacia 6 Drawers Cabinet Top",
+					"Верхний акациевый шкаф с 6 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/acacia_6_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Acacia 3 Folders Cabinet",
+					"Акациевый шкаф с 3 папками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/acacia_3_folders_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Acacia Box Cabinet",
+					"Акациевый шкаф с коробкой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/acacia_box_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Acacia Mirror Cabinet",
+					"Акациевый шкаф с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/acacia_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Acacia Sink",
+					"Акациевая раковина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/acacia_sink"
+				}
+			},
+			{
+				"when": [
+					"Bamboo 2 Shelfs Cabinet",
+					"Бамбуковый шкаф с 2 полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/bamboo_2_shelfs_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Bamboo 3 Shelfs Cabinet Top",
+					"Верхний бамбуковый шкаф с 3 полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/bamboo_3_shelfs_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Bamboo 9 Shelfs Cabinet",
+					"Бамбуковый шкаф с 9 полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/bamboo_9_shelfs_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Bamboo Bars Cabinet",
+					"Бамбуковый шкаф с решёткой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/bamboo_bars_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Bamboo Decorated Cabinet",
+					"Бамбуковый шкаф с узором"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/bamboo_decorated_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Mangrove 2 Drawers Cabinet Top",
+					"Верхний шкаф из мангрового дерева с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/mangrove_2_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Mangrove 3 Drawers Cabinet",
+					"Шкаф из мангрового дерева с 3 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/mangrove_3_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Mangrove 4 Drawers Cabinet",
+					"Шкаф из мангрового дерева с 4 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/mangrove_4_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Mangrove Drawer Cabinet",
+					"Шкаф из мангрового дерева с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/mangrove_drawer_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Mangrove Mirror Cabinet",
+					"Шкаф из мангрового дерева с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/mangrove_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Jungle 2 Drawers Cabinet",
+					"Шкаф из тропического дерева с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/jungle_2_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Jungle 4 Drawers Cabinet Top",
+					"Верхний шкаф из тропического дерева с 4 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/jungle_4_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Jungle 6 Shelfs Cabinet",
+					"Шкаф из тропического дерева с 6 полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/jungle_6_shelfs_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Jungle Drawer Cabinet",
+					"Шкаф из тропического дерева с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/jungle_drawer_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Jungle Mirror Cabinet",
+					"Шкаф из тропического дерева с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/jungle_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Jungle Sink",
+					"Раковина из тропического дерева"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/jungle_sink"
+				}
+			},
+			{
+				"when": [
+					"Cherry 4 Section Shoji Cabinet",
+					"Шкаф сёдзи из вишнёвого дерева с 4 секциями"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/cherry_4_section_shoji_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Cherry 6 Section Shoji Cabinet",
+					"Шкаф сёдзи из вишнёвого дерева с 6 секциями"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/cherry_6_section_shoji_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Cherry Painting Shoji Cabinet",
+					"Шкаф сёдзи из вишнёвого дерева с росписью"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/cherry_painting_shoji_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Cherry Shoji Cabinet",
+					"Шкаф сёдзи из вишнёвого дерева"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/cherry_shoji_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Cherry Shoji Cabinet Top",
+					"Верхний шкаф сёдзи из вишнёвого дерева"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/cherry_shoji_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Dark Oak 2 Drawers Cabinet",
+					"Шкаф из тёмного дуба с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/dark_oak_2_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron 2 Shelfs Cabinet",
+					"Железный шкаф с 2 полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_2_shelfs_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron 6 Drawers Cabinet",
+					"Железный шкаф с 6 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_6_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Box Cabinet",
+					"Железный шкаф с коробкой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_box_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Cardiograph Cabinet",
+					"Железный шкаф с кардиографом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_cardio_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Display Cabinet",
+					"Железный шкаф с экраном"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_display_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Drawer Cabinet",
+					"Железный шкаф с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_drawer_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Fan Cabinet",
+					"Железный шкаф с вентилятором"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_fan_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Mirror Cabinet",
+					"Железный шкаф с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Radar Cabinet",
+					"Железный шкаф с радаром"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_radar_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Tape Drive Cabinet",
+					"Железный шкаф с бобинами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_tape_drive_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Iron Ventilation Cabinet",
+					"Железный шкаф с вентиляцией"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/iron_ventilation_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Dark Oak 2 Drawers Cabinet Top",
+					"Верхний шкаф из тёмного дуба с 2 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/dark_oak_2_drawers_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Dark Oak 6 Drawers Cabinet",
+					"Шкаф из тёмного дуба с 6 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/dark_oak_6_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Dark Oak Boiserie Cabinet",
+					"Шкаф из тёмного дуба с буазери"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/dark_oak_boiserie_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Dark Oak Mirror Cabinet",
+					"Шкаф из тёмного дуба с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/dark_oak_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Dark Oak Sink",
+					"Раковина из тёмного дуба"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/dark_oak_sink"
+				}
+			},
+			{
+				"when": [
+					"Creeper Anatomy",
+					"Скелет крипера"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/creeper_anatomy"
+				}
+			},
+			{
+				"when": [
+					"Small Unfired Pot",
+					"Маленький необожжённый горшок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_unfired_pot"
+				}
+			},
+			{
+				"when": [
+					"Big Cord Of Wood",
+					"Большая вязанка дров"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/big_cord_of_wood"
+				}
+			},
+			{
+				"when": [
+					"Chain Bracing",
+					"Цепная подпорка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/chain_bracing"
+				}
+			},
+			{
+				"when": [
+					"Cord Of Wood",
+					"Вязанка дров"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/cord_of_wood"
+				}
+			},
+			{
+				"when": [
+					"Iron Hedgehog",
+					"Противотанковый ёж"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/iron_hedgehog"
+				}
+			},
+			{
+				"when": [
+					"Long Chain Bracing",
+					"Длинная цепная подпорка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/long_chain_bracing"
+				}
+			},
+			{
+				"when": [
+					"Nailed Planks",
+					"Приколоченные доски"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/nailed_planks"
+				}
+			},
+			{
+				"when": [
+					"Small Cord Of Wood",
+					"Маленькая вязанка дров"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_cord_of_wood"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Nailed Planks",
+					"Стопка приколоченных досок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_nailed_planks"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Planks",
+					"Стопка досок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_planks"
+				}
+			},
+			{
+				"when": [
+					"Traffic Barrier",
+					"Дорожное ограждение"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/traffic_barrier"
+				}
+			},
+			{
+				"when": [
+					"Wired Wooden Barricade",
+					"Деревянная баррикада с колючей проволокой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wired_wooden_barricade"
+				}
+			},
+			{
+				"when": [
+					"Wooden Barricade",
+					"Деревянная баррикада"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wooden_barricade"
+				}
+			},
+			{
+				"when": [
+					"Wooden Bracing",
+					"Деревянная подпорка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wooden_bracing"
+				}
+			},
+			{
+				"when": [
+					"Bench Middle",
+					"Середина скамейки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/bench_middle"
+				}
+			},
+			{
+				"when": [
+					"Bench Left",
+					"Левый край скамейки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/bench_left"
+				}
+			},
+			{
+				"when": [
+					"Bench Right",
+					"Правый край скамейки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/bench_right"
+				}
+			},
+			{
+				"when": [
+					"Blackboard",
+					"Школьная доска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/blackboard"
+				}
+			},
+			{
+				"when": [
+					"Small Blackboard",
+					"Маленькая школьная доска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_blackboard"
+				}
+			},
+			{
+				"when": [
+					"1 Candle Candelabra",
+					"Канделябр с 1 свечой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/1_candle_candelabra"
+				}
+			},
+			{
+				"when": [
+					"1 Candle Wall Candelabra",
+					"Настенный канделябр с 1 свечой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/1_candle_wall_candelabra"
+				}
+			},
+			{
+				"when": [
+					"3 Candle Candelabra",
+					"Канделябр с 3 свечами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/3_candle_candelabra"
+				}
+			},
+			{
+				"when": [
+					"3 Candle Wall Candelabra",
+					"Настенный канделябр с 3 свечами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/3_candle_wall_candelabra"
+				}
+			},
+			{
+				"when": [
+					"Candlestick",
+					"Подсвечник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/candlestick"
+				}
+			},
+			{
+				"when": [
+					"Car Tire",
+					"Автомобильная покрышка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/car_tire"
+				}
+			},
+			{
+				"when": [
+					"Car Tire Column",
+					"Колонна из автомобильных покрышек"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/car_tire_column"
+				}
+			},
+			{
+				"when": [
+					"Car Tire Wall",
+					"Стена из автомобильных покрышек"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/car_tire_wall"
+				}
+			},
+			{
+				"when": [
+					"Car Wheel",
+					"Автомобильное колесо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/car_wheel"
+				}
+			},
+			{
+				"when": [
+					"Big Car Wheel",
+					"Большое автомобильное колесо"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/car_wheel_big"
+				}
+			},
+			{
+				"when": [
+					"Cash Register",
+					"Кассовый аппарат"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/cash_register"
+				}
+			},
+			{
+				"when": [
+					"Old Cash Register",
+					"Старый кассовый аппарат"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/old_cash_register"
+				}
+			},
+			{
+				"when": [
+					"Ceiling Fan",
+					"Потолочный вентилятор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ceiling_fan"
+				}
+			},
+			{
+				"when": [
+					"Ceiling Fan Off",
+					"Выключенный потолочный вентилятор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ceiling_fan_off"
+				}
+			},
+			{
+				"when": [
+					"Industrial Fan",
+					"Промышленный вентилятор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/industrial_fan"
+				}
+			},
+			{
+				"when": [
+					"Industrial Fan Off",
+					"Выключенный промышленный вентилятор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/industrial_fan_off"
+				}
+			},
+			{
+				"when": [
+					"Ceiling Lamp",
+					"Потолочная лампа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ceiling_lamp"
+				}
+			},
+			{
+				"when": [
+					"Chain Ceiling Lamp",
+					"Плафон на цепи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/chain_ceiling_lamp"
+				}
+			},
+			{
+				"when": [
+					"Light Bulb",
+					"Лампочка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/light_bulb"
+				}
+			},
+			{
+				"when": [
+					"Chandelier",
+					"Люстра с свечами"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/chandelier"
+				}
+			},
+			{
+				"when": [
+					"Clock",
+					"Часы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/clock"
+				}
+			},
+			{
+				"when": [
+					"Big Cork Board",
+					"Большая пробковая доска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/big_cork_board"
+				}
+			},
+			{
+				"when": [
+					"Cork Board",
+					"Пробковая доска"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/cork_board"
+				}
+			},
+			{
+				"when": [
+					"Pulled Curtain",
+					"Убранные шторы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pulled_curtain"
+				}
+			},
+			{
+				"when": [
+					"Dead Body",
+					"Мёртвое тело"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/dead_body"
+				}
+			},
+			{
+				"when": [
+					"Dead Zombie",
+					"Мёртвый зомби"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/dead_zombie"
+				}
+			},
+			{
+				"when": [
+					"Lying Dead Zombie",
+					"Лежащий мёртвый зомби"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/lying_dead_zombie"
+				}
+			},
+			{
+				"when": [
+					"Pile Of Bones",
+					"Груда костей"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pile_of_bones"
+				}
+			},
+			{
+				"when": [
+					"Dropper",
+					"Капельница"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/dropper"
+				}
+			},
+			{
+				"when": [
+					"Barbell",
+					"Штанга"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/barbell"
+				}
+			},
+			{
+				"when": [
+					"Dumbbell",
+					"Гантель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/dumbbell"
+				}
+			},
+			{
+				"when": [
+					"Easel",
+					"Мольберт"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/easel"
+				}
+			},
+			{
+				"when": [
+					"Easel With Painting",
+					"Мольберт с рисунком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/easel_with_painting"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Canvases",
+					"Стопка холстов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_canvases"
+				}
+			},
+			{
+				"when": [
+					"Extinguisher",
+					"Огнетушитель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/extinguisher"
+				}
+			},
+			{
+				"when": [
+					"Big Valve Faucet",
+					"Большой вентильный кран"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/big_valve_faucet"
+				}
+			},
+			{
+				"when": [
+					"Faucet",
+					"Смеситель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/faucet"
+				}
+			},
+			{
+				"when": [
+					"Kitchen Faucet",
+					"Кухонный смеситель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/kitchen_faucet"
+				}
+			},
+			{
+				"when": [
+					"Valve Faucet",
+					"Вентильный кран"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/valve_faucet"
+				}
+			},
+			{
+				"when": [
+					"KSEPSP Wall Flag",
+					"Настенный флаг КСЭПСП"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ksepsp_wall_flag"
+				}
+			},
+			{
+				"when": [
+					"Pirate Reich Wall Flag",
+					"Настенный флаг Пиратского Рейха"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pirate_reich_wall_flag"
+				}
+			},
+			{
+				"when": [
+					"Pirate Wall Flag",
+					"Настенный пиратский флаг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pirate_wall_flag"
+				}
+			},
+			{
+				"when": [
+					"Reichsmacht Wall Flag",
+					"Настенный флаг Рейхсмахта"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/reichmacht_wall_flag"
+				}
+			},
+			{
+				"when": [
+					"Blue Garland",
+					"Синяя гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/blue_garland"
+				}
+			},
+			{
+				"when": [
+					"Garland",
+					"Гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/garland"
+				}
+			},
+			{
+				"when": [
+					"Green Garland",
+					"Зелёная гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/green_garland"
+				}
+			},
+			{
+				"when": [
+					"Red Garland",
+					"Красная гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/red_garland"
+				}
+			},
+			{
+				"when": [
+					"Small Blue Garland",
+					"Маленькая синяя гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_blue_garland"
+				}
+			},
+			{
+				"when": [
+					"Small Garland",
+					"Маленькая гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_garland"
+				}
+			},
+			{
+				"when": [
+					"Small Green Garland",
+					"Маленькая зелёная гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_green_garland"
+				}
+			},
+			{
+				"when": [
+					"Small Red Garland",
+					"Маленькая красная гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_red_garland"
+				}
+			},
+			{
+				"when": [
+					"Small Yellow Garland",
+					"Маленькая жёлтая гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_yellow_garland"
+				}
+			},
+			{
+				"when": [
+					"Yellow Garland",
+					"Жёлтая гирлянда"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/yellow_garland"
+				}
+			},
+			{
+				"when": [
+					"Ancient Globe",
+					"Старинный глобус"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ancient_globe"
+				}
+			},
+			{
+				"when": [
+					"Globe",
+					"Глобус"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/globe"
+				}
+			},
+			{
+				"when": [
+					"Gramophone",
+					"Граммофон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/gramophone"
+				}
+			},
+			{
+				"when": [
+					"Handmade Gramophone",
+					"Самодельный граммофон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/handmade_gramophone"
+				}
+			},
+			{
+				"when": [
+					"Portable Gramophone",
+					"Патефон"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/furniture/furniture/portable_gramophone"
+							}
+						},
+						{
+							"when": [
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/furniture/furniture/portable_gramophone_left_hand"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/iron_ingot"
+					}
+				}
+			},
+			{
+				"when": [
+					"Guitar Amplifier",
+					"Комбоусилитель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/guitar_amplifier"
+				}
+			},
+			{
+				"when": [
+					"Potato Mine",
+					"Картофельная мина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/potato_mine"
+				}
+			},
+			{
+				"when": [
+					"Laptop",
+					"Ноутбук"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/furniture/furniture/laptop"
+							}
+						},
+						{
+							"when": [
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/furniture/furniture/laptop_left_hand"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/iron_ingot"
+					}
+				}
+			},
+			{
+				"when": [
+					"Old Laptop",
+					"Старый ноутбук"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"gui",
+								"ground",
+								"fixed"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/furniture/furniture/old_laptop"
+							}
+						},
+						{
+							"when": [
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/furniture/furniture/old_laptop_left_hand"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/iron_ingot"
+					}
+				}
+			},
+			{
+				"when": [
+					"Memorable Picture",
+					"Памятная фотография"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/memorable_picture"
+				}
+			},
+			{
+				"when": [
+					"Microphone",
+					"Микрофон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/microphone"
+				}
+			},
+			{
+				"when": [
+					"Microphone Stand",
+					"Стойка с микрофоном"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/microphone_stand"
+				}
+			},
+			{
+				"when": [
+					"Microscope",
+					"Микроскоп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/microscope"
+				}
+			},
+			{
+				"when": [
+					"Big Mirror",
+					"Большое зеркало"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/big_mirror"
+				}
+			},
+			{
+				"when": [
+					"Broken Mirror",
+					"Разбитое зеркало"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/broken_mirror"
+				}
+			},
+			{
+				"when": [
+					"Mirror",
+					"Зеркало"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/mirror"
+				}
+			},
+			{
+				"when": [
+					"Monitor",
+					"Монитор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/monitor"
+				}
+			},
+			{
+				"when": [
+					"Old Monitor",
+					"Старый монитор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/monitor_old"
+				}
+			},
+			{
+				"when": [
+					"Old Monitor With Keyboard",
+					"Старый монитор с клавиатурой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/monitor_old_with_keyboard"
+				}
+			},
+			{
+				"when": [
+					"Monitor With Keyboard",
+					"Монитор с клавиатурой"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/monitor_with_keyboard"
+				}
+			},
+			{
+				"when": [
+					"Chain Oil Lantern",
+					"Керосиновая лампа на цепи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/chain_oil_lantern"
+				}
+			},
+			{
+				"when": [
+					"Chain Soul Oil Lantern",
+					"Керосиновая лампа душ на цепи"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/chain_soul_oil_lantern"
+				}
+			},
+			{
+				"when": [
+					"Oil Lantern",
+					"Керосиновая лампа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/oil_lantern"
+				}
+			},
+			{
+				"when": [
+					"Soul Oil Lantern",
+					"Керосиновая лампа душ"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/soul_oil_lantern"
+				}
+			},
+			{
+				"when": [
+					"Oscilloscope",
+					"Осциллограф"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/oscilloscope"
+				}
+			},
+			{
+				"when": [
+					"Antique Phone",
+					"Антикварный телефон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/antique_phone"
+				}
+			},
+			{
+				"when": [
+					"Old Phone",
+					"Старый телефон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/old_phone"
+				}
+			},
+			{
+				"when": [
+					"Phone",
+					"Телефон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/phone"
+				}
+			},
+			{
+				"when": [
+					"Pitchfork In Hay",
+					"Вилы в сене"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pitchfork_in_hay"
+				}
+			},
+			{
+				"when": [
+					"License In Frame",
+					"Лицензия в рамке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/license_in_frame"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Pizza Boxes",
+					"Стопка коробок с пиццей"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_pizza_boxes"
+				}
+			},
+			{
+				"when": [
+					"Pool Triangle",
+					"Пирамида бильярдных шаров"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pool_triangle"
+				}
+			},
+			{
+				"when": [
+					"Post Lamp",
+					"Уличный фонарь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/post_lamp"
+				}
+			},
+			{
+				"when": [
+					"Wall Post Lamp",
+					"Настенный уличный фонарь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wall_post_lamp"
+				}
+			},
+			{
+				"when": [
+					"Military Radiostation",
+					"Военная радиостанция"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/military_radiostation"
+				}
+			},
+			{
+				"when": [
+					"Portable Radio",
+					"Переносной радиоприёмник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/portable_radio"
+				}
+			},
+			{
+				"when": [
+					"Radio",
+					"Радиоприёмник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/radio"
+				}
+			},
+			{
+				"when": [
+					"Samovar",
+					"Самовар"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/samovar"
+				}
+			},
+			{
+				"when": [
+					"Sapper",
+					"Электронный жучок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/sapper"
+				}
+			},
+			{
+				"when": [
+					"Tape Recorder",
+					"Магнитофон"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/tape_recorder"
+				}
+			},
+			{
+				"when": [
+					"Shelf",
+					"Полка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/shelf"
+				}
+			},
+			{
+				"when": [
+					"Ship In Big Bottle",
+					"Корабль в большой бутылке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ship_in_big_bottle"
+				}
+			},
+			{
+				"when": [
+					"Boat in a Bottle",
+					"Корабль в бутылке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ship_in_bottle"
+				}
+			},
+			{
+				"when": [
+					"Ship In Round Bottle",
+					"Корабль в круглой бутылке"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ship_in_round_bottle"
+				}
+			},
+			{
+				"when": [
+					"Snowman",
+					"Снеговик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/snowman"
+				}
+			},
+			{
+				"when": [
+					"Small Speaker",
+					"Маленький динамик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_speaker"
+				}
+			},
+			{
+				"when": [
+					"TV Speaker",
+					"Телевизионный динамик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/tv_speaker"
+				}
+			},
+			{
+				"when": [
+					"Speaker",
+					"Динамик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/speaker"
+				}
+			},
+			{
+				"when": [
+					"Synthesizer",
+					"Синтезатор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/synthesizer"
+				}
+			},
+			{
+				"when": [
+					"Red Button",
+					"Красная кнопка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/red_button"
+				}
+			},
+			{
+				"when": [
+					"Table Bell",
+					"Настольный звонок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/table_bell"
+				}
+			},
+			{
+				"when": [
+					"Wall Switch",
+					"Настенный выключатель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wall_switch"
+				}
+			},
+			{
+				"when": [
+					"Antique Table Lamp",
+					"Антикварная настольная лампа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/antique_table_lamp"
+				}
+			},
+			{
+				"when": [
+					"Table Lamp",
+					"Настольная лампа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/table_lamp"
+				}
+			},
+			{
+				"when": [
+					"Antique Plate",
+					"Антикварная тарелка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/antique_plate"
+				}
+			},
+			{
+				"when": [
+					"Antique Table Set",
+					"Антикварный столовый набор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/antique_table_set"
+				}
+			},
+			{
+				"when": [
+					"Antique Teapot",
+					"Антикварный чайник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/antique_teapot"
+				}
+			},
+			{
+				"when": [
+					"Antique Tea Set",
+					"Антикварный чайный сервиз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/antique_tea_set"
+				}
+			},
+			{
+				"when": [
+					"Coffie Set",
+					"Кофейный набор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/coffee_set"
+				}
+			},
+			{
+				"when": [
+					"Old Teapot",
+					"Старый чайник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/old_teapot"
+				}
+			},
+			{
+				"when": [
+					"Plate",
+					"Тарелка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/plate"
+				}
+			},
+			{
+				"when": [
+					"Table Set",
+					"Столовый набор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/table_set"
+				}
+			},
+			{
+				"when": [
+					"Teapot",
+					"Чайник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/teapot"
+				}
+			},
+			{
+				"when": [
+					"Teapot Tripod",
+					"Подвешенный чайник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/teapot_tripod"
+				}
+			},
+			{
+				"when": [
+					"Teddy Bear",
+					"Плюшевый медведь"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/teddy_bear"
+				}
+			},
+			{
+				"when": [
+					"Handmade Terminal",
+					"Самодельный терминал"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/handmade_terminal"
+				}
+			},
+			{
+				"when": [
+					"Old Handmade Terminal",
+					"Старый самодельный терминал"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/old_handmade_terminal"
+				}
+			},
+			{
+				"when": [
+					"Terminal",
+					"Терминал"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/terminal"
+				}
+			},
+			{
+				"when": [
+					"Bunch Of Test Tubes",
+					"Куча лабораторных пробирок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/bunch_of_test_tubes"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Test Tubes",
+					"Стопка лабораторных пробирок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_test_tubes"
+				}
+			},
+			{
+				"when": [
+					"Test Tubes",
+					"Лабораторные пробирки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/test_tubes"
+				}
+			},
+			{
+				"when": [
+					"Toilet",
+					"Унитаз"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/toilet"
+				}
+			},
+			{
+				"when": [
+					"Torch Sconce",
+					"Держатель для факела"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/torch_sconce"
+				}
+			},
+			{
+				"when": [
+					"Toilet Paper",
+					"Туалетная бумага"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/toilet_paper"
+				}
+			},
+			{
+				"when": [
+					"Filled Trash Can",
+					"Полное мусорное ведро"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/filled_trash_can"
+				}
+			},
+			{
+				"when": [
+					"Trash Can",
+					"Мусорное ведро"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/trash_can"
+				}
+			},
+			{
+				"when": [
+					"Big Old TV",
+					"Большой старый телевизор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/big_old_tv"
+				}
+			},
+			{
+				"when": [
+					"Old TV",
+					"Старый телевизор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/old_tv"
+				}
+			},
+			{
+				"when": [
+					"Small Old TV",
+					"Маленький старый телевизор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/small_old_tv"
+				}
+			},
+			{
+				"when": [
+					"TV",
+					"Телевизор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/tv"
+				}
+			},
+			{
+				"when": [
+					"Wall TV",
+					"Настенный телевизор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/tv_wall"
+				}
+			},
+			{
+				"when": [
+					"Typewriter",
+					"Пишущая машинка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/typewriter"
+				}
+			},
+			{
+				"when": [
+					"Warning Lamp",
+					"Сигнальная лампа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/warning_lamp"
+				}
+			},
+			{
+				"when": [
+					"New Russian Pirate",
+					"Новый российский пират"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/new_russian_pirate"
+				}
+			},
+			{
+				"when": [
+					"Buckaroo",
+					"Клячник"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/buckaroo"
+				}
+			},
+			{
+				"when": [
+					"Lenin Statue",
+					"Статуя Ленина"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/lenin_statue"
+				}
+			},
+			{
+				"when": [
+					"Unpainted Statue",
+					"Недокрашенная статуя"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/unpainted_statue"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Scrolls",
+					"Стопка свитков"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_scrolls"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Newspapers",
+					"Стопка газет"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_newspapers"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Enchanted Books",
+					"Стопка зачарованных книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_enchanted_books"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Notes",
+					"Стопка записок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_notes"
+				}
+			},
+			{
+				"when": [
+					"Bunch Of Books",
+					"Связка книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/bunch_of_books"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Folders",
+					"Стопка канцелярских папок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_folders"
+				}
+			},
+			{
+				"when": [
+					"Rolled Out Blueprint",
+					"Развёрнутый чертёж"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/rolled_out_blueprint"
+				}
+			},
+			{
+				"when": [
+					"Opened Book",
+					"Открытая книга"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/opened_book"
+				}
+			},
+			{
+				"when": [
+					"That was a hell Of a campaign son!",
+					"Статуя Рика Мэя"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/rick_may"
+				}
+			},
+			{
+				"when": [
+					"Venus",
+					"Венера Милосская"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/venus"
+				}
+			},
+			{
+				"when": [
+					"Big Stack Of Documents",
+					"Большая стопка документов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/big_stack_of_documents"
+				}
+			},
+			{
+				"when": [
+					"Stack Of Documents",
+					"Стопка документов"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_documents"
+				}
+			},
+			{
+				"when": [
+					"Book and Quill",
+					"Книга с пером"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/book_and_quill"
+				}
+			},
+			{
+				"when": [
+					"Paper and Quill",
+					"Бумага с пером"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/paper_and_quill"
+				}
+			},
+			{
+				"when": [
+					"Stack Of 2 Books",
+					"Стопка из 2 книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_2_books"
+				}
+			},
+			{
+				"when": [
+					"Stack Of 3 Books",
+					"Стопка из 3 книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_3_books"
+				}
+			},
+			{
+				"when": [
+					"Stack Of 4 Books",
+					"Стопка из 4 книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_4_books"
+				}
+			},
+			{
+				"when": [
+					"Stack Of 5 Books",
+					"Стопка из 5 книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_5_books"
+				}
+			},
+			{
+				"when": [
+					"Stack Of 6 Books",
+					"Стопка из 6 книг"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_6_books"
+				}
+			},
+			{
+				"when": [
+					"August Bust",
+					"Бюст Августа"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/august_bust"
+				}
+			},
+			{
+				"when": [
+					"Weighing Scales",
+					"Весы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/weighing_scales"
+				}
+			},
+			{
+				"when": [
+					"Берёзовый стул",
+					"Birch Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_chair"
+				}
+			},
+			{
+				"when": [
+					"Берёзовый стол",
+					"Birch Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table"
+				}
+			},
+			{
+				"when": [
+					"Центр берёзового стола",
+					"Birch Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table_center"
+				}
+			},
+			{
+				"when": [
+					"Угол берёзового стола",
+					"Birch Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край берёзового стола",
+					"Birch Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Левый край берёзового стола",
+					"Birch Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table_left"
+				}
+			},
+			{
+				"when": [
+					"Середина берёзового стола",
+					"Birch Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Правый край берёзового стола",
+					"Birch Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/birch_table_right"
+				}
+			},
+			{
+				"when": [
+					"Маленький берёзовый стол",
+					"Small Birch Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_birch_table"
+				}
+			},
+			{
+				"when": [
+					"Стул из тёмного дуба",
+					"Dark Oak Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_chair"
+				}
+			},
+			{
+				"when": [
+					"Стол из тёмного дуба",
+					"Dark Oak Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table"
+				}
+			},
+			{
+				"when": [
+					"Центр стола из тёмного дуба",
+					"Dark Oak Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table_center"
+				}
+			},
+			{
+				"when": [
+					"Угол стола из тёмного дуба",
+					"Dark Oak Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край стола из тёмного дуба",
+					"Dark Oak Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Левый край стола из тёмного дуба",
+					"Dark Oak Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table_left"
+				}
+			},
+			{
+				"when": [
+					"Середина стола из тёмного дуба",
+					"Dark Oak Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Правый край стола из тёмного дуба",
+					"Dark Oak Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/dark_oak_table_right"
+				}
+			},
+			{
+				"when": [
+					"Маленький стол из тёмного дуба",
+					"Small Dark Oak Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_dark_oak_table"
+				}
+			},
+			{
+				"when": [
+					"Дубовый стул",
+					"Oak Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_chair"
+				}
+			},
+			{
+				"when": [
+					"Дубовый стол",
+					"Oak Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table"
+				}
+			},
+			{
+				"when": [
+					"Центр дубового стола",
+					"Oak Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table_center"
+				}
+			},
+			{
+				"when": [
+					"Угол дубового стола",
+					"Oak Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край дубового стола",
+					"Oak Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Левый край дубового стола",
+					"Oak Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table_left"
+				}
+			},
+			{
+				"when": [
+					"Середина дубового стола",
+					"Oak Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Правый край дубового стола",
+					"Oak Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/oak_table_right"
+				}
+			},
+			{
+				"when": [
+					"Маленький дубовый стол",
+					"Small Oak Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_oak_table"
+				}
+			},
+			{
+				"when": [
+					"Маленький еловый стол",
+					"Small Spruce Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_spruce_table"
+				}
+			},
+			{
+				"when": [
+					"Еловый стол",
+					"Spruce Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table"
+				}
+			},
+			{
+				"when": [
+					"Центр елового стола",
+					"Spruce Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table_center"
+				}
+			},
+			{
+				"when": [
+					"Угол елового стола",
+					"Spruce Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край елового стола",
+					"Spruce Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Левый край елового стола",
+					"Spruce Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table_left"
+				}
+			},
+			{
+				"when": [
+					"Середина елового стола",
+					"Spruce Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Правый край елового стола",
+					"Spruce Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/spruce_table_right"
+				}
+			},
+			{
+				"when": [
+					"Перевёрнутый угол елового стола",
+					"Inverted Spruce Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/inverted_spruce_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Перевёрнутый край елового стола",
+					"Inverted Spruce Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/inverted_spruce_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Табурет",
+					"Stool"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/stool"
+				}
+			},
+			{
+				"when": [
+					"Pale Oak Drawer Cabinet Top",
+					"Верхний шкаф из бледного дуба с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/pale_oak_drawer_cabinet_top"
+				}
+			},
+			{
+				"when": [
+					"Pale Oak Drawer Cabinet",
+					"Шкаф из бледного дуба с ящиком"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/pale_oak_drawer_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Pale Oak Shelfs Cabinet",
+					"Шкаф из бледного дуба с полками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/pale_oak_shelfs_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Pale Oak 3 Drawers Cabinet",
+					"Шкаф из бледного дуба с 3 ящиками"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/pale_oak_3_drawers_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Pale Oak Mirror Cabinet",
+					"Шкаф из бледного дуба с зеркалом"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/cabinet/pale_oak_mirror_cabinet"
+				}
+			},
+			{
+				"when": [
+					"Stack of Plates",
+					"Стопка тарелок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_plates"
+				}
+			},
+			{
+				"when": [
+					"Stack of Antique Plates",
+					"Стопка антикварных тарелок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/stack_of_antique_plates"
+				}
+			},
+			{
+				"when": [
+					"Pot Tripod",
+					"Подвешенная кастрюля"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/pot_tripod"
+				}
+			},
+			{
+				"when": [
+					"Decanter with Wine",
+					"Декантер с вином"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/decanter_with_wine"
+				}
+			},
+			{
+				"when": [
+					"Velvet Ribbon",
+					"Бархатная лента"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/velvet_ribbon"
+				}
+			},
+			{
+				"when": [
+					"Wine Rack",
+					"Винный стеллаж"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wine_rack"
+				}
+			},
+			{
+				"when": [
+					"Стол из акации",
+					"Acacia Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table"
+				}
+			},
+			{
+				"when": [
+					"Центр стола из акации",
+					"Acacia Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table_center"
+				}
+			},
+			{
+				"when": [
+					"Угол стола из акации",
+					"Acacia Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край стола из акации",
+					"Acacia Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Левый край стола из акации",
+					"Acacia Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table_left"
+				}
+			},
+			{
+				"when": [
+					"Середина стола из акации",
+					"Acacia Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Правый край стола из акации",
+					"Acacia Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/acacia_table_right"
+				}
+			},
+			{
+				"when": [
+					"Маленький стол из акации",
+					"Small Acacia Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_acacia_table"
+				}
+			},
+			{
+				"when": [
+					"Перевёрнутый угол стола из акации",
+					"Inverted Acacia Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/inverted_acacia_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Перевёрнутый край стола из акации",
+					"Inverted Acacia Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/inverted_acacia_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Стол из мангрового дерева",
+					"Mangrove Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table"
+				}
+			},
+			{
+				"when": [
+					"Маленький стол из мангрового дерева",
+					"Small Mangrove Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_mangrove_table"
+				}
+			},
+			{
+				"when": [
+					"Угол стола из мангрового дерева",
+					"Mangrove Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край стола из мангрового дерева",
+					"Mangrove Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Центр стола из мангрового дерева",
+					"Mangrove Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table_center"
+				}
+			},
+			{
+				"when": [
+					"Левый край стола из мангрового дерева",
+					"Mangrove Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table_left"
+				}
+			},
+			{
+				"when": [
+					"Правый край стола из мангрового дерева",
+					"Mangrove Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table_right"
+				}
+			},
+			{
+				"when": [
+					"Середина стола из мангрового дерева",
+					"Mangrove Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Куча мусорных мешков",
+					"Bunch of Trash Bags"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/bunch_of_trash_bags"
+				}
+			},
+			{
+				"when": [
+					"Полка с алкоголем",
+					"Shelf with Alcohol"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/shelf_with_alcohol"
+				}
+			},
+			{
+				"when": [
+					"Полка с пивом",
+					"Shelf with Beer"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/shelf_with_beer"
+				}
+			},
+			{
+				"when": [
+					"Полка с вином",
+					"Shelf with Wine"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/shelf_with_wine"
+				}
+			},
+			{
+				"when": [
+					"Полка с дорогим алкоголем",
+					"Shelf with Expensive Alcohol"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/shelf_with_expensive_alcohol"
+				}
+			},
+			{
+				"when": [
+					"Полка с ромом",
+					"Shelf with Rum"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/shelf_with_rum"
+				}
+			},
+			{
+				"when": [
+					"Пивной набор",
+					"Beer Set"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/beer_set"
+				}
+			},
+			{
+				"when": [
+					"Водочный сервиз",
+					"Vodka Set"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/vodka_set"
+				}
+			},
+			{
+				"when": [
+					"Набор эля",
+					"Ale Set"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/ale_set"
+				}
+			},
+			{
+				"when": [
+					"Набор медовухи",
+					"Mead Set"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/mead_set"
+				}
+			},
+			{
+				"when": [
+					"Винный сервиз",
+					"Wine Set"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wine_set"
+				}
+			},
+			{
+				"when": [
+					"Винный сервиз на двоих",
+					"Wine Set for Couple"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/wine_set_for_couple"
+				}
+			},
+			{
+				"when": [
+					"Пустое ведро",
+					"Empty Bucket"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/empty_bucket"
+				}
+			},
+			{
+				"when": [
+					"Ведро с водой",
+					"Water Bucket"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/furniture/water_bucket"
+				}
+			},
+			{
+				"when": [
+					"Железный стол",
+					"Iron Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table"
+				}
+			},
+			{
+				"when": [
+					"Маленький железный стол",
+					"Small Iron Table"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/small_iron_table"
+				}
+			},
+			{
+				"when": [
+					"Центр железного стола",
+					"Iron Table Center"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table_center"
+				}
+			},
+			{
+				"when": [
+					"Угол железного стола",
+					"Iron Table Corner"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table_corner"
+				}
+			},
+			{
+				"when": [
+					"Край железного стола",
+					"Iron Table Edge"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table_edge"
+				}
+			},
+			{
+				"when": [
+					"Левый край железного стола",
+					"Iron Table Left"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table_left"
+				}
+			},
+			{
+				"when": [
+					"Правый край железного стола",
+					"Iron Table Right"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table_right"
+				}
+			},
+			{
+				"when": [
+					"Середина железного стола",
+					"Iron Table Middle"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/iron_table_middle"
+				}
+			},
+			{
+				"when": [
+					"Стул из мангрового дерева",
+					"Mangrove Chair"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/furniture/tables/mangrove_chair"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/iron_ingot"
+		}
+	}
+}

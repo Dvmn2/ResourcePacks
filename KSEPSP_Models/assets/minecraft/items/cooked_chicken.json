@@ -1,0 +1,42 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Cheese Shawarma",
+					"Сырная шаурма"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_chicken/cheese_shawarma"
+				}
+			},
+			{
+				"when": [
+					"Garlic Shawarma",
+					"Чесночная шаурма"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_chicken/garlic_shawarma"
+				}
+			},
+			{
+				"when": [
+					"Shawarma",
+					"Шаурма"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/cooked_chicken/shawarma"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/cooked_chicken"
+		}
+	}
+}

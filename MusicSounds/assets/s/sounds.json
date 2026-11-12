@@ -1,0 +1,42 @@
+{
+    "whales_1": {
+        "sounds": [
+            "s:whales_1"
+        ]
+    },
+    "whales_2": {
+        "sounds": [
+            "s:whales_2"
+        ]
+    },
+    "submarine_exterior": {
+        "sounds": [
+            "s:submarine_exterior"
+        ]
+    },
+    "submarine_interior_1": {
+        "sounds": [
+            "s:submarine_interior_1"
+        ]
+    },
+    "submarine_interior_2": {
+        "sounds": [
+            "s:submarine_interior_2"
+        ]
+    },
+    "submarine_interior_3": {
+        "sounds": [
+            "s:submarine_interior_3"
+        ]
+    },
+    "submarine_interior_4": {
+        "sounds": [
+            "s:submarine_interior_4"
+        ]
+    },
+    "silence": {
+        "sounds": [
+            "s:silence"
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/custom/minecart.png",
+	"textureSize": [1024, 1024],
+	"shadowSize": 0,
+	"models": [
+		{
+			"part": "front",
+			"id": "front",
+			"invertAxis": "xy",
+			"translate": [0, -1, -9],
+			"submodels": [
+				{
+					"id": "front_bombcart",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [0, -180, 0],
+					"boxes": [
+						{"coordinates": [-8, 2, 8, 16, 8, 2], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "back_bombcart",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-8, 2, 8, 16, 8, 2], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "right_bombcart",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [0, 90, 0],
+					"boxes": [
+						{"coordinates": [-8, 2, 6, 16, 8, 2], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "left_bombcart",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [0, -90, 0],
+					"boxes": [
+						{"coordinates": [-8, 2, 6, 16, 8, 2], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "base",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [0, 90, 90],
+					"boxes": [
+						{"coordinates": [-10, -8, 0, 20, 16, 2], "textureOffset": [0, 10]},
+						{"coordinates": [-17, -10, 4, 34, 20, 9], "textureOffset": [0, 28]},
+						{"coordinates": [-1, -8, 8, 16, 16, 16], "textureOffset": [0, 57]},
+						{"coordinates": [-1, -8, 8, 16, 16, 16], "textureOffset": [0, 89], "sizeAdd": 0.2},
+						{"coordinates": [7, -1, 24, 2, 2, 3], "textureOffset": [0, 57]},
+						{"coordinates": [7, -1, 24, 2, 2, 3], "textureOffset": [0, 62], "sizeAdd": 0.25},
+						{"coordinates": [-14, -8, 8, 6, 16, 16], "textureOffset": [64, 72]},
+						{"coordinates": [-14, 0, 8, 6, 0, 16], "textureOffset": [76, 72]},
+						{"coordinates": [-18, -6, 4, 4, 12, 16], "textureOffset": [86, 44]},
+						{"coordinates": [-16, 2.5, 20, 0, 3, 5], "textureOffset": [0, 97]},
+						{"coordinates": [-17.5, -5, 20, 3, 3, 15], "textureOffset": [92, 26]},
+						{"coordinates": [-17.5, -5, 20, 3, 3, 15], "textureOffset": [92, 8], "sizeAdd": 0.25},
+						{"coordinates": [-6, -6, 10, 5, 12, 12], "textureOffset": [64, 104], "sizeAdd": 0.1},
+						{"coordinates": [-10, -3, 13, 8, 6, 6], "textureOffset": [98, 116]}
+					],
+					"submodels": [
+						{
+							"id": "wire_bombcart",
+							"invertAxis": "xy",
+							"translate": [-7.25, 3.2, 8.1],
+							"rotate": [-37.5, 90, 0],
+							"boxes": [
+								{"coordinates": [-3, 0.05, -8.1, 6, 0, 16], "textureOffset": [82, 72]}
+							]
+						},
+						{
+							"id": "cube_bombcart",
+							"invertAxis": "xy",
+							"translate": [-11, 0, 16],
+							"rotate": [90, 0, 0],
+							"boxes": [
+								{"coordinates": [-3, 0, -8, 6, 0, 16], "textureOffset": [76, 72]}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "back",
+			"id": "back",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "bottom",
+			"id": "bottom",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0],
+			"rotate": [-180, -180, -180]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -25, 7]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -25, -7]
+		}
+	]
+}

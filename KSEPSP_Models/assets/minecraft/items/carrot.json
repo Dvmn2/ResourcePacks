@@ -1,0 +1,62 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Cucumber",
+					"Огурец"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/carrot/cucumber"
+				}
+			},
+			{
+				"when": [
+					"Garlic",
+					"Чеснок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/carrot/garlic"
+				}
+			},
+			{
+				"when": [
+					"Long Cucumber",
+					"Длинный огурец"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/carrot/long_cucumber"
+				}
+			},
+			{
+				"when": [
+					"Sauerkraut",
+					"Квашеная капуста"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/carrot/sauerkraut"
+				}
+			},
+			{
+				"when": [
+					"Pickle",
+					"Маринованный огурчик"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/carrot/pickle"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/carrot"
+		}
+	}
+}

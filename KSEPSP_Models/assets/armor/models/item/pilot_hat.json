@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/pilot_hat",
+    "layer1": "armor:item/pilot_hat_overlay"
+  }
+}

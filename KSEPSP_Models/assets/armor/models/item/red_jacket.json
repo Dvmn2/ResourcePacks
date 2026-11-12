@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/red_jacket",
+    "layer1": "armor:item/red_jacket_overlay"
+  }
+}

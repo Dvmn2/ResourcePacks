@@ -1,0 +1,93 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Jackhammer",
+					"Отбойный молоток"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/jackhammer"
+				}
+			},
+			{
+				"when": [
+					"Plastic Spoon",
+					"Пластиковая ложка"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/plastic_spoon"
+				}
+			},
+			{
+				"when": [
+					"Snow Shovel",
+					"Снегоуборочная лопата"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/snow_shovel"
+				}
+			},
+			{
+				"when": [
+					"Spade Shovel",
+					"Штыковая лопата"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/spade_shovel"
+				}
+			},
+			{
+				"when": [
+					"Spatula",
+					"Шпатель"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/spatula"
+				}
+			},
+			{
+				"when": [
+					"Square Shovel",
+					"Совковая лопата"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/square_shovel"
+				}
+			},
+			{
+				"when": [
+					"Trench Shovel",
+					"Траншейная лопата"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/trench_shovel"
+				}
+			},
+			{
+				"when": [
+					"Trowel",
+					"Мастерок"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shovel/trowel"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/stone_shovel"
+		}
+	}
+}

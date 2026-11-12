@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/august_pants",
+    "layer1": "armor:item/august_pants_overlay"
+  }
+}

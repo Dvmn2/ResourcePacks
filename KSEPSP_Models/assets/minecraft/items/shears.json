@@ -1,0 +1,113 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Cutters",
+					"Кусачки"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/cutters"
+				}
+			},
+			{
+				"when": [
+					"Golden Sickle",
+					"Золотой серп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/golden_sickle"
+				}
+			},
+			{
+				"when": [
+					"Pruners",
+					"Секаторы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/pruners"
+				}
+			},
+			{
+				"when": [
+					"Razor",
+					"Бритва"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/razor"
+				}
+			},
+			{
+				"when": [
+					"Razor Blade",
+					"Лезвие бритвы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/razor_blade"
+				}
+			},
+			{
+				"when": [
+					"Scissors",
+					"Канцелярские ножницы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/scissors"
+				}
+			},
+			{
+				"when": [
+					"Sickle",
+					"Серп"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/sickle"
+				}
+			},
+			{
+				"when": [
+					"Smithing Tongs",
+					"Кузнечные щипцы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/smithing_tongs"
+				}
+			},
+			{
+				"when": [
+					"Spindle Spoon",
+					"Ложка-веретено"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/spindle_spoon"
+				}
+			},
+			{
+				"when": [
+					"Spring Shears",
+					"Пружинные ножницы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/tools/shears/spring_shears"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/shears"
+		}
+	}
+}

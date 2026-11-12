@@ -1,0 +1,72 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Adjika",
+					"Аджика"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/apple/adjika"
+				}
+			},
+			{
+				"when": [
+					"Banana",
+					"Банан"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/apple/banana"
+				}
+			},
+			{
+				"when": [
+					"Candy Apple",
+					"Карамельное Яблоко"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/apple/candy_apple"
+				}
+			},
+			{
+				"when": [
+					"Honey Candy Apple",
+					"Медовое Яблоко"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/apple/honey_candy_apple"
+				}
+			},
+			{
+				"when": [
+					"Pickled Tomatoes",
+					"Маринованные помидоры"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/apple/pickled_tomatoes"
+				}
+			},
+			{
+				"when": [
+					"Tomato",
+					"Помидор"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/apple/tomato"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/apple"
+		}
+	}
+}

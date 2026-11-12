@@ -1,0 +1,42 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Cheese",
+					"Сыр"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/pumpkin_pie/cheese"
+				}
+			},
+			{
+				"when": [
+					"Cheese Head",
+					"Головка сыра"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/pumpkin_pie/cheese_head"
+				}
+			},
+			{
+				"when": [
+					"Cherry Pie",
+					"Вишнёвый пирог"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/pumpkin_pie/cherry_pie"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/pumpkin_pie"
+		}
+	}
+}

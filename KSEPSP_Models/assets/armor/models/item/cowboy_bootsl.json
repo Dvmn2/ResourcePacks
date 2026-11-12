@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/cowboy_bootsl",
+    "layer1": "armor:item/cowboy_bootsl_overlay"
+  }
+}

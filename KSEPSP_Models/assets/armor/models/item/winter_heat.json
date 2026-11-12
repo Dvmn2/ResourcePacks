@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armor:item/winter_heat",
+    "layer1": "armor:item/winter_heat_overlay"
+  }
+}

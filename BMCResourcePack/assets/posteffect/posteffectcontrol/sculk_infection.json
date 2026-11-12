@@ -1,0 +1,12 @@
+{
+  "display_name": "Sculk Infection",
+  "flashing": false,
+  "over_hud": false,
+  "default_intensity": 1.0,
+  "default_color": "#29DFEB",
+  "params": {
+    "stage": { "index": 0, "default": 1.0, "min": 0.0, "max": 4.0 },
+    "pixel": { "index": 1, "default": 6.0, "min": 2.0, "max": 16.0 },
+    "speed": { "index": 2, "default": 1.0, "min": 0.0, "max": 1.5 }
+  }
+}

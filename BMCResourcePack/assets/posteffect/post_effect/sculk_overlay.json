@@ -1,0 +1,31 @@
+{
+  "targets": {
+    "swap": {}
+  },
+  "passes": [
+    {
+      "vertex_shader": "posteffect:post/quad",
+      "fragment_shader": "posteffect:post/sculk_overlay",
+      "inputs": [
+        { "sampler_name": "In", "target": "minecraft:main" }
+      ],
+      "output": "swap",
+      "uniforms": {
+        "EffectParams": [
+          { "type": "vec4", "value": [0.0, 0.0, 0.0, 0.0] },
+          { "type": "vec4", "value": [0.0, 0.0, 0.0, 0.0] },
+          { "type": "vec4", "value": [0.0, 0.0, 0.0, 0.0] },
+          { "type": "vec4", "value": [0.0, 0.0, 0.0, 0.0] }
+        ]
+      }
+    },
+    {
+      "vertex_shader": "posteffect:post/quad",
+      "fragment_shader": "posteffect:post/blit",
+      "inputs": [
+        { "sampler_name": "In", "target": "swap" }
+      ],
+      "output": "minecraft:main"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					"Buterbrod",
+					"Бутерброд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/buterbrod"
+				}
+			},
+			{
+				"when": [
+					"Galets",
+					"Галеты"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/galets"
+				}
+			},
+			{
+				"when": [
+					"Honey Sandwich",
+					"Медовый бутерброд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/honey_sandwich"
+				}
+			},
+			{
+				"when": [
+					"Piece of Bread",
+					"Кусок хлеба"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/piece_of_bread"
+				}
+			},
+			{
+				"when": [
+					"Sandwich",
+					"Сэндвич"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/sandwich"
+				}
+			},
+			{
+				"when": [
+					"Ham Sandwich",
+					"Сэндвич с ветчиной"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/ham_sandwich"
+				}
+			},
+			{
+				"when": [
+					"Talking Buterbrod",
+					"Говорящий бутерброд"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/talking_buterbrod"
+				}
+			},
+			{
+				"when": [
+					"Toast",
+					"Тост"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/toast"
+				}
+			},
+			{
+				"when": [
+					"Pizza Slice",
+					"Слайс пиццы"
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ksepsp:item/9_0/food/bread/pizza_slice"
+				}
+			},
+			{
+				"when": [
+					"Pizza",
+					"Пицца"
+				],
+				"model": {
+					"type": "minecraft:select",
+					"property": "minecraft:display_context",
+					"cases": [
+						{
+							"when": [
+								"firstperson_righthand",
+								"thirdperson_righthand",
+								"ground",
+								"fixed",
+								"firstperson_lefthand",
+								"thirdperson_lefthand"
+							],
+							"model": {
+								"type": "minecraft:model",
+								"model": "ksepsp:item/9_0/food/bread/pizza"
+							}
+						}
+					],
+					"fallback": {
+						"type": "minecraft:model",
+						"model": "ksepsp:item/9_0/food/bread/pizza_item"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/bread"
+		}
+	}
+}
