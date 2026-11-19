@@ -95,6 +95,16 @@
                         "model": "random:item/poker/poker_chip_15_ui"
                     }
                 }
+            },
+            {
+                "when": [
+                    "Cave Fish",
+                    "Пещерная рыба"
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "random:item/random/cave_fish"
+                }
             }
         ],
         "fallback": {
