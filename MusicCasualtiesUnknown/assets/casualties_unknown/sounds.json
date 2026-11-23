@@ -1,0 +1,277 @@
+{
+    "a_murder_of_your_own": {
+        "sounds": [
+            "casualties_unknown:a_murder_of_your_own"
+        ]
+    },
+    "absolute": {
+        "sounds": [
+            "casualties_unknown:absolute"
+        ]
+    },
+    "agony": {
+        "sounds": [
+            "casualties_unknown:agony"
+        ]
+    },
+    "ascent": {
+        "sounds": [
+            "casualties_unknown:ascent"
+        ]
+    },
+    "begin_anew": {
+        "sounds": [
+            "casualties_unknown:begin_anew"
+        ]
+    },
+    "below_the_ice": {
+        "sounds": [
+            "casualties_unknown:below_the_ice"
+        ]
+    },
+    "bio-hazard": {
+        "sounds": [
+            "casualties_unknown:bio-hazard"
+        ]
+    },
+    "biological_exclusion_zone": {
+        "sounds": [
+            "casualties_unknown:biological_exclusion_zone"
+        ]
+    },
+    "cave-in": {
+        "sounds": [
+            "casualties_unknown:cave-in"
+        ]
+    },
+    "chase_it_down": {
+        "sounds": [
+            "casualties_unknown:chase_it_down"
+        ]
+    },
+    "combat_in_the_cold": {
+        "sounds": [
+            "casualties_unknown:combat_in_the_cold"
+        ]
+    },
+    "despair": {
+        "sounds": [
+            "casualties_unknown:despair"
+        ]
+    },
+    "digging_from_afar": {
+        "sounds": [
+            "casualties_unknown:digging_from_afar"
+        ]
+    },
+    "disturbing_discovery": {
+        "sounds": [
+            "casualties_unknown:disturbing_discovery"
+        ]
+    },
+    "downwards": {
+        "sounds": [
+            "casualties_unknown:downwards"
+        ]
+    },
+    "draw_your_last_breath": {
+        "sounds": [
+            "casualties_unknown:draw_your_last_breath"
+        ]
+    },
+    "droning_grays": {
+        "sounds": [
+            "casualties_unknown:droning_grays"
+        ]
+    },
+    "embedded": {
+        "sounds": [
+            "casualties_unknown:embedded"
+        ]
+    },
+    "familiar_face": {
+        "sounds": [
+            "casualties_unknown:familiar_face"
+        ]
+    },
+    "freedom": {
+        "sounds": [
+            "casualties_unknown:freedom"
+        ]
+    },
+    "fuel_assembly": {
+        "sounds": [
+            "casualties_unknown:fuel_assembly"
+        ]
+    },
+    "gaze_into_the_pit": {
+        "sounds": [
+            "casualties_unknown:gaze_into_the_pit"
+        ]
+    },
+    "hostile_encounter": {
+        "sounds": [
+            "casualties_unknown:hostile_encounter"
+        ]
+    },
+    "hydraulics": {
+        "sounds": [
+            "casualties_unknown:hydraulics"
+        ]
+    },
+    "is_this_the_end": {
+        "sounds": [
+            "casualties_unknown:is_this_the_end"
+        ]
+    },
+    "its_chilly_in_here": {
+        "sounds": [
+            "casualties_unknown:its_chilly_in_here"
+        ]
+    },
+    "its_ionizing": {
+        "sounds": [
+            "casualties_unknown:its_ionizing"
+        ]
+    },
+    "lab_testing": {
+        "sounds": [
+            "casualties_unknown:lab_testing"
+        ]
+    },
+    "lush_descent": {
+        "sounds": [
+            "casualties_unknown:lush_descent"
+        ]
+    },
+    "odd_place": {
+        "sounds": [
+            "casualties_unknown:odd_place"
+        ]
+    },
+    "paranormal_threat": {
+        "sounds": [
+            "casualties_unknown:paranormal_threat"
+        ]
+    },
+    "pathway_to_freedom": {
+        "sounds": [
+            "casualties_unknown:pathway_to_freedom"
+        ]
+    },
+    "pe": {
+        "sounds": [
+            "casualties_unknown:pe"
+        ]
+    },
+    "proxy": {
+        "sounds": [
+            "casualties_unknown:proxy"
+        ]
+    },
+    "rainfall_underground": {
+        "sounds": [
+            "casualties_unknown:rainfall_underground"
+        ]
+    },
+    "refractions": {
+        "sounds": [
+            "casualties_unknown:refractions"
+        ]
+    },
+    "run_for_your_life": {
+        "sounds": [
+            "casualties_unknown:run_for_your_life"
+        ]
+    },
+    "scorched_steel": {
+        "sounds": [
+            "casualties_unknown:scorched_steel"
+        ]
+    },
+    "six_thousand_feet_under": {
+        "sounds": [
+            "casualties_unknown:six_thousand_feet_under"
+        ]
+    },
+    "smooth_sailing": {
+        "sounds": [
+            "casualties_unknown:smooth_sailing"
+        ]
+    },
+    "spiders_in_the_dark": {
+        "sounds": [
+            "casualties_unknown:spiders_in_the_dark"
+        ]
+    },
+    "surface_breach": {
+        "sounds": [
+            "casualties_unknown:surface_breach"
+        ]
+    },
+    "the_abyss_stares_back": {
+        "sounds": [
+            "casualties_unknown:the_abyss_stares_back"
+        ]
+    },
+    "the_flora_is_moving": {
+        "sounds": [
+            "casualties_unknown:the_flora_is_moving"
+        ]
+    },
+    "the_unknown": {
+        "sounds": [
+            "casualties_unknown:the_unknown"
+        ]
+    },
+    "theres_hundreds": {
+        "sounds": [
+            "casualties_unknown:theres_hundreds"
+        ]
+    },
+    "theres_landmines_in_the_desert": {
+        "sounds": [
+            "casualties_unknown:theres_landmines_in_the_desert"
+        ]
+    },
+    "thermal_shock": {
+        "sounds": [
+            "casualties_unknown:thermal_shock"
+        ]
+    },
+    "this_feels_weird": {
+        "sounds": [
+            "casualties_unknown:this_feels_weird"
+        ]
+    },
+    "threat_simulacrum": {
+        "sounds": [
+            "casualties_unknown:threat_simulacrum"
+        ]
+    },
+    "uncertain_future": {
+        "sounds": [
+            "casualties_unknown:uncertain_future"
+        ]
+    },
+    "unethical_experiments": {
+        "sounds": [
+            "casualties_unknown:unethical_experiments"
+        ]
+    },
+    "unfriendly_welcome": {
+        "sounds": [
+            "casualties_unknown:unfriendly_welcome"
+        ]
+    },
+    "what_have_i_done": {
+        "sounds": [
+            "casualties_unknown:what_have_i_done"
+        ]
+    },
+    "whats_with_the_sand": {
+        "sounds": [
+            "casualties_unknown:whats_with_the_sand"
+        ]
+    }
+}
