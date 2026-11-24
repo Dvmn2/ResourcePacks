@@ -1,0 +1,367 @@
+{
+    "abnormality_battle_1": {
+        "sounds": [
+            "library_of_ruina:abnormality_battle_1"
+        ]
+    },
+    "abnormality_battle_2": {
+        "sounds": [
+            "library_of_ruina:abnormality_battle_2"
+        ]
+    },
+    "abnormality_battle_3": {
+        "sounds": [
+            "library_of_ruina:abnormality_battle_3"
+        ]
+    },
+    "angela_1": {
+        "sounds": [
+            "library_of_ruina:angela_1"
+        ]
+    },
+    "angela_2": {
+        "sounds": [
+            "library_of_ruina:angela_2"
+        ]
+    },
+    "angela_3": {
+        "sounds": [
+            "library_of_ruina:angela_3"
+        ]
+    },
+    "binah_battle_1": {
+        "sounds": [
+            "library_of_ruina:binah_battle_1"
+        ]
+    },
+    "binah_battle_2": {
+        "sounds": [
+            "library_of_ruina:binah_battle_2"
+        ]
+    },
+    "binah_battle_3": {
+        "sounds": [
+            "library_of_ruina:binah_battle_3"
+        ]
+    },
+    "binah_story": {
+        "sounds": [
+            "library_of_ruina:binah_story"
+        ]
+    },
+    "chesed_battle_1": {
+        "sounds": [
+            "library_of_ruina:chesed_battle_1"
+        ]
+    },
+    "chesed_battle_2": {
+        "sounds": [
+            "library_of_ruina:chesed_battle_2"
+        ]
+    },
+    "chesed_battle_3": {
+        "sounds": [
+            "library_of_ruina:chesed_battle_3"
+        ]
+    },
+    "chesed_story": {
+        "sounds": [
+            "library_of_ruina:chesed_story"
+        ]
+    },
+    "entrance": {
+        "sounds": [
+            "library_of_ruina:entrance"
+        ]
+    },
+    "from_a_place_of_love": {
+        "sounds": [
+            "library_of_ruina:from_a_place_of_love"
+        ]
+    },
+    "gead_eye_claw": {
+        "sounds": [
+            "library_of_ruina:gead_eye_claw"
+        ]
+    },
+    "gebura_battle_1": {
+        "sounds": [
+            "library_of_ruina:gebura_battle_1"
+        ]
+    },
+    "gebura_battle_2": {
+        "sounds": [
+            "library_of_ruina:gebura_battle_2"
+        ]
+    },
+    "gebura_battle_3": {
+        "sounds": [
+            "library_of_ruina:gebura_battle_3"
+        ]
+    },
+    "gebura_story": {
+        "sounds": [
+            "library_of_ruina:gebura_story"
+        ]
+    },
+    "guest_battle_1": {
+        "sounds": [
+            "library_of_ruina:guest_battle_1"
+        ]
+    },
+    "guest_battle_2": {
+        "sounds": [
+            "library_of_ruina:guest_battle_2"
+        ]
+    },
+    "guest_battle_3": {
+        "sounds": [
+            "library_of_ruina:guest_battle_3"
+        ]
+    },
+    "hod_battle_1": {
+        "sounds": [
+            "library_of_ruina:hod_battle_1"
+        ]
+    },
+    "hod_battle_2": {
+        "sounds": [
+            "library_of_ruina:hod_battle_2"
+        ]
+    },
+    "hod_battle_3": {
+        "sounds": [
+            "library_of_ruina:hod_battle_3"
+        ]
+    },
+    "hod_story": {
+        "sounds": [
+            "library_of_ruina:hod_story"
+        ]
+    },
+    "hokma_battle_1": {
+        "sounds": [
+            "library_of_ruina:hokma_battle_1"
+        ]
+    },
+    "hokma_battle_2": {
+        "sounds": [
+            "library_of_ruina:hokma_battle_2"
+        ]
+    },
+    "hokma_battle_3": {
+        "sounds": [
+            "library_of_ruina:hokma_battle_3"
+        ]
+    },
+    "hokma_story": {
+        "sounds": [
+            "library_of_ruina:hokma_story"
+        ]
+    },
+    "keter_battle_1": {
+        "sounds": [
+            "library_of_ruina:keter_battle_1"
+        ]
+    },
+    "keter_battle_2": {
+        "sounds": [
+            "library_of_ruina:keter_battle_2"
+        ]
+    },
+    "keter_battle_3": {
+        "sounds": [
+            "library_of_ruina:keter_battle_3"
+        ]
+    },
+    "lobby": {
+        "sounds": [
+            "library_of_ruina:lobby"
+        ]
+    },
+    "malkuth_battle_1": {
+        "sounds": [
+            "library_of_ruina:malkuth_battle_1"
+        ]
+    },
+    "malkuth_battle_2": {
+        "sounds": [
+            "library_of_ruina:malkuth_battle_2"
+        ]
+    },
+    "malkuth_battle_3": {
+        "sounds": [
+            "library_of_ruina:malkuth_battle_3"
+        ]
+    },
+    "malkuth_story": {
+        "sounds": [
+            "library_of_ruina:malkuth_story"
+        ]
+    },
+    "netzach_battle_1": {
+        "sounds": [
+            "library_of_ruina:netzach_battle_1"
+        ]
+    },
+    "netzach_battle_2": {
+        "sounds": [
+            "library_of_ruina:netzach_battle_2"
+        ]
+    },
+    "netzach_battle_3": {
+        "sounds": [
+            "library_of_ruina:netzach_battle_3"
+        ]
+    },
+    "netzach_story": {
+        "sounds": [
+            "library_of_ruina:netzach_story"
+        ]
+    },
+    "result": {
+        "sounds": [
+            "library_of_ruina:result"
+        ]
+    },
+    "roland_1": {
+        "sounds": [
+            "library_of_ruina:roland_1"
+        ]
+    },
+    "roland_2": {
+        "sounds": [
+            "library_of_ruina:roland_2"
+        ]
+    },
+    "roland_3": {
+        "sounds": [
+            "library_of_ruina:roland_3"
+        ]
+    },
+    "story_alley": {
+        "sounds": [
+            "library_of_ruina:story_alley"
+        ]
+    },
+    "story_chaboon": {
+        "sounds": [
+            "library_of_ruina:story_chaboon"
+        ]
+    },
+    "story_jinji": {
+        "sounds": [
+            "library_of_ruina:story_jinji"
+        ]
+    },
+    "story_nervous": {
+        "sounds": [
+            "library_of_ruina:story_nervous"
+        ]
+    },
+    "story_simgak": {
+        "sounds": [
+            "library_of_ruina:story_simgak"
+        ]
+    },
+    "string_theocracy": {
+        "sounds": [
+            "library_of_ruina:string_theocracy"
+        ]
+    },
+    "the_blue_reverberation": {
+        "sounds": [
+            "library_of_ruina:the_blue_reverberation"
+        ]
+    },
+    "the_red_mist": {
+        "sounds": [
+            "library_of_ruina:the_red_mist"
+        ]
+    },
+    "the_reverberation_ensemble_asiyah": {
+        "sounds": [
+            "library_of_ruina:the_reverberation_ensemble_asiyah"
+        ]
+    },
+    "the_reverberation_ensemble_atziluth": {
+        "sounds": [
+            "library_of_ruina:the_reverberation_ensemble_atziluth"
+        ]
+    },
+    "the_reverberation_ensemble_briah": {
+        "sounds": [
+            "library_of_ruina:the_reverberation_ensemble_briah"
+        ]
+    },
+    "the_reverberation_ensemble_distorted_asiyah": {
+        "sounds": [
+            "library_of_ruina:the_reverberation_ensemble_distorted_asiyah"
+        ]
+    },
+    "the_reverberation_ensemble_distorted_atziluth": {
+        "sounds": [
+            "library_of_ruina:the_reverberation_ensemble_distorted_atziluth"
+        ]
+    },
+    "the_reverberation_ensemble_distorted_briah": {
+        "sounds": [
+            "library_of_ruina:the_reverberation_ensemble_distorted_briah"
+        ]
+    },
+    "theme": {
+        "sounds": [
+            "library_of_ruina:theme"
+        ]
+    },
+    "tiphereth_battle_1": {
+        "sounds": [
+            "library_of_ruina:tiphereth_battle_1"
+        ]
+    },
+    "tiphereth_battle_2": {
+        "sounds": [
+            "library_of_ruina:tiphereth_battle_2"
+        ]
+    },
+    "tiphereth_battle_3": {
+        "sounds": [
+            "library_of_ruina:tiphereth_battle_3"
+        ]
+    },
+    "tiphereth_story": {
+        "sounds": [
+            "library_of_ruina:tiphereth_story"
+        ]
+    },
+    "warp_station": {
+        "sounds": [
+            "library_of_ruina:warp_station"
+        ]
+    },
+    "warp_train": {
+        "sounds": [
+            "library_of_ruina:warp_train"
+        ]
+    },
+    "yesod_battle_1": {
+        "sounds": [
+            "library_of_ruina:yesod_battle_1"
+        ]
+    },
+    "yesod_battle_2": {
+        "sounds": [
+            "library_of_ruina:yesod_battle_2"
+        ]
+    },
+    "yesod_battle_3": {
+        "sounds": [
+            "library_of_ruina:yesod_battle_3"
+        ]
+    },
+    "yesod_story": {
+        "sounds": [
+            "library_of_ruina:yesod_story"
+        ]
+    }
+}
