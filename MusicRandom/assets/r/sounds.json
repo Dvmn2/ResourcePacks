@@ -49,6 +49,51 @@
             "r:calm"
         ]
     },
+    "calm_1": {
+        "sounds": [
+            "r:calm_1"
+        ]
+    },
+    "calm_2": {
+        "sounds": [
+            "r:calm_2"
+        ]
+    },
+    "calm_3": {
+        "sounds": [
+            "r:calm_3"
+        ]
+    },
+    "calm_4": {
+        "sounds": [
+            "r:calm_4"
+        ]
+    },
+    "calm_5": {
+        "sounds": [
+            "r:calm_5"
+        ]
+    },
+    "calm_6": {
+        "sounds": [
+            "r:calm_6"
+        ]
+    },
+    "calm_7": {
+        "sounds": [
+            "r:calm_7"
+        ]
+    },
+    "calm_8": {
+        "sounds": [
+            "r:calm_8"
+        ]
+    },
+    "calm_9": {
+        "sounds": [
+            "r:calm_9"
+        ]
+    },
     "winter": {
         "sounds": [
             "r:winter"
