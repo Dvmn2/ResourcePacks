@@ -1,0 +1,32 @@
+{
+    "beholder": {
+        "sounds": [
+            "beholder:beholder"
+        ]
+    },
+    "cover": {
+        "sounds": [
+            "beholder:cover"
+        ]
+    },
+    "life": {
+        "sounds": [
+            "beholder:life"
+        ]
+    },
+    "penetration": {
+        "sounds": [
+            "beholder:penetration"
+        ]
+    },
+    "police": {
+        "sounds": [
+            "beholder:police"
+        ]
+    },
+    "the_end": {
+        "sounds": [
+            "beholder:the_end"
+        ]
+    }
+}
