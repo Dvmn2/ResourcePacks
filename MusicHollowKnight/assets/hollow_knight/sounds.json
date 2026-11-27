@@ -1,0 +1,132 @@
+{
+    "broken_vessel": {
+        "sounds": [
+            "hollow_knight:broken_vessel"
+        ]
+    },
+    "city_of_tears": {
+        "sounds": [
+            "hollow_knight:city_of_tears"
+        ]
+    },
+    "crossroads": {
+        "sounds": [
+            "hollow_knight:crossroads"
+        ]
+    },
+    "crystal_peak": {
+        "sounds": [
+            "hollow_knight:crystal_peak"
+        ]
+    },
+    "decisive_battle": {
+        "sounds": [
+            "hollow_knight:decisive_battle"
+        ]
+    },
+    "dirtmouth": {
+        "sounds": [
+            "hollow_knight:dirtmouth"
+        ]
+    },
+    "dream_battle": {
+        "sounds": [
+            "hollow_knight:dream_battle"
+        ]
+    },
+    "dream": {
+        "sounds": [
+            "hollow_knight:dream"
+        ]
+    },
+    "dung_defender": {
+        "sounds": [
+            "hollow_knight:dung_defender"
+        ]
+    },
+    "enter_hallownest": {
+        "sounds": [
+            "hollow_knight:enter_hallownest"
+        ]
+    },
+    "false_knight": {
+        "sounds": [
+            "hollow_knight:false_knight"
+        ]
+    },
+    "fungal_wastes": {
+        "sounds": [
+            "hollow_knight:fungal_wastes"
+        ]
+    },
+    "greenpath": {
+        "sounds": [
+            "hollow_knight:greenpath"
+        ]
+    },
+    "hollow_knight": {
+        "sounds": [
+            "hollow_knight:hollow_knight"
+        ]
+    },
+    "hornet": {
+        "sounds": [
+            "hollow_knight:hornet"
+        ]
+    },
+    "kingdoms_edge": {
+        "sounds": [
+            "hollow_knight:kingdoms_edge"
+        ]
+    },
+    "mantis_lords": {
+        "sounds": [
+            "hollow_knight:mantis_lords"
+        ]
+    },
+    "nosk": {
+        "sounds": [
+            "hollow_knight:nosk"
+        ]
+    },
+    "queens_gardens": {
+        "sounds": [
+            "hollow_knight:queens_gardens"
+        ]
+    },
+    "radiance": {
+        "sounds": [
+            "hollow_knight:radiance"
+        ]
+    },
+    "reflection": {
+        "sounds": [
+            "hollow_knight:reflection"
+        ]
+    },
+    "resting_grounds": {
+        "sounds": [
+            "hollow_knight:resting_grounds"
+        ]
+    },
+    "sealed_vessel": {
+        "sounds": [
+            "hollow_knight:sealed_vessel"
+        ]
+    },
+    "soul_sanctum": {
+        "sounds": [
+            "hollow_knight:soul_sanctum"
+        ]
+    },
+    "the_white_lady": {
+        "sounds": [
+            "hollow_knight:the_white_lady"
+        ]
+    },
+    "white_palace": {
+        "sounds": [
+            "hollow_knight:white_palace"
+        ]
+    }
+}
