@@ -1,0 +1,82 @@
+{
+    "a_girl_from_pogoren": {
+        "sounds": [
+            "this_war_of_mine:a_girl_from_pogoren"
+        ]
+    },
+    "alone": {
+        "sounds": [
+            "this_war_of_mine:alone"
+        ]
+    },
+    "monday_cigarette": {
+        "sounds": [
+            "this_war_of_mine:monday_cigarette"
+        ]
+    },
+    "never_forget": {
+        "sounds": [
+            "this_war_of_mine:never_forget"
+        ]
+    },
+    "no_good_choice": {
+        "sounds": [
+            "this_war_of_mine:no_good_choice"
+        ]
+    },
+    "some_place_we_called_home": {
+        "sounds": [
+            "this_war_of_mine:some_place_we_called_home"
+        ]
+    },
+    "still_alive_inside": {
+        "sounds": [
+            "this_war_of_mine:still_alive_inside"
+        ]
+    },
+    "thaw": {
+        "sounds": [
+            "this_war_of_mine:thaw"
+        ]
+    },
+    "the_last_goodbye": {
+        "sounds": [
+            "this_war_of_mine:the_last_goodbye"
+        ]
+    },
+    "these_cold_days": {
+        "sounds": [
+            "this_war_of_mine:these_cold_days"
+        ]
+    },
+    "things_right_and_wrong": {
+        "sounds": [
+            "this_war_of_mine:things_right_and_wrong"
+        ]
+    },
+    "this_war_of_mine": {
+        "sounds": [
+            "this_war_of_mine:this_war_of_mine"
+        ]
+    },
+    "time_is_running_out": {
+        "sounds": [
+            "this_war_of_mine:time_is_running_out"
+        ]
+    },
+    "tuned_to_live": {
+        "sounds": [
+            "this_war_of_mine:tuned_to_live"
+        ]
+    },
+    "we_keep_going": {
+        "sounds": [
+            "this_war_of_mine:we_keep_going"
+        ]
+    },
+    "when_the_night_comes": {
+        "sounds": [
+            "this_war_of_mine:when_the_night_comes"
+        ]
+    }
+}
