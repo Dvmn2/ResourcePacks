@@ -9,11 +9,6 @@
             "p:arstotzka_2"
         ]
     },
-    "spirit_of_hospitality": {
-        "sounds": [
-            "p:spirit_of_hospitality"
-        ]
-    },
     "comp_1": {
         "sounds": [
             "p:comp_1"
@@ -39,16 +34,6 @@
             "p:friday"
         ]
     },
-    "resurrections_1": {
-        "sounds": [
-            "p:resurrections_1"
-        ]
-    },
-    "resurrections_2": {
-        "sounds": [
-            "p:resurrections_2"
-        ]
-    },
     "pirate_dojo": {
         "sounds": [
             "p:pirate_dojo"
@@ -67,11 +52,6 @@
     "void": {
         "sounds": [
             "p:void"
-        ]
-    },
-    "death_is_inevitable": {
-        "sounds": [
-            "p:death_is_inevitable"
         ]
     },
     "hotel_elevator": {

@@ -1,0 +1,107 @@
+{
+    "anxiety": {
+        "sounds": [
+            "celeste:anxiety"
+        ]
+    },
+    "awake": {
+        "sounds": [
+            "celeste:awake"
+        ]
+    },
+    "checking_in": {
+        "sounds": [
+            "celeste:checking_in"
+        ]
+    },
+    "confronting_myself": {
+        "sounds": [
+            "celeste:confronting_myself"
+        ]
+    },
+    "exhale": {
+        "sounds": [
+            "celeste:exhale"
+        ]
+    },
+    "first_steps": {
+        "sounds": [
+            "celeste:first_steps"
+        ]
+    },
+    "golden": {
+        "sounds": [
+            "celeste:golden"
+        ]
+    },
+    "heart_of_the_mountain": {
+        "sounds": [
+            "celeste:heart_of_the_mountain"
+        ]
+    },
+    "in_the_mirror": {
+        "sounds": [
+            "celeste:in_the_mirror"
+        ]
+    },
+    "little_goth": {
+        "sounds": [
+            "celeste:little_goth"
+        ]
+    },
+    "madeline_and_theo": {
+        "sounds": [
+            "celeste:madeline_and_theo"
+        ]
+    },
+    "my_dearest_friends": {
+        "sounds": [
+            "celeste:my_dearest_friends"
+        ]
+    },
+    "postcard_from_celeste_mountain": {
+        "sounds": [
+            "celeste:postcard_from_celeste_mountain"
+        ]
+    },
+    "prologue": {
+        "sounds": [
+            "celeste:prologue"
+        ]
+    },
+    "quiet_and_falling": {
+        "sounds": [
+            "celeste:quiet_and_falling"
+        ]
+    },
+    "reach_for_the_summit": {
+        "sounds": [
+            "celeste:reach_for_the_summit"
+        ]
+    },
+    "reflection": {
+        "sounds": [
+            "celeste:reflection"
+        ]
+    },
+    "resurrections": {
+        "sounds": [
+            "celeste:resurrections"
+        ]
+    },
+    "scattered_and_lost": {
+        "sounds": [
+            "celeste:scattered_and_lost"
+        ]
+    },
+    "spirit_of_hospitality": {
+        "sounds": [
+            "celeste:spirit_of_hospitality"
+        ]
+    },
+    "starjump": {
+        "sounds": [
+            "celeste:starjump"
+        ]
+    }
+}
